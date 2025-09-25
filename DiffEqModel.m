@@ -30,23 +30,23 @@ Plate2.L = 1.3e-3; % m
 
 Total_Heat = Internal.Heat + Plate1.Heat + Plate2.Heat + Ribs.Heat;
 
+h_conv = 5; % W/m^2*K Based on general range found via brief googling for viable range
+R_conv = 1/(h_conv*constants.greenhouse.AreaWorking);
 
-R_conv = 0.5;
-
-R_1 = Plate1.L / (constants.greenhouse.structure_k*constants.greenhouse.AreaWorking);
+R_1 = Plate1.L / (constants.greenhouse.structure_k*constants.greenhouse.AreaWorking); % Rounded to 0.001 for ode45
 
 R_2 = Ribs.L / (constants.greenhouse.structure_k*Ribs.A);
 
-R_3 = Plate2.L / (constants.greenhouse.structure_k*constants.greenhouse.AreaWorking);
+R_3 = Plate2.L / (constants.greenhouse.structure_k*constants.greenhouse.AreaWorking); % Rounded to 0.001 for ode45
 
 
 h_c_Al = 42000; % (Chosen for lowest estimate, and thus worst insulation)
-R_contact = 1/(constants.greenhouse.AreaWorking*h_c_Al);
+R_contact = 1/(constants.greenhouse.AreaWorking*h_c_Al); % Neglected further on, as near 0
 
 R_total = R_conv + R_1 + R_2 + R_3 + R_contact;
 
 % Now we create concentric slices of lunar regolith
-num_slices = 200;
+num_slices = 400;
 depth = 2; % Depth we expect heat to penetrate (Determined analytically)
 slice_thickness = depth / num_slices;
 
@@ -89,28 +89,33 @@ Temps = Heats./(masses.*cps);
 
 Q_gen = 50;
 
-% runmodel(masses, cps, Rs, Heats, 32,0,1,0,1);
-runModelTemps(masses, cps, Rs, Heats, 50,0,1,0,2);
-% runmodel(masses, cps, Rs, Heats, 64,0,1,0,3);
-% runmodel(masses, cps, Rs, Heats, 96,0,1,0,4);
-% runmodel(masses, cps, Rs, Heats, 128,0,1,0,5);
 
-runModelHeats(masses, cps, Rs, Heats, 50, 2, constants)
+runModelTemps(masses, cps, Rs, Heats, 50,0,0,0,1,0,1);
+runModelTemps(masses, cps, Rs, Heats, 50,50,1,0,1,0,2);
+runModelTemps(masses, cps, Rs, Heats, 64,0,0,0,1,0,3);
+runModelTemps(masses, cps, Rs, Heats, 64,64,1,0,1,0,4);
 
-semiInfModel(50, constants)
+
+runModelTemps(masses, cps, Rs, Heats, 70,0,0,0,1,0,5);
+runModelTemps(masses, cps, Rs, Heats, 70,70,1,0,1,0,6);
+
+
+% runModelHeats(masses, cps, Rs, Heats, 50, 2, constants)
+
+% semiInfModel(50, constants)
 
 toc()
 
-function runModelTemps(Masses, Cps, Rs, Heats, Q_gen, wallBool, surfaceBool, slicesBool, figNum)
+function runModelTemps(Masses, Cps, Rs, Heats, Q_gen, heatPump, heatersBool, wallBool, surfaceBool, slicesBool, figNum)
 
 figure(figNum)
 hold on
 for i = 1:(15*24)
 
     if(i == 1)
-        [ts,Qs] = ode45(@(t,Qs) oneDHeatFlowModel(Qs, Masses, Cps, Rs, Q_gen, t),[0,i*3600],Heats);
+        [ts,Qs] = ode45(@(t,Qs) oneDWithHeatPump(Qs, Masses, Cps, Rs, Q_gen, heatPump, heatersBool, t),[0,i*3600],Heats);
     else
-        [ts,Qs] = ode45(@(t,Qs) oneDHeatFlowModel(Qs, Masses, Cps, Rs, Q_gen, t),[(i-1)*3600,i*3600],Qs(end,:));
+        [ts,Qs] = ode45(@(t,Qs) oneDWithHeatPump(Qs, Masses, Cps, Rs, Q_gen, heatPump, heatersBool, t),[(i-1)*3600,i*3600],Qs(end,:));
     end
     plot(ts./(24*3600),Qs(:,1)./(Masses(1)*Cps(1))-273.15,Color="b")
 
@@ -121,7 +126,7 @@ for i = 1:(15*24)
     end
 
     if(surfaceBool)
-        plot(ts./(24*3600),Qs(:,4)./(Masses(4)*Cps(4))-273.15,Color="r",LineStyle="-.")
+        plot(ts./(24*3600),Qs(:,5)./(Masses(5)*Cps(5))-273.15,Color="r",LineStyle="-.")
     end
     if(slicesBool)
         for j = 5:length(Rs)
@@ -134,7 +139,9 @@ for i = 1:(15*24)
     if(i == 1)
         yline(28)
         yline(22)
-        title(Q_gen)
+        title("Temp of Internal Atmosphere with " + Q_gen + " (W) Internal Heat Gen and" + heatPump + "(W) Heat Pump")
+        ylabel("C")
+        xlabel("Time (Days)")
     end
 
 end
@@ -163,6 +170,9 @@ end
 
 yline(constants.greenhouse.HeatMin)
 yline(constants.greenhouse.HeatMax)
+title("Total Greenhouse Heat over time with " + Q_gen + " (W) Internal Heat Gen")
+ylabel("Heat (kJ)")
+xlabel("Time (Days)")
 
 hold off
 
