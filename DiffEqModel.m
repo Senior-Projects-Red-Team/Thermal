@@ -8,11 +8,16 @@ close all;
 
 %% Setup
 
+% This loads in a bunch of relevant information about the greenhouse spec's
 constants = loadConstants();
 
 tic();
 
 %% Model
+
+% Here we're doing some setup for the DiffEq Model. Calculating thermal
+% masses, resistances, and initial temperatures of the greenhouse
+% components and of slices of lunar regolith.
 
 median_temp = (constants.greenhouse.max_temp + constants.greenhouse.min_temp)/2;
 
