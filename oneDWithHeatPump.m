@@ -1,29 +1,33 @@
-function [Q_dots] = oneDWithHeatPump(Qs,Masses, Cps, Rs, Q_gen, pump_Max, heatersBool, t)
+function [Q_dots] = oneDWithHeatPump(Qs,Masses, Cps, Rs, Q_gen,Q_Lights, pump_Max, powerMax, heatersBool, t)
 %This function finds the rate of change of heat in each slice, for use in
 %ODE45
 
 Temps = Qs./(Masses.*Cps);
 
-heating_max = 0.9*Q_gen;
+Q_gen_total = Q_gen + Q_Lights;
 
 if( mod((t/3600),24) > 16 )
-    Q_gen = 0.1* Q_gen;
+    Q_gen_total = Q_gen;
 end
-
 
 Entries = length(Qs);
 
 Q_dots = zeros(length(Qs),1);
 
-Q_dots(1) = Q_gen - (Temps(1)-Temps(2))/Rs(1);
+Q_dots(1) = Q_gen_total - (Temps(1)-Temps(2))/Rs(1);
 
 
-
-if(Temps(1) < 24 + 273.15 && Q_dots(1) < 0 && heatersBool)
-    heating = -1 * Q_dots(1);
-    if(heating > heating_max)
-        heating = heating_max;
+if(Temps(1) < 25 + 273.15 && Q_dots(1) < 0 && heatersBool)
+    heatMax = powerMax - Q_gen_total;
+    damping_factor = -Q_dots(1)/(2*heatMax);
+    temp_offset = abs((25 + 273.15) - Temps(1)); % Captures the amount below 25 C we are
+    offset_factor = temp_offset / 3; % Normalizes the offset from 0 -> 1
+    heating_factor = offset_factor + damping_factor;
+    if(heating_factor > 1)
+        heating_factor = 1;
     end
+    heating = heating_factor * heatMax;
+
     Q_dots(1) = Q_dots(1) + heating;
 end
 

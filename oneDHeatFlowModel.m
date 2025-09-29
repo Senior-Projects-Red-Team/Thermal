@@ -16,7 +16,7 @@ end
 
 Q_dots(Entries) = (Temps(Entries-1)-Temps(Entries))/Rs(Entries-1);
 
-Q_dots = Q_dots./1000;
+Q_dots = Q_dots./1000; % Converts from W to kW
 
 
 end

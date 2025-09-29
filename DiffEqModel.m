@@ -90,7 +90,19 @@ Temps = Heats./(masses.*cps);
 Q_gen = 50;
 
 
+[ts,Qs] = ode45(@(t,Qs) oneDWithHeatPump(Qs, masses, cps, Rs, 10, 10, 0, 68, 1, t),[0,15*24*3600],Heats);
+
+figure()
+hold on
+plot(ts./(24*3600),Qs(:,1)./(masses(1)*cps(1))-273.15, Color="b")
+plot(ts./(24*3600),Qs(:,5)./(masses(5)*cps(5))-273.15, Color="r")
+yline(28)
+yline(22)
+hold off
+toc()
+
 runModelTemps(masses, cps, Rs, Heats, 50,0,0,0,1,0,1);
+toc()
 runModelTemps(masses, cps, Rs, Heats, 50,50,1,0,1,0,2);
 runModelTemps(masses, cps, Rs, Heats, 64,0,0,0,1,0,3);
 runModelTemps(masses, cps, Rs, Heats, 64,64,1,0,1,0,4);
@@ -145,6 +157,7 @@ for i = 1:(15*24)
     end
 
 end
+legend(["Internal", "Lunar Surface", "Viable Range"],Location="southeast")
 hold off
 
 end
