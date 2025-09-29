@@ -2,6 +2,10 @@ clc;
 clear;
 close all;
 
+%% Background.
+
+% This is currently the main driver file.
+
 %% Setup
 
 constants = loadConstants();
