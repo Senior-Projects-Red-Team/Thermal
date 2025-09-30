@@ -1,6 +1,8 @@
-function [Q_dots] = oneDWithHeatPump(Qs,Masses, Cps, Rs, Q_gen,Q_Lights, pump_Max, powerMax, heatersBool, t)
+function [Q_dots, heating, powerUse] = oneDWithHeatPump(Qs,Masses, Cps, Rs, Q_gen,Q_Lights, pump_Max, powerMax, heatersBool, t)
 %This function finds the rate of change of heat in each slice, for use in
 %ODE45
+
+heating = 0;
 
 Temps = Qs./(Masses.*Cps);
 
@@ -17,21 +19,24 @@ Q_dots = zeros(length(Qs),1);
 Q_dots(1) = Q_gen_total - (Temps(1)-Temps(2))/Rs(1);
 
 
-if(Temps(1) < 25 + 273.15 && Q_dots(1) < 0 && heatersBool)
+if(Temps(1) < 25 + 273.15 && heatersBool)
     heatMax = powerMax - Q_gen_total;
-    damping_factor = -Q_dots(1)/(2*heatMax);
-    temp_offset = abs((25 + 273.15) - Temps(1)); % Captures the amount below 25 C we are
-    offset_factor = temp_offset / 3; % Normalizes the offset from 0 -> 1
-    heating_factor = offset_factor + damping_factor;
-    if(heating_factor > 1)
-        heating_factor = 1;
-    end
-    heating = heating_factor * heatMax;
+    tempDiff = (25+273.15) - Temps(1);
+    tempDiffRatio = tempDiff / 3; % This will be > 1 if temp goes below 22 degrees.
+    Q_dot_ratio = -1*Q_dots(1) / heatMax; % If the rate of heat flow is more than what the heat can provide, then this is  > 1
+    
+    heating = heatMax*(tempDiffRatio + Q_dot_ratio);
 
-    Q_dots(1) = Q_dots(1) + heating;
+    if(heating > heatMax)
+        heating = heatMax;
+    end
+    if(heating < 0)
+        heating = 0;
+    end
+
 end
 
-
+Q_dots(1) = Q_dots(1) + heating;
 
 if(Temps(1) > (26 + 273.15) && Q_dots(1) > 0 && pump_Max ~= 0)
     to_Pump = Q_dots(1);
@@ -55,8 +60,11 @@ end
 
 Q_dots(Entries) = (Temps(Entries-1)-Temps(Entries))/Rs(Entries-1);
 
+powerUse = heating + Q_gen_total;
 
-
+if(mod(floor(t), 2*3600) == 0)
+    breakpoint = 1;
+end
 
 Q_dots = Q_dots./1000; % Converts from W to kW
 
