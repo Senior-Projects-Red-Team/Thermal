@@ -123,7 +123,7 @@ Q_gen = 50;
 %[ts,Qs] = ode45(@(t,Qs) oneDWithHeatPump(Qs, masses, cps, Rs, 10, 10, 0, 64, 0, t),[0,15*24*3600],Heats);
 q_gen_base = 10;
 q_gen_lights = 10;
-powerMax = 70;
+powerMax = 60;
 heatPumpMax = 0;
 heatersOn = 1;
 
@@ -150,14 +150,19 @@ plot(ts./(24*3600),Qs(:,1)./(masses(1)*cps(1))-273.15, Color="b")
 plot(ts./(24*3600),Qs(:,5)./(masses(5)*cps(5))-273.15, Color="r")
 yline(28)
 yline(22)
+legend(["Internal", "Lunar Surface", "Viable Range"],Location="southeast")
+ylabel("Temperature (C)")
+xlabel("Mission Time (Days)")
 hold off
 
 figure()
 hold on
 grid on;
-plot(ts(1:1000:end)./(24*3600), heating(1:1000:end))
-plot(ts(1:1000:end)./(24*3600), powerUse(1:1000:end))
-legend(["heating", "powerUse"])
+plot(ts(1:10000:end)./(24*3600), heating(1:10000:end))
+plot(ts(1:10000:end)./(24*3600), powerUse(1:10000:end))
+ylabel("Power (Watts)")
+xlabel("Mission Time (Days)")
+legend(["Heaters", "Total Power Use"])
 hold off
 
 total_Power_Use = (sum(powerUse)/15*24*3600)/1000;
