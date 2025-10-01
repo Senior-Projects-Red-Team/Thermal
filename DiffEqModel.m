@@ -36,18 +36,18 @@ median_temp = (constants.greenhouse.max_temp + constants.greenhouse.min_temp)/2;
 Internal.Heat = constants.greenhouse.VolWorking * constants.greenhouse.atm_density * constants.greenhouse.atm_cp * median_temp;
 Internal.Heat = Internal.Heat + (constants.greenhouse.water_mass*constants.greenhouse.water_cp*median_temp);
 
-Plate1.mass = 5.08/2; % Rough Estimate, will fix later.
+Plate1.mass = 6.27/2; % Rough Estimate, will fix later.
 Plate1.Heat = constants.greenhouse.structure_cp*median_temp * Plate1.mass;
-Plate1.L = 0.9e-3; % m
+Plate1.L = 0.5e-3; % m
 
-Ribs.mass = 1.67; % Rough Estimate, will fix later.
+Ribs.mass = 0.1; % Rough Estimate, will fix later.
 Ribs.Heat = constants.greenhouse.structure_cp*median_temp * Ribs.mass;
 Ribs.A = 4e-5; % m^2
 Ribs.L = 20e-3; % m
 
-Plate2.mass = 5.08/2; % Rough Estimate, will fix later.
+Plate2.mass = 6.27/2; % Rough Estimate, will fix later.
 Plate2.Heat = constants.greenhouse.structure_cp*median_temp * Plate2.mass;
-Plate2.L = 1.3e-3; % m
+Plate2.L = 1.67e-3; % m
 
 Total_Heat = Internal.Heat + Plate1.Heat + Plate2.Heat + Ribs.Heat;
 
@@ -125,31 +125,46 @@ q_gen_base = 10;
 q_gen_lights = 10;
 powerMax = 60;
 heatPumpMax = 0;
-heatersOn = 1;
+heatersOn = 0;
 
 
 % options = odeset('OutputFcn', @(t,y,flag) myOutputFcn(t,y,flag, m0, Cload));
 
 
 %options = odeset('Events',heatersOnEvent);
-[ts,Qs] = ode45(@(t,Qs) oneDWithHeatPump(Qs, masses, cps, Rs, q_gen_base, q_gen_lights, heatPumpMax, powerMax, heatersOn, t),[0,15*24*3600],Heats);
+Q_0 = Heats;
+ts_actual = zeros(2e6,1);
+Qs_actual = zeros(2e6,10);
+t_i = 1;
+for i = 1:15*24
+[ts,Qs] = ode45(@(t,Qs) oneDWithHeatPump(Qs, masses, cps, Rs, q_gen_base, q_gen_lights, heatPumpMax, powerMax, heatersOn, t),[(i-1)*3600,i*3600],Q_0);
+ts_actual(t_i: length(ts) + (t_i - 1)) = ts;
+Qs_actual(t_i: length(ts) + (t_i - 1),:) = Qs(:,1:10);
+t_i = t_i + length(ts);
+Q_0 = Qs(end,:);
+end
+
+ts_actual = ts_actual(1:t_i-1);
+Qs_actual = Qs_actual(1:t_i-1,:);
+
 toc()
 
 %Extract extra variables by re-evaluating the ODE function
-Q_dots = 0.*Qs;
-heating = zeros(length(ts),1);
-powerUse = zeros(length(ts),1);
-for i = 1:length(ts)
-    [Q_dots(i,:), heating(i), powerUse(i)] = oneDWithHeatPump(transpose(Qs(i,:)), masses, cps, Rs, q_gen_base, q_gen_lights, heatPumpMax, powerMax, heatersOn, ts(i));
+Q_dots = 0.*Qs_actual;
+heating = zeros(length(ts_actual),1);
+powerUse = zeros(length(ts_actual),1);
+for i = 1:length(ts_actual)
+    [Q_dots(i,:), heating(i), powerUse(i)] = oneDWithHeatPump(transpose(Qs_actual(i,:)), masses(1:10), cps(1:10), Rs(1:10), q_gen_base, q_gen_lights, heatPumpMax, powerMax, heatersOn, ts_actual(i));
 end
 toc()
 
 figure()
 hold on
-plot(ts./(24*3600),Qs(:,1)./(masses(1)*cps(1))-273.15, Color="b")
-plot(ts./(24*3600),Qs(:,5)./(masses(5)*cps(5))-273.15, Color="r")
+plot(ts_actual./(24*3600),Qs_actual(:,1)./(masses(1)*cps(1))-273.15, Color="b")
+plot(ts_actual./(24*3600),Qs_actual(:,5)./(masses(5)*cps(5))-273.15, Color="r")
 yline(28)
 yline(22)
+title("Insulation only 2 cm Vaccuum Gap Insulation (R= 2.1 W/K)")
 legend(["Internal", "Lunar Surface", "Viable Range"],Location="southeast")
 ylabel("Temperature (C)")
 xlabel("Mission Time (Days)")
@@ -158,14 +173,19 @@ hold off
 figure()
 hold on
 grid on;
-plot(ts(1:10000:end)./(24*3600), heating(1:10000:end))
-plot(ts(1:10000:end)./(24*3600), powerUse(1:10000:end))
+plot(ts_actual(1:1000:end)./(24*3600), heating(1:1000:end))
+plot(ts_actual(1:1000:end)./(24*3600), powerUse(1:1000:end))
+title("Power Usage with " + powerMax + " maximum power draw.")
 ylabel("Power (Watts)")
 xlabel("Mission Time (Days)")
 legend(["Heaters", "Total Power Use"])
 hold off
 
 total_Power_Use = (sum(powerUse)/15*24*3600)/1000;
+
+
+
+
 
 % runModelTemps(masses, cps, Rs, Heats, 50,0,0,0,1,0,1);
 % toc()

@@ -22,8 +22,8 @@ Q_dots(1) = Q_gen_total - (Temps(1)-Temps(2))/Rs(1);
 if(Temps(1) < 25 + 273.15 && heatersBool)
     heatMax = powerMax - Q_gen_total;
     tempDiff = (25+273.15) - Temps(1);
-    tempDiffRatio = tempDiff / 3; % This will be > 1 if temp goes below 22 degrees.
-    Q_dot_ratio = -1*Q_dots(1) / heatMax; % If the rate of heat flow is more than what the heat can provide, then this is  > 1
+    tempDiffRatio = tempDiff / 2.5; % Normalized Offset factor (k)
+    Q_dot_ratio = -1*Q_dots(1) / (3*heatMax); % Normalized Damping factor (d) % Creates noise if too high
     
     heating = heatMax*(tempDiffRatio + Q_dot_ratio);
 

@@ -28,8 +28,13 @@ constants.greenhouse.AreaMax = 2*0.5*0.5 + 4*0.5*0.25; % 50 cm, 50cm, 25cm %% Fi
 constants.greenhouse.VolMin = 0.2*0.2*0.1; % m^3
 constants.greenhouse.VolMax = 0.5*0.5*0.25; % m^3
 
-constants.greenhouse.AreaWorking = 6*0.35*0.35;
-constants.greenhouse.VolWorking = 0.35^3;
+
+constants.greenhouse.VolWorking = .03297 ; % m^3
+
+constants.greenhouse.radius = 0.179 ; 
+constants.greenhouse.length = 0.36 ;
+
+constants.greenhouse.AreaWorking = 2*3.1415*constants.greenhouse.radius^2 + 2*3.1415*constants.greenhouse.radius*constants.greenhouse.length;
 
 constants.greenhouse.atm_mass = constants.greenhouse.atm_density * constants.greenhouse.VolWorking;
 
