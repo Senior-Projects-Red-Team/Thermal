@@ -1,5 +1,5 @@
 clc;
-clear;
+%clear;
 close all;
 
 %% Background.
@@ -40,7 +40,7 @@ Plate1.mass = 6.27/2; % Rough Estimate, will fix later.
 Plate1.Heat = constants.greenhouse.structure_cp*median_temp * Plate1.mass;
 Plate1.L = 0.5e-3; % m
 
-Ribs.mass = 0.1; % Rough Estimate, will fix later.
+Ribs.mass = 0.5; % Rough Estimate, will fix later.
 Ribs.Heat = constants.greenhouse.structure_cp*median_temp * Ribs.mass;
 Ribs.A = 4e-5; % m^2
 Ribs.L = 20e-3; % m
@@ -104,18 +104,17 @@ slice_Rs = slice_thickness./(constants.regolith.conductivity*slice_areas);
 %% Combining elements into vectors
 
 
-Heats = [Internal.Heat; Plate1.Heat; Ribs.Heat; Plate2.Heat; slice_heats];
-masses = [constants.greenhouse.water_mass+constants.greenhouse.atm_mass; Plate1.mass; Ribs.mass; Plate2.mass; slice_masses];
+network.Heats = [Internal.Heat; Plate1.Heat; Ribs.Heat; Plate2.Heat; slice_heats];
+network.masses = [constants.greenhouse.water_mass+constants.greenhouse.atm_mass; Plate1.mass; Ribs.mass; Plate2.mass; slice_masses];
 
 greenhouse_cp = (constants.greenhouse.atm_mass*constants.greenhouse.atm_cp + constants.greenhouse.water_cp*constants.greenhouse.water_mass)/(constants.greenhouse.atm_mass + constants.greenhouse.water_mass);
 structure_cps = ones(3,1).*constants.greenhouse.structure_cp;
 slice_cps = ones(num_slices,1).*(constants.regolith.cp/1000);
 
-cps = [greenhouse_cp; structure_cps; slice_cps];
+network.cps = [greenhouse_cp; structure_cps; slice_cps];
 
-Rs = [R_conv; 0.001; R_2; 0.001; slice_Rs];
+network.Rs = [R_conv; 0.001; R_2; 0.001; slice_Rs];
 
-Temps = Heats./(masses.*cps);
 
 Q_gen = 50;
 
@@ -123,49 +122,34 @@ Q_gen = 50;
 %[ts,Qs] = ode45(@(t,Qs) oneDWithHeatPump(Qs, masses, cps, Rs, 10, 10, 0, 64, 0, t),[0,15*24*3600],Heats);
 q_gen_base = 10;
 q_gen_lights = 10;
-powerMax = 60;
+powerMax = 40;
 heatPumpMax = 0;
-heatersOn = 0;
+heatersOn = 1;
+
+[ts_actual, Qs_actual, Q_dots, heating, powerUse] = oneDHeatControlledModel(q_gen_base, q_gen_lights, powerMax, heatPumpMax, heatersOn, network);
+
+powerMax = 50;
+
+[ts_actual_1, Qs_actual_1, Q_dots_1, heating_1, powerUse_1] = oneDHeatControlledModel(q_gen_base, q_gen_lights, powerMax, heatPumpMax, heatersOn, network);
+
+powerMax = 56;
+
+[ts_actual_2, Qs_actual_2, Q_dots_2, heating_2, powerUse_2] = oneDHeatControlledModel(q_gen_base, q_gen_lights, powerMax, heatPumpMax, heatersOn, network);
 
 
-% options = odeset('OutputFcn', @(t,y,flag) myOutputFcn(t,y,flag, m0, Cload));
-
-
-%options = odeset('Events',heatersOnEvent);
-Q_0 = Heats;
-ts_actual = zeros(2e6,1);
-Qs_actual = zeros(2e6,10);
-t_i = 1;
-for i = 1:15*24
-[ts,Qs] = ode45(@(t,Qs) oneDWithHeatPump(Qs, masses, cps, Rs, q_gen_base, q_gen_lights, heatPumpMax, powerMax, heatersOn, t),[(i-1)*3600,i*3600],Q_0);
-ts_actual(t_i: length(ts) + (t_i - 1)) = ts;
-Qs_actual(t_i: length(ts) + (t_i - 1),:) = Qs(:,1:10);
-t_i = t_i + length(ts);
-Q_0 = Qs(end,:);
-end
-
-ts_actual = ts_actual(1:t_i-1);
-Qs_actual = Qs_actual(1:t_i-1,:);
-
-toc()
-
-%Extract extra variables by re-evaluating the ODE function
-Q_dots = 0.*Qs_actual;
-heating = zeros(length(ts_actual),1);
-powerUse = zeros(length(ts_actual),1);
-for i = 1:length(ts_actual)
-    [Q_dots(i,:), heating(i), powerUse(i)] = oneDWithHeatPump(transpose(Qs_actual(i,:)), masses(1:10), cps(1:10), Rs(1:10), q_gen_base, q_gen_lights, heatPumpMax, powerMax, heatersOn, ts_actual(i));
-end
-toc()
 
 figure()
 hold on
-plot(ts_actual./(24*3600),Qs_actual(:,1)./(masses(1)*cps(1))-273.15, Color="b")
-plot(ts_actual./(24*3600),Qs_actual(:,5)./(masses(5)*cps(5))-273.15, Color="r")
+plot(ts_actual./(24*3600),Qs_actual(:,1)./(network.masses(1)*network.cps(1))-273.15, Color="b", LineStyle="--")
+plot(ts_actual_1./(24*3600),Qs_actual_1(:,1)./(network.masses(1)*network.cps(1))-273.15, Color="b", LineStyle=":")
+plot(ts_actual_2./(24*3600),Qs_actual_2(:,1)./(network.masses(1)*network.cps(1))-273.15, Color="b")
+plot(ts_actual_2./(24*3600),Qs_actual_2(:,5)./(network.masses(5)*network.cps(5))-273.15, Color="r")
+
 yline(28)
 yline(22)
-title("Insulation only 2 cm Vaccuum Gap Insulation (R= 2.1 W/K)")
-legend(["Internal", "Lunar Surface", "Viable Range"],Location="southeast")
+title("Active heating, 2 cm Vaccuum Gap Insulation (R= 2.17 W/K)")
+legend(["40 W", "50 W ", "56W" , "Lunar Surface (56 W)", "Viable Range"], Location="southeast")
+
 ylabel("Temperature (C)")
 xlabel("Mission Time (Days)")
 hold off
@@ -173,9 +157,10 @@ hold off
 figure()
 hold on
 grid on;
-plot(ts_actual(1:1000:end)./(24*3600), heating(1:1000:end))
-plot(ts_actual(1:1000:end)./(24*3600), powerUse(1:1000:end))
+plot(ts_actual_2(1:end)./(24*3600), heating_2(1:end), Color="r")
+plot(ts_actual_2(1:end)./(24*3600), powerUse_2(1:end), Color="b")
 title("Power Usage with " + powerMax + " maximum power draw.")
+ylim([0,powerMax*1.1])
 ylabel("Power (Watts)")
 xlabel("Mission Time (Days)")
 legend(["Heaters", "Total Power Use"])
@@ -203,6 +188,44 @@ total_Power_Use = (sum(powerUse)/15*24*3600)/1000;
 % semiInfModel(50, constants)
 
 toc()
+
+
+function [ts_actual, Qs_actual, Q_dots, heating, powerUse] = oneDHeatControlledModel(q_gen_base, q_gen_lights, powerMax, heatPumpMax, heatersOn, network)
+
+masses = network.masses;
+cps = network.cps;
+Rs = network.Rs;
+Heats = network.Heats;
+
+Q_0 = Heats;
+ts_actual = zeros(4e6,1);
+Qs_actual = zeros(4e6,10);
+t_i = 1;
+for i = 1:15*24
+[ts,Qs] = ode45(@(t,Qs) oneDWithHeatPump(Qs, masses, cps, Rs, q_gen_base, q_gen_lights, heatPumpMax, powerMax, heatersOn, t),[(i-1)*3600,i*3600],Q_0);
+ts_actual(t_i: length(ts) + (t_i - 1)) = ts;
+Qs_actual(t_i: length(ts) + (t_i - 1),:) = Qs(:,1:10);
+t_i = t_i + length(ts);
+Q_0 = Qs(end,:);
+end
+toc()
+
+ts_actual = ts_actual(1:50:t_i-1);
+Qs_actual = Qs_actual(1:50:t_i-1,:);
+
+%Extract extra variables by re-evaluating the ODE function
+Q_dots = 0.*Qs_actual;
+heating = zeros(length(ts_actual),1);
+powerUse = zeros(length(ts_actual),1);
+for i = 1:length(ts_actual)
+    [Q_dots(i,:), heating(i), powerUse(i)] = oneDWithHeatPump(transpose(Qs_actual(i,:)), masses(1:10), cps(1:10), Rs(1:10), q_gen_base, q_gen_lights, heatPumpMax, powerMax, heatersOn, ts_actual(i));
+    % floor(100*i/length(ts_actual))
+    % toc()
+end
+toc()
+
+end
+
 
 function runModelTemps(Masses, Cps, Rs, Heats, Q_gen, heatPump, heatersBool, wallBool, surfaceBool, slicesBool, figNum)
 
