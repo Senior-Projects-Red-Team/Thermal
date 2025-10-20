@@ -17,17 +17,20 @@ constants.greenhouse.max_temp = 28 + 273.15; % K
 constants.greenhouse.min_temp = 22 + 273.15; % K
 constants.greenhouse.atm_cp = 1.005; % kJ/kgK % Assuming similar to normal air for now
 constants.greenhouse.structure_cp = 0.921 ; % 0.921 for Aluminum, 0.75 for Carbon Fiber, 1.5 for Kevlar, HDPE 1.3-2.2, all units as kJ/kgK
-constants.greenhouse.structure_k = 237; % W/mK Value for aluminum.
+constants.greenhouse.structure_k = 167; % W/mK Value for aluminum.
 constants.greenhouse.water_cp = 4.18; % kJ/kgK
 constants.greenhouse.atm_density = 1.204; % kg/m^3 Assumes normal air
 constants.greenhouse.water_density = 1000; %kg/m^3
-constants.greenhouse.water_mass = 1; % I'm temporarily assuming 1 kg of water, more specific values needed.
+constants.greenhouse.water_mass = 0.33; % I'm temporarily assuming 1 kg of water, more specific values needed.
 constants.greenhouse.structure_mass = 6.75; % Consult with SE and Structures Teams
 constants.greenhouse.AreaMin = 2*0.2*0.2 + 4*0.2*0.1; % 20cm tall, 20cm long, 10cm wide %% Final answer in m^2
 constants.greenhouse.AreaMax = 2*0.5*0.5 + 4*0.5*0.25; % 50 cm, 50cm, 25cm %% Final answer in m^2
 constants.greenhouse.VolMin = 0.2*0.2*0.1; % m^3
 constants.greenhouse.VolMax = 0.5*0.5*0.25; % m^3
 
+constants.greenhouse.HeaterMass = 0.2; % kg
+constants.greenhouse.Heater_cp = 0.46; % kJ/kgK
+constants.greenhouse.Heater_R = 2.3; % W/K
 
 constants.greenhouse.VolWorking = .03297 ; % m^3
 

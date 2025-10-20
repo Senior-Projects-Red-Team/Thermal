@@ -8,7 +8,7 @@ Temps = Qs./(Masses.*Cps);
 
 Q_gen_total = Q_gen + Q_Lights;
 
-if( mod((t/3600),24) > 16 )
+if( mod((t/3600),24) > 16 ) % Turns off the lights for 8 hours a day.
     Q_gen_total = Q_gen;
 end
 
@@ -16,14 +16,16 @@ Entries = length(Qs);
 
 Q_dots = zeros(length(Qs),1);
 
-Q_dots(1) = Q_gen_total - (Temps(1)-Temps(2))/Rs(1);
+Q_dots(1) = -1.*(Temps(1) - Temps(2))/Rs(1); % Represents the heating element
+
+Q_dots(2) = Q_gen_total + (Temps(1) - Temps(2))/Rs(1) - (Temps(2)-Temps(3))/Rs(2); % Represents the Atmosphere
 
 
-if(Temps(1) < 25 + 273.15 && heatersBool)
+if(Temps(2) < 25 + 273.15 && heatersBool)
     heatMax = powerMax - Q_gen_total;
-    tempDiff = (25+273.15) - Temps(1);
+    tempDiff = (25+273.15) - Temps(2);
     tempDiffRatio = tempDiff / 2.5; % Normalized Offset factor (k)
-    Q_dot_ratio = -1*Q_dots(1) / (3*heatMax); % Normalized Damping factor (d) % Creates noise if too high
+    Q_dot_ratio = -1*Q_dots(2) / (3*heatMax); % Normalized Damping factor (d) % Creates noise if too high
     
     heating = heatMax*(tempDiffRatio + Q_dot_ratio);
 
@@ -36,25 +38,30 @@ if(Temps(1) < 25 + 273.15 && heatersBool)
 
 end
 
-Q_dots(1) = Q_dots(1) + heating;
-
-if(Temps(1) > (26 + 273.15) && Q_dots(1) > 0 && pump_Max ~= 0)
-    to_Pump = Q_dots(1);
-
-    if(to_Pump >= pump_Max)
-        to_Pump = pump_Max;
-    end
-
-    if(to_Pump < 0)
-        to_Pump = 0;
-    end
-
-    Q_dots(1) = Q_dots(1) - to_Pump;
-    Q_dots(4) = Q_dots(4) + to_Pump;
+if(Temps(1) > 90 + 273.15 ) % Prevents heating element from reaching to high a temperature.
+    heating = 0;
 end
 
+Q_dots(1) = Q_dots(1) + heating;
 
-for i= 2:(Entries-1)
+% if(Temps(1) > (26 + 273.15) && Q_dots(1) > 0 && pump_Max ~= 0) % Disabled
+% Heat pump
+%     to_Pump = Q_dots(1);
+% 
+%     if(to_Pump >= pump_Max)
+%         to_Pump = pump_Max;
+%     end
+% 
+%     if(to_Pump < 0)
+%         to_Pump = 0;
+%     end
+% 
+%     Q_dots(1) = Q_dots(1) - to_Pump;
+%     Q_dots(4) = Q_dots(4) + to_Pump;
+% end
+
+
+for i= 3:(Entries-1)
 Q_dots(i) = Q_dots(i) + (Temps(i-1)-Temps(i))/Rs(i-1) - (Temps(i)-Temps(i+1))/Rs(i);
 end
 
@@ -67,7 +74,6 @@ if(mod(floor(t), 2*3600) == 0)
 end
 
 Q_dots = Q_dots./1000; % Converts from W to kW
-
 
 
 end
