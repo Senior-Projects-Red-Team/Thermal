@@ -69,7 +69,7 @@ Q_dots(Entries) = (Temps(Entries-1)-Temps(Entries))/Rs(Entries-1);
 
 powerUse = heating + Q_gen_total;
 
-if(mod(floor(t), 2*3600) == 0)
+if(mod(floor(t), 2*3600) == 0) % Useless code block that activates every 2 hours. A useful breakpoint when debugging
     breakpoint = 1;
 end
 
