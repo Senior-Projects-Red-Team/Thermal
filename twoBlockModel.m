@@ -54,8 +54,8 @@ Qdots_Moon = zeros(length(Rs_Moon),1);
 
 % Internals (Destinations and Plate)
  % Heaters
-Qdots_Destinations(1:2) = Qdots_Destinations(1:2) + (Ts_Heaters(1:2) - Ts_Destinations(1:2))./(Rs_Heaters(1:2));
-Qdots_Destinations(3) = Qdots_Destinations(3) + (Ts_Heaters(3) - Ts_Destinations(3))./Rs_Heaters(3);
+Qdots_Destinations(1:2) = Qdots_Destinations(1:2) + (Ts_Heaters(1:2) - Ts_Destinations(1:2))./(Rs_Heaters(1:2)); % This step models heat flow from heaters to the water and electronics modules
+Qdots_Destinations(3) = Qdots_Destinations(3) + (Ts_Heaters(3) - Ts_Destinations(3))./Rs_Heaters(3); % These two steps model heat flow from heaters to the life support module
 Qdots_Destinations(3) = Qdots_Destinations(3) + (Ts_Heaters(4) - Ts_Destinations(3))./Rs_Heaters(4);
  % Water to Life Support (and Visa Versa)
 Qdots_Destinations(1) = Qdots_Destinations(1) - (Ts_Destinations(1) - Ts_Destinations(3))./Rs_Destinations(1);
@@ -66,14 +66,14 @@ Qdots_Destinations(2) = Qdots_Destinations(2) + Q_gen; % Effect of Electronics
 Qdots_Destinations(2) = Qdots_Destinations(2) - (Ts_Destinations(2) - Ts_Structure(2))./Rs_convWall; % Convection To Walls
 Qdots_Structure(2) = Qdots_Structure(2) + (Ts_Destinations(2) - Ts_Structure(2))./Rs_convWall;
 Qdots_Destinations(2) = Qdots_Destinations(2) - (Ts_Destinations(2) - Ts_Structure(1))./Rs_convPlate; % Convection To Plate
-Qdots_Structure(1) = Qdots_Structure(2) + (Ts_Destinations(2) - Ts_Structure(1))./Rs_convWall;
+Qdots_Structure(1) = Qdots_Structure(1) + (Ts_Destinations(2) - Ts_Structure(1))./Rs_convPlate;
 
  % Life Support Module
 Qdots_Destinations(3) = Qdots_Destinations(3) + Qlights_Actual; % Effect of Lights
 Qdots_Destinations(3) = Qdots_Destinations(3) - (Ts_Destinations(3) - Ts_Structure(2))./Rs_convWall; % Convection To Walls
 Qdots_Structure(2) = Qdots_Structure(2) + (Ts_Destinations(3) - Ts_Structure(2))./Rs_convWall;
 Qdots_Destinations(3) = Qdots_Destinations(3) - (Ts_Destinations(3) - Ts_Structure(1))./Rs_convPlate; % Convection To Plate
-Qdots_Structure(1) = Qdots_Structure(2) + (Ts_Destinations(3) - Ts_Structure(1))./Rs_convWall;
+Qdots_Structure(1) = Qdots_Structure(1) + (Ts_Destinations(3) - Ts_Structure(1))./Rs_convPlate;
 
  
 
@@ -99,9 +99,10 @@ for i = 1:3
         reldT = deltaT / 3;
         relQdots = Qdots_Destinations(i) / (2*heatersMax);
         heating(i) = heating(i) + heatersMax * (relQdots+reldT);
-        if(i == 3) % As we have 2 heaters for this destination we treat heatersMax as 2x its value and apply to both heaters 3 and 4
-            relQdots = Qdots_Destinations(i) / (4*heatersMax);
-            heating(3:4) = heating(3:4) + heatersMax * (relQdots+reldT);
+        if(i == 3)
+            relQdots = Qdots_Destinations(3) / (4*heatersMax);
+            heating(3) = heatersMax * (relQdots+reldT);
+            heating(4) = heatersMax * (relQdots+reldT);
         end
     end
 end

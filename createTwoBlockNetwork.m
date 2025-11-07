@@ -23,9 +23,9 @@ Cps_Structure = zeros(4,1);
 Masses_Structure = zeros(4,1);
 
 Masses_Structure(1) = 3.1415*constants.greenhouse.radius_inner^2*constants.greenhouse.plate_thickness * constants.greenhouse.structure_density;
-Masses_Structure(2) = constants.greenhouse.mass_inner;
+Masses_Structure(2) = constants.greenhouse.mass_inner + 2* constants.greenhouse.mass_cap;
 Masses_Structure(3) = 0.01; % Estimate for testing, will update later
-Masses_Structure(4) = constants.greenhouse.mass_outer;
+Masses_Structure(4) = constants.greenhouse.mass_outer + 2* constants.greenhouse.mass_cap;
 
 Cps_Structure(1:2) = constants.greenhouse.structure_cp;
 Cps_Structure(3) = 1.8; % kj/kg Cp of PLA estimate
@@ -75,7 +75,7 @@ R_convPlate = 1/(h_conv.*3.1415*constants.greenhouse.radius_inner^2);
 %% Moon Slices
 % Now we create concentric slices of lunar regolith
 slice_thickness = 0.005;
-depth = 0.5; % Depth we expect heat to penetrate (Determined analytically)
+depth = 2; % Depth we expect heat to penetrate (Determined analytically)
 num_slices = depth/slice_thickness;
 
 slice_max_area = 4*3.1415927*(((.35/2)+2)^2); % Note that this is spherical

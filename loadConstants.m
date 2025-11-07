@@ -44,7 +44,7 @@ constants.greenhouse.vol_outer = 3.1415 * ((constants.greenhouse.radius_outer+co
 constants.greenhouse.mass_inner = constants.greenhouse.structure_density * constants.greenhouse.vol_inner;
 constants.greenhouse.mass_outer = constants.greenhouse.structure_density * constants.greenhouse.vol_outer;
 
-constants.greenhouse.thickness_cap = 3.4e-5;
+constants.greenhouse.thickness_cap = 3.4e-3; % m;
 constants.greenhouse.vol_cap = 3.1415*constants.greenhouse.radius_outer^2*constants.greenhouse.thickness_cap;
 constants.greenhouse.mass_cap = 2*constants.greenhouse.structure_density*constants.greenhouse.vol_cap;
 

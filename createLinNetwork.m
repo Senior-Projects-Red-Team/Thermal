@@ -70,7 +70,7 @@ slice_areas = transpose(linspace(slice_min_area,slice_max_area,num_slices));
 slice_volumes = slice_thickness.*slice_areas;
 slice_masses = slice_volumes.*constants.regolith.density;
 
-slice_heats = slice_masses.*(constants.regolith.cp/1000).*constants.regolith.Maxtemp;
+slice_heats = slice_masses.*(constants.regolith.cp).*constants.regolith.Maxtemp;
 
 slice_Rs = slice_thickness./(constants.regolith.conductivity*slice_areas);
 
@@ -85,10 +85,11 @@ network.masses = [constants.greenhouse.HeaterMass; greenhouse_mass; Plate1.mass;
 greenhouse_cp = constants.greenhouse.atm_cp;
 %greenhouse_cp = (constants.greenhouse.atm_mass*constants.greenhouse.atm_cp + constants.greenhouse.water_cp*constants.greenhouse.water_mass)/(constants.greenhouse.atm_mass + constants.greenhouse.water_mass);
 structure_cps = ones(3,1).*constants.greenhouse.structure_cp;
-slice_cps = ones(num_slices,1).*(constants.regolith.cp/1000);
+slice_cps = ones(num_slices,1).*(constants.regolith.cp);
 
 network.cps = [constants.greenhouse.Heater_cp;greenhouse_cp; structure_cps; slice_cps];
 
+R_2 = 4.4;
 network.Rs = [constants.greenhouse.Heater_R;R_conv; 0.001; R_2; 0.001; slice_Rs];
 
 end

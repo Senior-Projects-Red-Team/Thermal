@@ -51,7 +51,7 @@ plot(ts_actual_2./(3600),Qs_actual_2(:,6)./(network.masses(6)*network.cps(6))-27
 % 
 yline(28)
 yline(22)
-title("Active heating, 2 cm Vaccuum Gap Insulation (R= 2.17 W/K)")
+title("Active heating, Vacuum Gap Insulation (R= 4.4 W/K)")
 % legend(["40 W", "50 W ", "56W" , "Lunar Surface (56 W)", "Viable Range"], Location="southeast")
 % 
 ylabel("Temperature (C)")
