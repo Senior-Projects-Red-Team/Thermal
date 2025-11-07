@@ -46,8 +46,8 @@ figure()
 hold on
 % plot(ts_actual./(24*3600),Qs_actual(:,1)./(network.masses(1)*network.cps(1))-273.15, Color="b", LineStyle="--")
 % plot(ts_actual_1./(24*3600),Qs_actual_1(:,1)./(network.masses(1)*network.cps(1))-273.15, Color="b", LineStyle=":")
-plot(ts_actual_2./(24*3600),Qs_actual_2(:,2)./(network.masses(2)*network.cps(2))-273.15, Color="b")
-plot(ts_actual_2./(24*3600),Qs_actual_2(:,6)./(network.masses(6)*network.cps(6))-273.15, Color="r")
+plot(ts_actual_2./(3600),Qs_actual_2(:,2)./(network.masses(2)*network.cps(2))-273.15, Color="b")
+plot(ts_actual_2./(3600),Qs_actual_2(:,6)./(network.masses(6)*network.cps(6))-273.15, Color="r")
 % 
 yline(28)
 yline(22)

@@ -12,7 +12,7 @@ h_conv_high = 25;
 median_temp = (constants.greenhouse.max_temp + constants.greenhouse.min_temp)/2;
 
 Internal.Heat = constants.greenhouse.VolWorking * constants.greenhouse.atm_density * constants.greenhouse.atm_cp * median_temp;
-Internal.Heat = Internal.Heat + (constants.greenhouse.water_mass*constants.greenhouse.water_cp*median_temp);
+%Internal.Heat = Internal.Heat + (constants.greenhouse.water_mass*constants.greenhouse.water_cp*median_temp);
 
 Heater_Heat = constants.greenhouse.Heater_cp*constants.greenhouse.HeaterMass * median_temp;
 
@@ -77,11 +77,13 @@ slice_Rs = slice_thickness./(constants.regolith.conductivity*slice_areas);
 
 %% Combining elements into vectors
 
-
+greenhouse_mass = constants.greenhouse.atm_mass;
+%greenhouse_mass = greenhouse_mass + constants.greenhouse.water_mass;
 network.Heats = [Heater_Heat; Internal.Heat; Plate1.Heat; Ribs.Heat; Plate2.Heat; slice_heats];
-network.masses = [constants.greenhouse.HeaterMass; constants.greenhouse.atm_mass+constants.greenhouse.water_mass; Plate1.mass; Ribs.mass; Plate2.mass; slice_masses];
+network.masses = [constants.greenhouse.HeaterMass; greenhouse_mass; Plate1.mass; Ribs.mass; Plate2.mass; slice_masses];
 
-greenhouse_cp = (constants.greenhouse.atm_mass*constants.greenhouse.atm_cp + constants.greenhouse.water_cp*constants.greenhouse.water_mass)/(constants.greenhouse.atm_mass + constants.greenhouse.water_mass);
+greenhouse_cp = constants.greenhouse.atm_cp;
+%greenhouse_cp = (constants.greenhouse.atm_mass*constants.greenhouse.atm_cp + constants.greenhouse.water_cp*constants.greenhouse.water_mass)/(constants.greenhouse.atm_mass + constants.greenhouse.water_mass);
 structure_cps = ones(3,1).*constants.greenhouse.structure_cp;
 slice_cps = ones(num_slices,1).*(constants.regolith.cp/1000);
 

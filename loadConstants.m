@@ -18,26 +18,41 @@ constants.greenhouse.min_temp = 22 + 273.15; % K
 constants.greenhouse.atm_cp = 1.005; % kJ/kgK % Assuming similar to normal air for now
 constants.greenhouse.structure_cp = 0.921 ; % 0.921 for Aluminum, 0.75 for Carbon Fiber, 1.5 for Kevlar, HDPE 1.3-2.2, all units as kJ/kgK
 constants.greenhouse.structure_k = 167; % W/mK Value for aluminum.
+constants.greenhouse.structure_density = 2700; % kg/m^3
 constants.greenhouse.water_cp = 4.18; % kJ/kgK
 constants.greenhouse.atm_density = 1.204; % kg/m^3 Assumes normal air
 constants.greenhouse.water_density = 1000; %kg/m^3
-constants.greenhouse.water_mass = 0.33; % I'm temporarily assuming 1 kg of water, more specific values needed.
+constants.greenhouse.water_mass = 0.075; %
 constants.greenhouse.structure_mass = 6.75; % Consult with SE and Structures Teams
-constants.greenhouse.AreaMin = 2*0.2*0.2 + 4*0.2*0.1; % 20cm tall, 20cm long, 10cm wide %% Final answer in m^2
-constants.greenhouse.AreaMax = 2*0.5*0.5 + 4*0.5*0.25; % 50 cm, 50cm, 25cm %% Final answer in m^2
-constants.greenhouse.VolMin = 0.2*0.2*0.1; % m^3
-constants.greenhouse.VolMax = 0.5*0.5*0.25; % m^3
 
 constants.greenhouse.HeaterMass = 0.2; % kg
 constants.greenhouse.Heater_cp = 0.46; % kJ/kgK
 constants.greenhouse.Heater_R = 2.3; % W/K
+constants.greenhouse.HeaterArea = 0.05*0.1;
 
-constants.greenhouse.VolWorking = .03297 ; % m^3
+constants.greenhouse.radius_inner = 0.179 ; 
+constants.greenhouse.radius_outer = 0.189 ;
+constants.greenhouse.radius_avg = (constants.greenhouse.radius_inner+constants.greenhouse.radius_outer)/2;
+constants.greenhouse.length = 0.36;
 
-constants.greenhouse.radius = 0.179 ; 
-constants.greenhouse.length = 0.36 ;
+constants.greenhouse.plate_thickness = 0.001; % m
 
-constants.greenhouse.AreaWorking = 2*3.1415*constants.greenhouse.radius^2 + 2*3.1415*constants.greenhouse.radius*constants.greenhouse.length;
+constants.greenhouse.thickness_inner = 0.5e-3; % m
+constants.greenhouse.vol_inner = 3.1415 * ((constants.greenhouse.radius_inner+constants.greenhouse.thickness_inner)^2-constants.greenhouse.radius_inner^2) * constants.greenhouse.length;
+constants.greenhouse.thickness_outer = 1.67e-3; % m
+constants.greenhouse.vol_outer = 3.1415 * ((constants.greenhouse.radius_outer+constants.greenhouse.thickness_outer)^2-constants.greenhouse.radius_outer^2) * constants.greenhouse.length;
+constants.greenhouse.mass_inner = constants.greenhouse.structure_density * constants.greenhouse.vol_inner;
+constants.greenhouse.mass_outer = constants.greenhouse.structure_density * constants.greenhouse.vol_outer;
+
+constants.greenhouse.thickness_cap = 3.4e-5;
+constants.greenhouse.vol_cap = 3.1415*constants.greenhouse.radius_outer^2*constants.greenhouse.thickness_cap;
+constants.greenhouse.mass_cap = 2*constants.greenhouse.structure_density*constants.greenhouse.vol_cap;
+
+constants.greenhouse.structure_total_mass = constants.greenhouse.mass_cap + constants.greenhouse.mass_inner + constants.greenhouse.mass_outer;
+
+constants.greenhouse.VolWorking = 3.1415*constants.greenhouse.radius_inner^2 * constants.greenhouse.length;
+
+constants.greenhouse.AreaWorking = 2*3.1415*constants.greenhouse.radius_avg^2 + 2*3.1415*constants.greenhouse.radius_avg*constants.greenhouse.length;
 
 constants.greenhouse.atm_mass = constants.greenhouse.atm_density * constants.greenhouse.VolWorking;
 
