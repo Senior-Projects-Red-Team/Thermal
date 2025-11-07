@@ -37,7 +37,7 @@ Qs_Structure = Masses_Structure.*Cps_Structure.*Greenhouse_Temp;
 Rs_Structure(1) = 0.001; % High value for ode45
 Rs_Structure(2) = 0.328; % Hand Calculated
 Rs_Structure(3) = 4.196; % Hand Calculated
-Rs_Structure(4) = 0.001; % High calue for ode45
+Rs_Structure(4) = 0.01; % High calue for ode45
 
 % Plate = 1; -> 5
 % innerWall = 2; -> 6
@@ -75,7 +75,7 @@ R_convPlate = 1/(h_conv.*3.1415*constants.greenhouse.radius_inner^2);
 %% Moon Slices
 % Now we create concentric slices of lunar regolith
 slice_thickness = 0.005;
-depth = 2; % Depth we expect heat to penetrate (Determined analytically)
+depth = 0.5; % Depth we expect heat to penetrate (Determined analytically)
 num_slices = depth/slice_thickness;
 
 slice_max_area = 4*3.1415927*(((.35/2)+2)^2); % Note that this is spherical
@@ -94,10 +94,10 @@ slice_areas = transpose(linspace(slice_min_area,slice_max_area,num_slices));
 slice_volumes = slice_thickness.*slice_areas;
 slice_masses = slice_volumes.*constants.regolith.density;
 
-slice_heats = slice_masses.*(constants.regolith.cp/1000).*constants.regolith.Maxtemp;
+slice_heats = slice_masses.*(constants.regolith.cp).*constants.regolith.Maxtemp;
 
 slice_Rs = slice_thickness./(constants.regolith.conductivity*slice_areas);
-slice_Cps = zeros(length(slice_Rs),1) + constants.regolith.cp/1000;
+slice_Cps = zeros(length(slice_Rs),1) + constants.regolith.cp;
 
 %% Packing
 
