@@ -1,6 +1,30 @@
 function [Q_dots, heating, powerUse] = twoBlockModel(Qs, Masses, Cps, Rs, Q_gen, Q_Lights, heatersMax, t)
-Qlights_Actual = Q_Lights;
+Qlights_Actual = Q_Lights; % Catches Daytime
 % TODO: Add light cycle
+
+sunset = 20; % Length of a sunset/rise in minutes
+
+t_eff = mod(t,(24*3600)); % gets time in 24 hour increments
+t_eff_hours = t_eff/3600; % Used for debugging.
+
+if(t_eff >= 16*3600) % Catches Sunset
+    light_percentage = 1-(t_eff - 16*3600)/(60*sunset);
+    Qlights_Actual = Q_Lights * light_percentage;
+end
+
+if(t_eff >= 16*3600 + 60*sunset) % Post-Sunset
+    Qlights_Actual = 0;
+end
+
+if(t_eff >= 24*3600 - 60 *sunset) % Catches Sunrise
+    light_percentage = (t_eff - (24*3600 - 60 *sunset))/(60*sunset);
+    Qlights_Actual = Q_Lights * light_percentage;
+end
+
+% if( mod((t/3600),24) > 16 ) % Turns off the lights for 8 hours a day.
+%     Qlights_Actual = 0;
+% end
+
 Q_dots = zeros(length(Qs),1);
 
 %% Unpacking Heaters

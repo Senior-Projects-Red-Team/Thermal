@@ -13,7 +13,7 @@ Q_0 = network.Qs;
 Rs = network.Rs;
 T_0 = Q_0./(Masses.*Cps);
 
-Q_gen = 10;
+Q_gen = 7;
 Q_Lights = 10;
 heatersMax = 15;
 
@@ -24,21 +24,22 @@ tic();
 toc()
 
 
-
-ts_small = ts(1:10:end);
-Qs_small = Qs(1:10:end,:);
+% Cutting the dataset down a bit
+Compression_Factor = 1;
+ts_small = ts(1:Compression_Factor:end);
+Qs_small = Qs(1:Compression_Factor:end,:);
 
 Qdots = zeros(length(ts_small),length(Rs));
 heating = zeros(length(ts_small),4);
 powerUse = zeros(length(ts_small),1);
-Total_Heat_Flow = zeros(length(ts_small),1);
 
 for i = 1:length(ts_small)
     [Qdots(i,:), heating(i,:), powerUse(i)] = twoBlockModel(transpose(Qs_small(i,:)),Masses, Cps, Rs, Q_gen, Q_Lights, heatersMax, ts_small(i));
 end
 
-Qdots = Qdots.*1000;
 
+
+Qdots = Qdots.*1000;
 
 
 
@@ -49,6 +50,21 @@ Ts = 0.*Qs_small;
 for i = 1:20
 Ts(:,i) = Qs_small(:,i)./(Masses(i)*Cps(i));
 end
+
+
+% Smoothing
+
+for k = 1:60:length(ts_small)-60
+    heating(k:k+59,1) = zeros(60,1) + mean(heating(k:k+59,1));
+    heating(k:k+59,2) = zeros(60,1) + mean(heating(k:k+59,2));
+    heating(k:k+59,3) = zeros(60,1) + mean(heating(k:k+59,3));
+    heating(k:k+59,4) = zeros(60,1) + mean(heating(k:k+59,4));
+    powerUse(k:k+59) = zeros(60,1) + mean(powerUse(k:k+59));
+end
+
+
+
+%% Plotting
 
 figure()
 hold on
@@ -61,14 +77,17 @@ yline(28, LineStyle=":")
 legend(["Life Support","Electronics","Regolith","Tolerance"])
 hold off
 
-% colors = ["r","g","b","k"];
-% figure()
-% hold on
-% title("Heater Wattages over Time")
-% for i = 1:4
-%     plot(ts_small/3600, heating(:,i), Color=colors(i))
-% end
-% hold off
+
+
+colors = ["r","g","b","k"];
+figure()
+hold on
+title("Heater Wattages over Time")
+for i = 1:4
+    plot(ts_small/3600, heating(:,i), Color=colors(i))
+end
+legend(["Electronics", "Water", "Life Support(1)", "Life Support (2)"])
+hold off
 
 % figure()
 % hold on
@@ -76,11 +95,11 @@ hold off
 % plot(ts_small/3600, Ts(:,13)-273.15)
 % hold off
 % 
-figure()
-hold on
-title("Q_{Dot} of Life Support over Time")
-plot(ts_small/3600, Qdots(:,13))
-hold off
+% figure()
+% hold on
+% title("Q_{Dot} of Life Support over Time")
+% plot(ts_small/3600, Qdots(:,13))
+% hold off
 % 
 % figure()
 % hold on
@@ -88,11 +107,11 @@ hold off
 % plot(ts_small/3600, Ts(:,12)-273.15)
 % hold off
 % 
-figure()
-hold on
-title("Q_{Dot} of Electronics over Time")
-plot(ts_small/3600, Qdots(:,12))
-hold off
+% figure()
+% hold on
+% title("Q_{Dot} of Electronics over Time")
+% plot(ts_small/3600, Qdots(:,12))
+% hold off
 % 
 % figure()
 % hold on
@@ -100,15 +119,24 @@ hold off
 % plot(ts_small/3600, Ts(:,5)-273.15)
 % hold off
 % 
-figure()
-hold on
-title("Q_{Dot} of Plate over Time")
-plot(ts_small/3600, Qdots(:,5))
-hold off
-% 
 % figure()
 % hold on
-% title("Power Use over Time")
-% plot(ts_small/3600, powerUse)
+% title("Q_{Dot} of Plate over Time")
+% plot(ts_small/3600, Qdots(:,5))
 % hold off
+% 
+figure()
+hold on
+title("Power Use over Time")
+plot(ts_small/3600, powerUse)
+hold off
 
+%% Saving Data
+Recompression_Factor = 20;
+Qs_smaller = Qs_small(1:Recompression_Factor:end,1:30); % Truncating for saving memory when saving
+Temps_smaller = Ts(1:Recompression_Factor:end,1:30); % Truncating for saving memory when saving
+times_smaller = ts(1:Recompression_Factor:end);
+
+filename = "twoBlock.mat";
+clear Q_dots_rel Qs network Qdots Qs_small Ts
+save(filename)
