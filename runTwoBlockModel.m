@@ -62,31 +62,61 @@ for k = 1:60:length(ts_small)-60
     powerUse(k:k+59) = zeros(60,1) + mean(powerUse(k:k+59));
 end
 
-
+totalHeating = 0.*ts_small;
+for k = 1:length(ts_small)
+    totalHeating(k) = sum(heating(k,:));
+end
 
 %% Plotting
 
 figure()
 hold on
-title("Relevant Temperatures Over Time")
-plot(ts_small/3600, Ts(:,13)-273.15, Color="g")
-plot(ts_small/3600, Ts(:,12)-273.15, Color="r")
-plot(ts_small/3600, Ts(:,14)-273.15, Color="b")
+title("Internal Temperatures Over Time")
+plot(ts_small/(24*3600), Ts(:,13)-273.15, Color="g")
+plot(ts_small/(24*3600), Ts(:,12)-273.15, Color="r")
+%plot(ts_small/(24*3600), Ts(:,14)-273.15, Color="b")
+ylim([20,30])
 yline(22, LineStyle=":")
 yline(28, LineStyle=":")
-legend(["Life Support","Electronics","Regolith","Tolerance"])
+legend(["Life Support","Electronics","Tolerance"])
+ylabel("Temperature (^oC)")
+xlabel("Time (Days)")
 hold off
 
-
+figure()
+hold on
+title("Relevant Temperatures Over Time")
+plot(ts_small/(24*3600), Ts(:,13)-273.15, Color="g")
+plot(ts_small/(24*3600), Ts(:,12)-273.15, Color="r")
+plot(ts_small/(24*3600), Ts(:,14)-273.15, Color="b")
+yline(22, LineStyle=":")
+yline(28, LineStyle=":")
+legend(["Life Support","Electronics","Regolith", "Tolerance"])
+ylabel("Temperature (^oC)")
+xlabel("Time (Days)")
+hold off
 
 colors = ["r","g","b","k"];
 figure()
 hold on
 title("Heater Wattages over Time")
 for i = 1:4
-    plot(ts_small/3600, heating(:,i), Color=colors(i))
+    plot(ts_small/(24*3600), heating(:,i), Color=colors(i), LineWidth=2)
 end
-legend(["Electronics", "Water", "Life Support(1)", "Life Support (2)"])
+legend(["Water", "Electronics", "Life Support(1)", "Life Support (2)"])
+ylabel("Power Consumption (Watts)")
+xlabel("Time (Days)")
+hold off
+
+figure()
+hold on
+title("Heater Temps over Time")
+for i = 1:4
+    plot(ts_small/(24*3600), Ts(:,i)-273, Color=colors(i), LineWidth=2)
+end
+legend(["Water", "Electronics", "Life Support(1)", "Life Support (2)"])
+ylabel("Temperature (^oC)")
+xlabel("Time (Days)")
 hold off
 
 % figure()
@@ -128,7 +158,11 @@ hold off
 figure()
 hold on
 title("Power Use over Time")
-plot(ts_small/3600, powerUse)
+plot(ts_small/(24*3600), powerUse, Color="b")
+plot(ts_small/(24*3600), totalHeating, Color="r")
+legend("Total", "Heaters")
+ylabel("Power Consumption (Watts)")
+xlabel("Time (Days)")
 hold off
 
 %% Saving Data
