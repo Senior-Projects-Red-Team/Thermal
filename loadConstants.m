@@ -30,8 +30,8 @@ constants.greenhouse.Heater_cp = 0.46; % kJ/kgK
 constants.greenhouse.Heater_R = 2.3; % W/K
 constants.greenhouse.HeaterArea = 0.05*0.1;
 
-constants.greenhouse.radius_inner = 0.179 ; 
-constants.greenhouse.radius_outer = 0.189 ;
+constants.greenhouse.radius_inner = 0.16 ; 
+constants.greenhouse.radius_outer = 0.17 ;
 constants.greenhouse.radius_avg = (constants.greenhouse.radius_inner+constants.greenhouse.radius_outer)/2;
 constants.greenhouse.length = 0.36;
 

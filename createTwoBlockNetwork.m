@@ -2,8 +2,9 @@ function [network] = createTwoBlockNetwork(constants)
 
 Greenhouse_Temp = 25 + 273.15;
 Regolith_Temp = 125;
-h_conv = 25; % Estimate from research may need to be fixed
-
+h_conv = 25; % Estimate from research may need to be fixed. (Must be >8 for heaters. If < 2 Electronics and Life Support Meaningfully Diverge)
+             % Note that increasing h to 50 did not meaningfully affect the
+             % system.
 %% Heater Properties
 % Water Heater 1 -> 1
 % Electronics Heater 2 -> 2
@@ -34,10 +35,10 @@ Cps_Structure(4) = constants.greenhouse.structure_cp;
 Qs_Structure = Masses_Structure.*Cps_Structure.*Greenhouse_Temp;
 
 % Rs_Structure(1) = constants.greenhouse.plate_thickness / (3.1415*constants.greenhouse.radius_inner^2 * constants.greenhouse.structure_k);
-Rs_Structure(1) = 0.001; % High value for ode45
+Rs_Structure(1) = 0.001; % High value for ode45 (Actually 10^-5)
 Rs_Structure(2) = 0.328; % Hand Calculated
 Rs_Structure(3) = 4.196; % Hand Calculated
-Rs_Structure(4) = 0.01; % High calue for ode45
+Rs_Structure(4) = 0.01; % High value for ode45 (Actually 10^-6)
 
 % Plate = 1; -> 5
 % innerWall = 2; -> 6
@@ -69,7 +70,7 @@ Rs_Internals(1) = 0.5; % Estimate of R from water tank to life support
 
 %% Convective Rs
 
-R_convWall = 1/(h_conv.*(constants.greenhouse.AreaWorking/2)); % Working area is halved as each of top and bottome represent half the area of the wall
+R_convWall = 1/(h_conv.*(constants.greenhouse.AreaWorking/2)); % Working area is halved as each of top and bottom represent half the area of the wall
 R_convPlate = 1/(h_conv.*3.1415*constants.greenhouse.radius_inner^2);
 
 %% Moon Slices
@@ -79,9 +80,27 @@ depth = 2; % Depth we expect heat to penetrate (Determined analytically)
 num_slices = depth/slice_thickness;
 
 slice_max_area = 4*3.1415927*(((.35/2)+2)^2); % Note that this is spherical
-slice_min_area = constants.greenhouse.AreaWorking;
+slice_min_area = constants.greenhouse.AreaWorking; % Note this is cylindrical.
 
-slice_areas = transpose(linspace(slice_min_area,slice_max_area,num_slices));
+radius_max = constants.greenhouse.radius_avg + 2;
+radii = linspace(constants.greenhouse.radius_avg, radius_max, num_slices);
+
+area_ratio = (radii./radius_max).^2;
+
+slice_areas = area_ratio .* slice_max_area + (1-area_ratio).*slice_min_area;
+slice_areas = transpose(slice_areas);
+slice_areas_linear = transpose(linspace(slice_min_area,slice_max_area,num_slices));
+
+figure()
+hold on
+plot(radii, slice_areas_linear)
+plot(radii, slice_areas)
+xlim([0,2.2])
+title("Regolith Slice Cross Sectional Area, Cylindrical to Spherical")
+ylabel("Cross Sectional Area (m^2)")
+xlabel("Radius (m)")
+legend("Linear Interpolation", "r^2 Interpolation")
+hold off
 
 % slice_areas = zeros(num_slices,1);
 % for i = 0:num_slices-1
