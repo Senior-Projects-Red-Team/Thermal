@@ -1,0 +1,1431 @@
+TC 0: 30 degC  TC 1: 29 degC  TC 0% (TMP2: 18.59 degC)
+- Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.05 degC)  Pin6 Electronics: 100% (TMP2: 18.59 degC)
+- Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.05 degC)  Pin6 Electronics: 100% (TMP2: 18.59 degC)
+TC 0: 20 degC  TC 1: 19 degC  TC 2: 19 degC  TC 3: 19 degC  TMP1: 19.09 degC  TMP2: 18.60 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.09 degC)  Pin6 Electronics: 100% (TMP2: 18.60 degC)
+TC 0: 24 degC  TC 1: 26 degC  TC 2: 23 degC  TC 3: 21 degC  TMP1: 19.11 degC  TMP2: 18.61 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.11 degC)  Pin6 Electronics: 100% (TMP2: 18.61 degC)
+TC 0: 24 degC  TC 1: 23 degC  TC 2: 24 degC  TC 3: 24 degC  TMP1: 19.14 degC  TMP2: 18.63 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.14 degC)  Pin6 Electronics: 100% (TMP2: 18.63 degC)
+TC 0: 30 degC  TC 1: 29 degC  TC 2: 29 degC  TC 3: 30 degC  TMP1: 19.16 degC  TMP2: 18.65 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.16 degC)  Pin6 Electronics: 100% (TMP2: 18.65 degC)
+TC 0: 31 degC  TC 1: 30 degC  TC 2: 30 degC  TC 3: 29 degC  TMP1: 19.18 degC  TMP2: 18.67 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.18 degC)  Pin6 Electronics: 100% (TMP2: 18.67 degC)
+TC 0: 30 degC  TC 1: 29 degC  TC 2: 29 degC  TC 3: 29 degC  TMP1: 19.21 degC  TMP2: 18.70 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.21 degC)  Pin6 Electronics: 100% (TMP2: 18.70 degC)
+TC 0: 31 degC  TC 1: 30 degC  TC 2: 30 degC  TC 3: 29 degC  TMP1: 19.23 degC  TMP2: 18.73 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.23 degC)  Pin6 Electronics: 100% (TMP2: 18.73 degC)
+TC 0: 30 degC  TC 1: 29 degC  TC 2: 30 degC  TC 3: 29 degC  TMP1: 19.26 degC  TMP2: 18.75 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.26 degC)  Pin6 Electronics: 100% (TMP2: 18.75 degC)
+TC 0: 29 degC  TC 1: 29 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.28 degC  TMP2: 18.77 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.28 degC)  Pin6 Electronics: 100% (TMP2: 18.77 degC)
+TC 0: 30 degC  TC 1: 29 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.30 degC  TMP2: 18.79 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.30 degC)  Pin6 Electronics: 100% (TMP2: 18.79 degC)
+TC 0: 30 degC  TC 1: 29 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.32 degC  TMP2: 18.80 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.32 degC)  Pin6 Electronics: 100% (TMP2: 18.80 degC)
+TC 0: 32 degC  TC 1: 29 degC  TC 2: 27 degC  TC 3: 29 degC  TMP1: 19.34 degC  TMP2: 18.81 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.34 degC)  Pin6 Electronics: 100% (TMP2: 18.81 degC)
+TC 0: 32 degC  TC 1: 28 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.37 degC  TMP2: 18.83 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.37 degC)  Pin6 Electronics: 100% (TMP2: 18.83 degC)
+TC 0: 30 degC  TC 1: 30 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.39 degC  TMP2: 18.84 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.39 degC)  Pin6 Electronics: 100% (TMP2: 18.84 degC)
+TC 0: 30 degC  TC 1: 29 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.41 degC  TMP2: 18.85 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.41 degC)  Pin6 Electronics: 100% (TMP2: 18.85 degC)
+TC 0: 30 degC  TC 1: 29 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.43 degC  TMP2: 18.87 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.43 degC)  Pin6 Electronics: 100% (TMP2: 18.87 degC)
+TC 0: 32 degC  TC 1: 31 degC  TC 2: 29 degC  TC 3: 29 degC  TMP1: 19.45 degC  TMP2: 18.88 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.45 degC)  Pin6 Electronics: 100% (TMP2: 18.88 degC)
+TC 0: 30 degC  TC 1: 30 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.47 degC  TMP2: 18.88 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.47 degC)  Pin6 Electronics: 100% (TMP2: 18.88 degC)
+TC 0: 29 degC  TC 1: 31 degC  TC 2: 32 degC  TC 3: 29 degC  TMP1: 19.48 degC  TMP2: 18.89 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.48 degC)  Pin6 Electronics: 100% (TMP2: 18.89 degC)
+TC 0: 30 degC  TC 1: 29 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.51 degC  TMP2: 18.91 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.51 degC)  Pin6 Electronics: 100% (TMP2: 18.91 degC)
+TC 0: 30 degC  TC 1: 29 degC  TC 2: 29 degC  TC 3: 29 degC  TMP1: 19.52 degC  TMP2: 18.91 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.52 degC)  Pin6 Electronics: 100% (TMP2: 18.91 degC)
+TC 0: 29 degC  TC 1: 29 degC  TC 2: 30 degC  TC 3: 29 degC  TMP1: 19.55 degC  TMP2: 18.92 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.55 degC)  Pin6 Electronics: 100% (TMP2: 18.92 degC)
+TC 0: 31 degC  TC 1: 30 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.57 degC  TMP2: 18.95 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.57 degC)  Pin6 Electronics: 100% (TMP2: 18.95 degC)
+TC 0: 31 degC  TC 1: 30 degC  TC 2: 31 degC  TC 3: 29 degC  TMP1: 19.60 degC  TMP2: 18.98 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.60 degC)  Pin6 Electronics: 100% (TMP2: 18.98 degC)
+TC 0: 30 degC  TC 1: 29 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.63 degC  TMP2: 19.02 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.63 degC)  Pin6 Electronics: 100% (TMP2: 19.02 degC)
+TC 0: 31 degC  TC 1: 30 degC  TC 2: 30 degC  TC 3: 29 degC  TMP1: 19.66 degC  TMP2: 19.05 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.66 degC)  Pin6 Electronics: 100% (TMP2: 19.05 degC)
+TC 0: 28 degC  TC 1: 31 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.69 degC  TMP2: 19.09 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.69 degC)  Pin6 Electronics: 100% (TMP2: 19.09 degC)
+TC 0: 30 degC  TC 1: 29 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.71 degC  TMP2: 19.10 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.71 degC)  Pin6 Electronics: 100% (TMP2: 19.10 degC)
+TC 0: 30 degC  TC 1: 30 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.74 degC  TMP2: 19.14 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.74 degC)  Pin6 Electronics: 100% (TMP2: 19.14 degC)
+TC 0: 31 degC  TC 1: 30 degC  TC 2: 32 degC  TC 3: 28 degC  TMP1: 19.77 degC  TMP2: 19.16 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.77 degC)  Pin6 Electronics: 100% (TMP2: 19.16 degC)
+TC 0: 29 degC  TC 1: 31 degC  TC 2: 31 degC  TC 3: 31 degC  TMP1: 19.79 degC  TMP2: 19.18 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.79 degC)  Pin6 Electronics: 100% (TMP2: 19.18 degC)
+TC 0: 29 degC  TC 1: 30 degC  TC 2: 31 degC  TC 3: 31 degC  TMP1: 19.81 degC  TMP2: 19.20 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.81 degC)  Pin6 Electronics: 100% (TMP2: 19.20 degC)
+TC 0: 31 degC  TC 1: 30 degC  TC 2: 30 degC  TC 3: 28 degC  TMP1: 19.84 degC  TMP2: 19.22 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.84 degC)  Pin6 Electronics: 100% (TMP2: 19.22 degC)
+TC 0: 31 degC  TC 1: 30 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.86 degC  TMP2: 19.24 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.86 degC)  Pin6 Electronics: 100% (TMP2: 19.24 degC)
+TC 0: 30 degC  TC 1: 30 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.88 degC  TMP2: 19.25 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.88 degC)  Pin6 Electronics: 100% (TMP2: 19.25 degC)
+TC 0: 30 degC  TC 1: 30 degC  TC 2: 30 degC  TC 3: 30 degC  TMP1: 19.91 degC  TMP2: 19.27 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.91 degC)  Pin6 Electronics: 100% (TMP2: 19.27 degC)
+TC 0: 32 degC  TC 1: 31 degC  TC 2: 29 degC  TC 3: 28 degC  TMP1: 19.92 degC  TMP2: 19.27 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.92 degC)  Pin6 Electronics: 100% (TMP2: 19.27 degC)
+TC 0: 30 degC  TC 1: 29 degC  TC 2: 30 degC  TC 3: 29 degC  TMP1: 19.94 degC  TMP2: 19.29 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.94 degC)  Pin6 Electronics: 100% (TMP2: 19.29 degC)
+TC 0: 31 degC  TC 1: 31 degC  TC 2: 31 degC  TC 3: 29 degC  TMP1: 19.96 degC  TMP2: 19.29 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.96 degC)  Pin6 Electronics: 100% (TMP2: 19.29 degC)
+TC 0: 31 degC  TC 1: 29 degC  TC 2: 30 degC  TC 3: 29 degC  TMP1: 19.98 degC  TMP2: 19.30 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.98 degC)  Pin6 Electronics: 100% (TMP2: 19.30 degC)
+TC 0: 31 degC  TC 1: 30 degC  TC 2: 31 degC  TC 3: 29 degC  TMP1: 19.99 degC  TMP2: 19.31 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.99 degC)  Pin6 Electronics: 100% (TMP2: 19.31 degC)
+TC 0: 30 degC  TC 1: 29 degC  TC 2: 30 degC  TC 3: 29 degC  TMP1: 20.01 degC  TMP2: 19.31 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.01 degC)  Pin6 Electronics: 100% (TMP2: 19.31 degC)
+TC 0: 31 degC  TC 1: 30 degC  TC 2: 30 degC  TC 3: 29 degC  TMP1: 20.02 degC  TMP2: 19.32 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.02 degC)  Pin6 Electronics: 100% (TMP2: 19.32 degC)
+TC 0: 32 degC  TC 1: 30 degC  TC 2: 31 degC  TC 3: 29 degC  TMP1: 20.03 degC  TMP2: 19.33 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.03 degC)  Pin6 Electronics: 100% (TMP2: 19.33 degC)
+TC 0: 28 degC  TC 1: 30 degC  TC 2: 31 degC  TC 3: 28 degC  TMP1: 20.05 degC  TMP2: 19.33 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.05 degC)  Pin6 Electronics: 100% (TMP2: 19.33 degC)
+TC 0: 31 degC  TC 1: 30 degC  TC 2: 30 degC  TC 3: 28 degC  TMP1: 20.06 degC  TMP2: 19.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.06 degC)  Pin6 Electronics: 100% (TMP2: 19.34 degC)
+TC 0: 32 degC  TC 1: 28 degC  TC 2: 30 degC  TC 3: 28 degC  TMP1: 20.07 degC  TMP2: 19.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.07 degC)  Pin6 Electronics: 100% (TMP2: 19.34 degC)
+TC 0: 31 degC  TC 1: 30 degC  TC 2: 30 degC  TC 3: 28 degC  TMP1: 20.08 degC  TMP2: 19.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.08 degC)  Pin6 Electronics: 100% (TMP2: 19.34 degC)
+TC 0: 31 degC  TC 1: 30 degC  TC 2: 31 degC  TC 3: 29 degC  TMP1: 20.09 degC  TMP2: 19.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.09 degC)  Pin6 Electronics: 100% (TMP2: 19.34 degC)
+TC 0: 31 degC  TC 1: 29 degC  TC 2: 30 degC  TC 3: 27 degC  TMP1: 20.09 degC  TMP2: 19.35 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.09 degC)  Pin6 Electronics: 100% (TMP2: 19.35 degC)
+TC 0: 31 degC  TC 1: 28 degC  TC 2: 30 degC  TC 3: 27 degC  TMP1: 20.11 degC  TMP2: 19.35 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.11 degC)  Pin6 Electronics: 100% (TMP2: 19.35 degC)
+TC 0: 31 degC  TC 1: 29 degC  TC 2: 32 degC  TC 3: 28 degC  TMP1: 20.12 degC  TMP2: 19.35 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.12 degC)  Pin6 Electronics: 100% (TMP2: 19.35 degC)
+TC 0: 32 degC  TC 1: 32 degC  TC 2: 29 degC  TC 3: 27 degC  TMP1: 20.12 degC  TMP2: 19.35 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.12 degC)  Pin6 Electronics: 100% (TMP2: 19.35 degC)
+TC 0: 30 degC  TC 1: 28 degC  TC 2: 30 degC  TC 3: 26 degC  TMP1: 20.12 degC  TMP2: 19.35 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.12 degC)  Pin6 Electronics: 100% (TMP2: 19.35 degC)
+TC 0: 31 degC  TC 1: 29 degC  TC 2: 31 degC  TC 3: 26 degC  TMP1: 20.13 degC  TMP2: 19.35 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.13 degC)  Pin6 Electronics: 100% (TMP2: 19.35 degC)
+TC 0: 32 degC  TC 1: 29 degC  TC 2: 31 degC  TC 3: 26 degC  TMP1: 20.12 degC  TMP2: 19.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.12 degC)  Pin6 Electronics: 100% (TMP2: 19.34 degC)
+TC 0: 31 degC  TC 1: 31 degC  TC 2: 28 degC  TC 3: 27 degC  TMP1: 20.12 degC  TMP2: 19.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.12 degC)  Pin6 Electronics: 100% (TMP2: 19.34 degC)
+TC 0: 30 degC  TC 1: 25 degC  TC 2: 31 degC  TC 3: 26 degC  TMP1: 20.12 degC  TMP2: 19.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.12 degC)  Pin6 Electronics: 100% (TMP2: 19.34 degC)
+TC 0: 30 degC  TC 1: 26 degC  TC 2: 31 degC  TC 3: 25 degC  TMP1: 20.13 degC  TMP2: 19.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.13 degC)  Pin6 Electronics: 100% (TMP2: 19.34 degC)
+TC 0: 30 degC  TC 1: 27 degC  TC 2: 31 degC  TC 3: 25 degC  TMP1: 20.12 degC  TMP2: 19.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.12 degC)  Pin6 Electronics: 100% (TMP2: 19.34 degC)
+TC 0: 29 degC  TC 1: 28 degC  TC 2: 31 degC  TC 3: 25 degC  TMP1: 20.12 degC  TMP2: 19.33 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.12 degC)  Pin6 Electronics: 100% (TMP2: 19.33 degC)
+TC 0: 32 degC  TC 1: 26 degC  TC 2: 29 degC  TC 3: 25 degC  TMP1: 20.12 degC  TMP2: 19.32 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.12 degC)  Pin6 Electronics: 100% (TMP2: 19.32 degC)
+TC 0: 31 degC  TC 1: 27 degC  TC 2: 31 degC  TC 3: 22 degC  TMP1: 20.11 degC  TMP2: 19.31 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.11 degC)  Pin6 Electronics: 100% (TMP2: 19.31 degC)
+TC 0: 30 degC  TC 1: 26 degC  TC 2: 30 degC  TC 3: 24 degC  TMP1: 20.10 degC  TMP2: 19.30 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.10 degC)  Pin6 Electronics: 100% (TMP2: 19.30 degC)
+TC 0: 32 degC  TC 1: 27 degC  TC 2: 31 degC  TC 3: 22 degC  TMP1: 20.09 degC  TMP2: 19.30 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.09 degC)  Pin6 Electronics: 100% (TMP2: 19.30 degC)
+TC 0: 31 degC  TC 1: 26 degC  TC 2: 30 degC  TC 3: 23 degC  TMP1: 20.09 degC  TMP2: 19.29 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.09 degC)  Pin6 Electronics: 100% (TMP2: 19.29 degC)
+TC 0: 32 degC  TC 1: 24 degC  TC 2: 31 degC  TC 3: 24 degC  TMP1: 20.08 degC  TMP2: 19.28 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.08 degC)  Pin6 Electronics: 100% (TMP2: 19.28 degC)
+TC 0: 28 degC  TC 1: 25 degC  TC 2: 31 degC  TC 3: 24 degC  TMP1: 20.07 degC  TMP2: 19.27 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.07 degC)  Pin6 Electronics: 100% (TMP2: 19.27 degC)
+TC 0: 31 degC  TC 1: 25 degC  TC 2: 30 degC  TC 3: 22 degC  TMP1: 20.05 degC  TMP2: 19.25 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.05 degC)  Pin6 Electronics: 100% (TMP2: 19.25 degC)
+TC 0: 31 degC  TC 1: 25 degC  TC 2: 29 degC  TC 3: 20 degC  TMP1: 20.05 degC  TMP2: 19.23 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.05 degC)  Pin6 Electronics: 100% (TMP2: 19.23 degC)
+TC 0: 31 degC  TC 1: 25 degC  TC 2: 30 degC  TC 3: 22 degC  TMP1: 20.04 degC  TMP2: 19.23 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.04 degC)  Pin6 Electronics: 100% (TMP2: 19.23 degC)
+TC 0: 31 degC  TC 1: 24 degC  TC 2: 30 degC  TC 3: 21 degC  TMP1: 20.02 degC  TMP2: 19.21 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.02 degC)  Pin6 Electronics: 100% (TMP2: 19.21 degC)
+TC 0: 31 degC  TC 1: 22 degC  TC 2: 27 degC  TC 3: 22 degC  TMP1: 20.02 degC  TMP2: 19.19 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.02 degC)  Pin6 Electronics: 100% (TMP2: 19.19 degC)
+TC 0: 32 degC  TC 1: 27 degC  TC 2: 29 degC  TC 3: 22 degC  TMP1: 20.00 degC  TMP2: 19.17 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.00 degC)  Pin6 Electronics: 100% (TMP2: 19.17 degC)
+TC 0: 30 degC  TC 1: 23 degC  TC 2: 30 degC  TC 3: 21 degC  TMP1: 19.98 degC  TMP2: 19.16 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.98 degC)  Pin6 Electronics: 100% (TMP2: 19.16 degC)
+TC 0: 32 degC  TC 1: 22 degC  TC 2: 28 degC  TC 3: 21 degC  TMP1: 19.98 degC  TMP2: 19.14 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.98 degC)  Pin6 Electronics: 100% (TMP2: 19.14 degC)
+TC 0: 31 degC  TC 1: 22 degC  TC 2: 29 degC  TC 3: 21 degC  TMP1: 19.96 degC  TMP2: 19.12 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.96 degC)  Pin6 Electronics: 100% (TMP2: 19.12 degC)
+TC 0: 31 degC  TC 1: 24 degC  TC 2: 30 degC  TC 3: 20 degC  TMP1: 19.95 degC  TMP2: 19.10 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.95 degC)  Pin6 Electronics: 100% (TMP2: 19.10 degC)
+TC 0: 31 degC  TC 1: 24 degC  TC 2: 30 degC  TC 3: 21 degC  TMP1: 19.93 degC  TMP2: 19.08 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.93 degC)  Pin6 Electronics: 100% (TMP2: 19.08 degC)
+TC 0: 29 degC  TC 1: 23 degC  TC 2: 30 degC  TC 3: 21 degC  TMP1: 19.91 degC  TMP2: 19.05 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.91 degC)  Pin6 Electronics: 100% (TMP2: 19.05 degC)
+TC 0: 31 degC  TC 1: 22 degC  TC 2: 30 degC  TC 3: 21 degC  TMP1: 19.91 degC  TMP2: 19.04 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.91 degC)  Pin6 Electronics: 100% (TMP2: 19.04 degC)
+TC 0: 31 degC  TC 1: 22 degC  TC 2: 31 degC  TC 3: 19 degC  TMP1: 19.89 degC  TMP2: 19.01 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.89 degC)  Pin6 Electronics: 100% (TMP2: 19.01 degC)
+TC 0: 31 degC  TC 1: 22 degC  TC 2: 30 degC  TC 3: 19 degC  TMP1: 19.87 degC  TMP2: 18.98 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.87 degC)  Pin6 Electronics: 100% (TMP2: 18.98 degC)
+TC 0: 31 degC  TC 1: 22 degC  TC 2: 28 degC  TC 3: 18 degC  TMP1: 19.86 degC  TMP2: 18.97 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.86 degC)  Pin6 Electronics: 100% (TMP2: 18.97 degC)
+TC 0: 30 degC  TC 1: 21 degC  TC 2: 29 degC  TC 3: 19 degC  TMP1: 19.84 degC  TMP2: 18.94 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.84 degC)  Pin6 Electronics: 100% (TMP2: 18.94 degC)
+TC 0: 30 degC  TC 1: 21 degC  TC 2: 29 degC  TC 3: 19 degC  TMP1: 19.83 degC  TMP2: 18.91 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.83 degC)  Pin6 Electronics: 100% (TMP2: 18.91 degC)
+TC 0: 30 degC  TC 1: 22 degC  TC 2: 30 degC  TC 3: 18 degC  TMP1: 19.81 degC  TMP2: 18.88 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.81 degC)  Pin6 Electronics: 100% (TMP2: 18.88 degC)
+TC 0: 31 degC  TC 1: 22 degC  TC 2: 30 degC  TC 3: 19 degC  TMP1: 19.80 degC  TMP2: 18.85 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.80 degC)  Pin6 Electronics: 100% (TMP2: 18.85 degC)
+TC 0: 31 degC  TC 1: 22 degC  TC 2: 30 degC  TC 3: 18 degC  TMP1: 19.77 degC  TMP2: 18.84 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.77 degC)  Pin6 Electronics: 100% (TMP2: 18.84 degC)
+TC 0: 31 degC  TC 1: 21 degC  TC 2: 29 degC  TC 3: 19 degC  TMP1: 19.76 degC  TMP2: 18.80 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.76 degC)  Pin6 Electronics: 100% (TMP2: 18.80 degC)
+TC 0: 31 degC  TC 1: 21 degC  TC 2: 30 degC  TC 3: 18 degC  TMP1: 19.74 degC  TMP2: 18.77 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.74 degC)  Pin6 Electronics: 100% (TMP2: 18.77 degC)
+TC 0: 31 degC  TC 1: 21 degC  TC 2: 29 degC  TC 3: 18 degC  TMP1: 19.72 degC  TMP2: 18.73 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.72 degC)  Pin6 Electronics: 100% (TMP2: 18.73 degC)
+TC 0: 29 degC  TC 1: 20 degC  TC 2: 30 degC  TC 3: 19 degC  TMP1: 19.70 degC  TMP2: 18.70 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.70 degC)  Pin6 Electronics: 100% (TMP2: 18.70 degC)
+TC 0: 31 degC  TC 1: 20 degC  TC 2: 30 degC  TC 3: 19 degC  TMP1: 19.69 degC  TMP2: 18.66 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.69 degC)  Pin6 Electronics: 100% (TMP2: 18.66 degC)
+TC 0: 30 degC  TC 1: 20 degC  TC 2: 30 degC  TC 3: 18 degC  TMP1: 19.66 degC  TMP2: 18.62 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.66 degC)  Pin6 Electronics: 100% (TMP2: 18.62 degC)
+TC 0: 30 degC  TC 1: 19 degC  TC 2: 30 degC  TC 3: 18 degC  TMP1: 19.64 degC  TMP2: 18.60 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.64 degC)  Pin6 Electronics: 100% (TMP2: 18.60 degC)
+TC 0: 30 degC  TC 1: 19 degC  TC 2: 29 degC  TC 3: 17 degC  TMP1: 19.62 degC  TMP2: 18.56 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.62 degC)  Pin6 Electronics: 100% (TMP2: 18.56 degC)
+TC 0: 31 degC  TC 1: 20 degC  TC 2: 32 degC  TC 3: 15 degC  TMP1: 19.61 degC  TMP2: 18.53 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.61 degC)  Pin6 Electronics: 100% (TMP2: 18.53 degC)
+TC 0: 30 degC  TC 1: 19 degC  TC 2: 29 degC  TC 3: 16 degC  TMP1: 19.59 degC  TMP2: 18.49 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.59 degC)  Pin6 Electronics: 100% (TMP2: 18.49 degC)
+TC 0: 28 degC  TC 1: 19 degC  TC 2: 30 degC  TC 3: 17 degC  TMP1: 19.56 degC  TMP2: 18.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.56 degC)  Pin6 Electronics: 100% (TMP2: 18.45 degC)
+TC 0: 29 degC  TC 1: 16 degC  TC 2: 30 degC  TC 3: 18 degC  TMP1: 19.54 degC  TMP2: 18.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.54 degC)  Pin6 Electronics: 100% (TMP2: 18.41 degC)
+TC 0: 31 degC  TC 1: 19 degC  TC 2: 29 degC  TC 3: 16 degC  TMP1: 19.52 degC  TMP2: 18.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.52 degC)  Pin6 Electronics: 100% (TMP2: 18.37 degC)
+TC 0: 29 degC  TC 1: 20 degC  TC 2: 28 degC  TC 3: 17 degC  TMP1: 19.50 degC  TMP2: 18.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.50 degC)  Pin6 Electronics: 100% (TMP2: 18.34 degC)
+TC 0: 30 degC  TC 1: 19 degC  TC 2: 30 degC  TC 3: 16 degC  TMP1: 19.48 degC  TMP2: 18.30 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.48 degC)  Pin6 Electronics: 100% (TMP2: 18.30 degC)
+TC 0: 30 degC  TC 1: 19 degC  TC 2: 32 degC  TC 3: 17 degC  TMP1: 19.45 degC  TMP2: 18.27 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.45 degC)  Pin6 Electronics: 100% (TMP2: 18.27 degC)
+TC 0: 30 degC  TC 1: 18 degC  TC 2: 29 degC  TC 3: 17 degC  TMP1: 19.43 degC  TMP2: 18.23 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.43 degC)  Pin6 Electronics: 100% (TMP2: 18.23 degC)
+TC 0: 29 degC  TC 1: 18 degC  TC 2: 30 degC  TC 3: 17 degC  TMP1: 19.41 degC  TMP2: 18.18 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.41 degC)  Pin6 Electronics: 100% (TMP2: 18.18 degC)
+TC 0: 30 degC  TC 1: 17 degC  TC 2: 28 degC  TC 3: 16 degC  TMP1: 19.38 degC  TMP2: 18.13 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.38 degC)  Pin6 Electronics: 100% (TMP2: 18.13 degC)
+TC 0: 31 degC  TC 1: 18 degC  TC 2: 28 degC  TC 3: 13 degC  TMP1: 19.36 degC  TMP2: 18.09 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.36 degC)  Pin6 Electronics: 100% (TMP2: 18.09 degC)
+TC 0: 31 degC  TC 1: 19 degC  TC 2: 28 degC  TC 3: 14 degC  TMP1: 19.34 degC  TMP2: 18.05 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.34 degC)  Pin6 Electronics: 100% (TMP2: 18.05 degC)
+TC 0: 32 degC  TC 1: 16 degC  TC 2: 29 degC  TC 3: 16 degC  TMP1: 19.31 degC  TMP2: 18.01 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.31 degC)  Pin6 Electronics: 100% (TMP2: 18.01 degC)
+TC 0: 32 degC  TC 1: 16 degC  TC 2: 29 degC  TC 3: 16 degC  TMP1: 19.29 degC  TMP2: 17.96 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.29 degC)  Pin6 Electronics: 100% (TMP2: 17.96 degC)
+TC 0: 30 degC  TC 1: 18 degC  TC 2: 30 degC  TC 3: 15 degC  TMP1: 19.27 degC  TMP2: 17.91 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.27 degC)  Pin6 Electronics: 100% (TMP2: 17.91 degC)
+TC 0: 32 degC  TC 1: 16 degC  TC 2: 29 degC  TC 3: 16 degC  TMP1: 19.25 degC  TMP2: 17.87 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.25 degC)  Pin6 Electronics: 100% (TMP2: 17.87 degC)
+TC 0: 30 degC  TC 1: 17 degC  TC 2: 29 degC  TC 3: 15 degC  TMP1: 19.22 degC  TMP2: 17.83 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.22 degC)  Pin6 Electronics: 100% (TMP2: 17.83 degC)
+TC 0: 29 degC  TC 1: 16 degC  TC 2: 29 degC  TC 3: 16 degC  TMP1: 19.20 degC  TMP2: 17.78 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.20 degC)  Pin6 Electronics: 100% (TMP2: 17.78 degC)
+TC 0: 30 degC  TC 1: 16 degC  TC 2: 28 degC  TC 3: 15 degC  TMP1: 19.17 degC  TMP2: 17.73 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.17 degC)  Pin6 Electronics: 100% (TMP2: 17.73 degC)
+TC 0: 30 degC  TC 1: 17 degC  TC 2: 29 degC  TC 3: 17 degC  TMP1: 19.15 degC  TMP2: 17.69 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.15 degC)  Pin6 Electronics: 100% (TMP2: 17.69 degC)
+TC 0: 29 degC  TC 1: 15 degC  TC 2: 29 degC  TC 3: 16 degC  TMP1: 19.12 degC  TMP2: 17.64 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.12 degC)  Pin6 Electronics: 100% (TMP2: 17.64 degC)
+TC 0: 30 degC  TC 1: 16 degC  TC 2: 29 degC  TC 3: 15 degC  TMP1: 19.09 degC  TMP2: 17.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.09 degC)  Pin6 Electronics: 100% (TMP2: 17.59 degC)
+TC 0: 31 degC  TC 1: 15 degC  TC 2: 29 degC  TC 3: 16 degC  TMP1: 19.07 degC  TMP2: 17.54 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.07 degC)  Pin6 Electronics: 100% (TMP2: 17.54 degC)
+TC 0: 29 degC  TC 1: 16 degC  TC 2: 28 degC  TC 3: 14 degC  TMP1: 19.05 degC  TMP2: 17.50 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.05 degC)  Pin6 Electronics: 100% (TMP2: 17.50 degC)
+TC 0: 30 degC  TC 1: 16 degC  TC 2: 28 degC  TC 3: 14 degC  TMP1: 19.02 degC  TMP2: 17.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.02 degC)  Pin6 Electronics: 100% (TMP2: 17.45 degC)
+TC 0: 29 degC  TC 1: 17 degC  TC 2: 29 degC  TC 3: 15 degC  TMP1: 18.99 degC  TMP2: 17.40 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.99 degC)  Pin6 Electronics: 100% (TMP2: 17.40 degC)
+TC 0: 29 degC  TC 1: 16 degC  TC 2: 29 degC  TC 3: 14 degC  TMP1: 18.96 degC  TMP2: 17.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.96 degC)  Pin6 Electronics: 100% (TMP2: 17.34 degC)
+TC 0: 30 degC  TC 1: 15 degC  TC 2: 28 degC  TC 3: 14 degC  TMP1: 18.94 degC  TMP2: 17.30 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.94 degC)  Pin6 Electronics: 100% (TMP2: 17.30 degC)
+TC 0: 29 degC  TC 1: 15 degC  TC 2: 28 degC  TC 3: 14 degC  TMP1: 18.91 degC  TMP2: 17.23 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.91 degC)  Pin6 Electronics: 100% (TMP2: 17.23 degC)
+TC 0: 30 degC  TC 1: 16 degC  TC 2: 30 degC  TC 3: 12 degC  TMP1: 18.87 degC  TMP2: 17.20 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.87 degC)  Pin6 Electronics: 100% (TMP2: 17.20 degC)
+TC 0: 30 degC  TC 1: 14 degC  TC 2: 27 degC  TC 3: 14 degC  TMP1: 18.85 degC  TMP2: 17.14 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.85 degC)  Pin6 Electronics: 100% (TMP2: 17.14 degC)
+TC 0: 29 degC  TC 1: 15 degC  TC 2: 28 degC  TC 3: 14 degC  TMP1: 18.83 degC  TMP2: 17.09 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.83 degC)  Pin6 Electronics: 100% (TMP2: 17.09 degC)
+TC 0: 30 degC  TC 1: 15 degC  TC 2: 29 degC  TC 3: 15 degC  TMP1: 18.80 degC  TMP2: 17.03 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.80 degC)  Pin6 Electronics: 100% (TMP2: 17.03 degC)
+TC 0: 30 degC  TC 1: 15 degC  TC 2: 29 degC  TC 3: 13 degC  TMP1: 18.77 degC  TMP2: 16.97 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.77 degC)  Pin6 Electronics: 100% (TMP2: 16.97 degC)
+TC 0: 28 degC  TC 1: 15 degC  TC 2: 29 degC  TC 3: 14 degC  TMP1: 18.74 degC  TMP2: 16.92 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.74 degC)  Pin6 Electronics: 100% (TMP2: 16.92 degC)
+TC 0: 31 degC  TC 1: 16 degC  TC 2: 31 degC  TC 3: 12 degC  TMP1: 18.71 degC  TMP2: 16.87 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.71 degC)  Pin6 Electronics: 100% (TMP2: 16.87 degC)
+TC 0: 30 degC  TC 1: 14 degC  TC 2: 28 degC  TC 3: 13 degC  TMP1: 18.69 degC  TMP2: 16.82 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.69 degC)  Pin6 Electronics: 100% (TMP2: 16.82 degC)
+TC 0: 32 degC  TC 1: 13 degC  TC 2: 27 degC  TC 3: 13 degC  TMP1: 18.66 degC  TMP2: 16.77 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.66 degC)  Pin6 Electronics: 100% (TMP2: 16.77 degC)
+TC 0: 28 degC  TC 1: 12 degC  TC 2: 29 degC  TC 3: 14 degC  TMP1: 18.63 degC  TMP2: 16.72 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.63 degC)  Pin6 Electronics: 100% (TMP2: 16.72 degC)
+TC 0: 30 degC  TC 1: 14 degC  TC 2: 27 degC  TC 3: 9 degC  TMP1: 18.60 degC  TMP2: 16.67 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.60 degC)  Pin6 Electronics: 100% (TMP2: 16.67 degC)
+TC 0: 29 degC  TC 1: 14 degC  TC 2: 28 degC  TC 3: 14 degC  TMP1: 18.58 degC  TMP2: 16.61 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.58 degC)  Pin6 Electronics: 100% (TMP2: 16.61 degC)
+TC 0: 31 degC  TC 1: 13 degC  TC 2: 27 degC  TC 3: 13 degC  TMP1: 18.54 degC  TMP2: 16.54 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.54 degC)  Pin6 Electronics: 100% (TMP2: 16.54 degC)
+TC 0: 29 degC  TC 1: 13 degC  TC 2: 27 degC  TC 3: 12 degC  TMP1: 18.52 degC  TMP2: 16.49 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.52 degC)  Pin6 Electronics: 100% (TMP2: 16.49 degC)
+TC 0: 29 degC  TC 1: 13 degC  TC 2: 28 degC  TC 3: 12 degC  TMP1: 18.48 degC  TMP2: 16.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.48 degC)  Pin6 Electronics: 100% (TMP2: 16.42 degC)
+TC 0: 28 degC  TC 1: 14 degC  TC 2: 29 degC  TC 3: 13 degC  TMP1: 18.45 degC  TMP2: 16.35 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.45 degC)  Pin6 Electronics: 100% (TMP2: 16.35 degC)
+TC 0: 30 degC  TC 1: 13 degC  TC 2: 27 degC  TC 3: 12 degC  TMP1: 18.42 degC  TMP2: 16.31 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.42 degC)  Pin6 Electronics: 100% (TMP2: 16.31 degC)
+TC 0: 29 degC  TC 1: 13 degC  TC 2: 28 degC  TC 3: 13 degC  TMP1: 18.40 degC  TMP2: 16.23 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.40 degC)  Pin6 Electronics: 100% (TMP2: 16.23 degC)
+TC 0: 32 degC  TC 1: 11 degC  TC 2: 27 degC  TC 3: 12 degC  TMP1: 18.36 degC  TMP2: 16.20 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.36 degC)  Pin6 Electronics: 100% (TMP2: 16.20 degC)
+TC 0: 31 degC  TC 1: 14 degC  TC 2: 28 degC  TC 3: 12 degC  TMP1: 18.33 degC  TMP2: 16.12 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.33 degC)  Pin6 Electronics: 100% (TMP2: 16.12 degC)
+TC 0: 30 degC  TC 1: 13 degC  TC 2: 28 degC  TC 3: 12 degC  TMP1: 18.30 degC  TMP2: 16.09 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.30 degC)  Pin6 Electronics: 100% (TMP2: 16.09 degC)
+TC 0: 31 degC  TC 1: 11 degC  TC 2: 27 degC  TC 3: 12 degC  TMP1: 18.27 degC  TMP2: 16.01 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.27 degC)  Pin6 Electronics: 100% (TMP2: 16.01 degC)
+TC 0: 30 degC  TC 1: 13 degC  TC 2: 28 degC  TC 3: 11 degC  TMP1: 18.24 degC  TMP2: 15.96 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.24 degC)  Pin6 Electronics: 100% (TMP2: 15.96 degC)
+TC 0: 30 degC  TC 1: 11 degC  TC 2: 25 degC  TC 3: 12 degC  TMP1: 18.21 degC  TMP2: 15.91 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.21 degC)  Pin6 Electronics: 100% (TMP2: 15.91 degC)
+TC 0: 30 degC  TC 1: 13 degC  TC 2: 27 degC  TC 3: 11 degC  TMP1: 18.18 degC  TMP2: 15.84 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.18 degC)  Pin6 Electronics: 100% (TMP2: 15.84 degC)
+TC 0: 29 degC  TC 1: 11 degC  TC 2: 26 degC  TC 3: 12 degC  TMP1: 18.14 degC  TMP2: 15.77 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.14 degC)  Pin6 Electronics: 100% (TMP2: 15.77 degC)
+TC 0: 27 degC  TC 1: 10 degC  TC 2: 25 degC  TC 3: 8 degC  TMP1: 18.12 degC  TMP2: 15.72 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.12 degC)  Pin6 Electronics: 100% (TMP2: 15.72 degC)
+TC 0: 29 degC  TC 1: 11 degC  TC 2: 26 degC  TC 3: 9 degC  TMP1: 18.09 degC  TMP2: 15.68 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.09 degC)  Pin6 Electronics: 100% (TMP2: 15.68 degC)
+TC 0: 27 degC  TC 1: 10 degC  TC 2: 26 degC  TC 3: 10 degC  TMP1: 18.05 degC  TMP2: 15.64 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.05 degC)  Pin6 Electronics: 100% (TMP2: 15.64 degC)
+TC 0: 27 degC  TC 1: 10 degC  TC 2: 25 degC  TC 3: 9 degC  TMP1: 18.03 degC  TMP2: 15.58 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.03 degC)  Pin6 Electronics: 100% (TMP2: 15.58 degC)
+TC 0: 25 degC  TC 1: 10 degC  TC 2: 26 degC  TC 3: 10 degC  TMP1: 17.99 degC  TMP2: 15.53 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.99 degC)  Pin6 Electronics: 100% (TMP2: 15.53 degC)
+TC 0: 27 degC  TC 1: 10 degC  TC 2: 26 degC  TC 3: 9 degC  TMP1: 17.96 degC  TMP2: 15.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.96 degC)  Pin6 Electronics: 100% (TMP2: 15.47 degC)
+TC 0: 28 degC  TC 1: 13 degC  TC 2: 22 degC  TC 3: 10 degC  TMP1: 17.93 degC  TMP2: 15.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.93 degC)  Pin6 Electronics: 100% (TMP2: 15.41 degC)
+TC 0: 28 degC  TC 1: 11 degC  TC 2: 25 degC  TC 3: 6 degC  TMP1: 17.91 degC  TMP2: 15.35 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.91 degC)  Pin6 Electronics: 100% (TMP2: 15.35 degC)
+TC 0: 27 degC  TC 1: 9 degC  TC 2: 25 degC  TC 3: 9 degC  TMP1: 17.87 degC  TMP2: 15.29 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.87 degC)  Pin6 Electronics: 100% (TMP2: 15.29 degC)
+TC 0: 26 degC  TC 1: 10 degC  TC 2: 28 degC  TC 3: 7 degC  TMP1: 17.84 degC  TMP2: 15.23 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.84 degC)  Pin6 Electronics: 100% (TMP2: 15.23 degC)
+TC 0: 27 degC  TC 1: 9 degC  TC 2: 25 degC  TC 3: 8 degC  TMP1: 17.82 degC  TMP2: 15.18 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.82 degC)  Pin6 Electronics: 100% (TMP2: 15.18 degC)
+TC 0: 30 degC  TC 1: 7 degC  TC 2: 26 degC  TC 3: 11 degC  TMP1: 17.78 degC  TMP2: 15.13 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.78 degC)  Pin6 Electronics: 100% (TMP2: 15.13 degC)
+TC 0: 27 degC  TC 1: 9 degC  TC 2: 25 degC  TC 3: 8 degC  TMP1: 17.76 degC  TMP2: 15.06 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.76 degC)  Pin6 Electronics: 100% (TMP2: 15.06 degC)
+TC 0: 27 degC  TC 1: 9 degC  TC 2: 25 degC  TC 3: 9 degC  TMP1: 17.73 degC  TMP2: 14.98 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.73 degC)  Pin6 Electronics: 100% (TMP2: 14.98 degC)
+TC 0: 27 degC  TC 1: 10 degC  TC 2: 25 degC  TC 3: 8 degC  TMP1: 17.70 degC  TMP2: 14.95 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.70 degC)  Pin6 Electronics: 100% (TMP2: 14.95 degC)
+TC 0: 27 degC  TC 1: 10 degC  TC 2: 28 degC  TC 3: 5 degC  TMP1: 17.67 degC  TMP2: 14.88 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.67 degC)  Pin6 Electronics: 100% (TMP2: 14.88 degC)
+TC 0: 27 degC  TC 1: 10 degC  TC 2: 26 degC  TC 3: 8 degC  TMP1: 17.63 degC  TMP2: 14.82 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.63 degC)  Pin6 Electronics: 100% (TMP2: 14.82 degC)
+TC 0: 27 degC  TC 1: 9 degC  TC 2: 25 degC  TC 3: 9 degC  TMP1: 17.60 degC  TMP2: 14.77 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.60 degC)  Pin6 Electronics: 100% (TMP2: 14.77 degC)
+TC 0: 26 degC  TC 1: 6 degC  TC 2: 25 degC  TC 3: 9 degC  TMP1: 17.57 degC  TMP2: 14.73 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.57 degC)  Pin6 Electronics: 100% (TMP2: 14.73 degC)
+TC 0: 25 degC  TC 1: 8 degC  TC 2: 25 degC  TC 3: 8 degC  TMP1: 17.54 degC  TMP2: 14.67 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.54 degC)  Pin6 Electronics: 100% (TMP2: 14.67 degC)
+TC 0: 27 degC  TC 1: 9 degC  TC 2: 24 degC  TC 3: 7 degC  TMP1: 17.51 degC  TMP2: 14.60 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.51 degC)  Pin6 Electronics: 100% (TMP2: 14.60 degC)
+TC 0: 26 degC  TC 1: 8 degC  TC 2: 24 degC  TC 3: 8 degC  TMP1: 17.48 degC  TMP2: 14.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.48 degC)  Pin6 Electronics: 100% (TMP2: 14.55 degC)
+TC 0: 27 degC  TC 1: 8 degC  TC 2: 24 degC  TC 3: 7 degC  TMP1: 17.45 degC  TMP2: 14.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.45 degC)  Pin6 Electronics: 100% (TMP2: 14.48 degC)
+TC 0: 27 degC  TC 1: 9 degC  TC 2: 26 degC  TC 3: 5 degC  TMP1: 17.42 degC  TMP2: 14.44 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.42 degC)  Pin6 Electronics: 100% (TMP2: 14.44 degC)
+TC 0: 27 degC  TC 1: 8 degC  TC 2: 24 degC  TC 3: 7 degC  TMP1: 17.39 degC  TMP2: 14.38 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.39 degC)  Pin6 Electronics: 100% (TMP2: 14.38 degC)
+TC 0: 27 degC  TC 1: 8 degC  TC 2: 25 degC  TC 3: 8 degC  TMP1: 17.37 degC  TMP2: 14.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.37 degC)  Pin6 Electronics: 100% (TMP2: 14.34 degC)
+TC 0: 27 degC  TC 1: 8 degC  TC 2: 25 degC  TC 3: 8 degC  TMP1: 17.33 degC  TMP2: 14.30 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.33 degC)  Pin6 Electronics: 100% (TMP2: 14.30 degC)
+TC 0: 26 degC  TC 1: 9 degC  TC 2: 26 degC  TC 3: 6 degC  TMP1: 17.30 degC  TMP2: 14.23 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.30 degC)  Pin6 Electronics: 100% (TMP2: 14.23 degC)
+TC 0: 27 degC  TC 1: 8 degC  TC 2: 24 degC  TC 3: 7 degC  TMP1: 17.28 degC  TMP2: 14.17 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.28 degC)  Pin6 Electronics: 100% (TMP2: 14.17 degC)
+TC 0: 27 degC  TC 1: 7 degC  TC 2: 23 degC  TC 3: 7 degC  TMP1: 17.26 degC  TMP2: 14.13 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.26 degC)  Pin6 Electronics: 100% (TMP2: 14.13 degC)
+TC 0: 27 degC  TC 1: 9 degC  TC 2: 25 degC  TC 3: 8 degC  TMP1: 17.23 degC  TMP2: 14.07 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.23 degC)  Pin6 Electronics: 100% (TMP2: 14.07 degC)
+TC 0: 27 degC  TC 1: 8 degC  TC 2: 25 degC  TC 3: 7 degC  TMP1: 17.19 degC  TMP2: 14.01 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.19 degC)  Pin6 Electronics: 100% (TMP2: 14.01 degC)
+TC 0: 26 degC  TC 1: 7 degC  TC 2: 24 degC  TC 3: 7 degC  TMP1: 17.16 degC  TMP2: 13.95 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.16 degC)  Pin6 Electronics: 100% (TMP2: 13.95 degC)
+TC 0: 30 degC  TC 1: 6 degC  TC 2: 24 degC  TC 3: 8 degC  TMP1: 17.14 degC  TMP2: 13.88 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.14 degC)  Pin6 Electronics: 100% (TMP2: 13.88 degC)
+TC 0: 27 degC  TC 1: 8 degC  TC 2: 24 degC  TC 3: 7 degC  TMP1: 17.11 degC  TMP2: 13.84 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.11 degC)  Pin6 Electronics: 100% (TMP2: 13.84 degC)
+TC 0: 26 degC  TC 1: 8 degC  TC 2: 24 degC  TC 3: 7 degC  TMP1: 17.08 degC  TMP2: 13.78 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.08 degC)  Pin6 Electronics: 100% (TMP2: 13.78 degC)
+TC 0: 26 degC  TC 1: 11 degC  TC 2: 23 degC  TC 3: 7 degC  TMP1: 17.04 degC  TMP2: 13.73 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.04 degC)  Pin6 Electronics: 100% (TMP2: 13.73 degC)
+TC 0: 26 degC  TC 1: 7 degC  TC 2: 24 degC  TC 3: 7 degC  TMP1: 17.01 degC  TMP2: 13.66 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.01 degC)  Pin6 Electronics: 100% (TMP2: 13.66 degC)
+TC 0: 28 degC  TC 1: 6 degC  TC 2: 23 degC  TC 3: 7 degC  TMP1: 16.98 degC  TMP2: 13.60 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.98 degC)  Pin6 Electronics: 100% (TMP2: 13.60 degC)
+TC 0: 27 degC  TC 1: 7 degC  TC 2: 24 degC  TC 3: 7 degC  TMP1: 16.95 degC  TMP2: 13.53 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.95 degC)  Pin6 Electronics: 100% (TMP2: 13.53 degC)
+TC 0: 27 degC  TC 1: 7 degC  TC 2: 23 degC  TC 3: 6 degC  TMP1: 16.91 degC  TMP2: 13.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.91 degC)  Pin6 Electronics: 100% (TMP2: 13.45 degC)
+TC 0: 27 degC  TC 1: 6 degC  TC 2: 21 degC  TC 3: 6 degC  TMP1: 16.89 degC  TMP2: 13.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.89 degC)  Pin6 Electronics: 100% (TMP2: 13.41 degC)
+TC 0: 25 degC  TC 1: 7 degC  TC 2: 24 degC  TC 3: 7 degC  TMP1: 16.86 degC  TMP2: 13.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.86 degC)  Pin6 Electronics: 100% (TMP2: 13.34 degC)
+TC 0: 26 degC  TC 1: 6 degC  TC 2: 23 degC  TC 3: 6 degC  TMP1: 16.82 degC  TMP2: 13.30 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.82 degC)  Pin6 Electronics: 100% (TMP2: 13.30 degC)
+TC 0: 26 degC  TC 1: 7 degC  TC 2: 24 degC  TC 3: 7 degC  TMP1: 16.80 degC  TMP2: 13.25 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.80 degC)  Pin6 Electronics: 100% (TMP2: 13.25 degC)
+TC 0: 27 degC  TC 1: 7 degC  TC 2: 26 degC  TC 3: 5 degC  TMP1: 16.77 degC  TMP2: 13.21 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.77 degC)  Pin6 Electronics: 100% (TMP2: 13.21 degC)
+TC 0: 27 degC  TC 1: 7 degC  TC 2: 24 degC  TC 3: 6 degC  TMP1: 16.73 degC  TMP2: 13.15 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.73 degC)  Pin6 Electronics: 100% (TMP2: 13.15 degC)
+TC 0: 26 degC  TC 1: 7 degC  TC 2: 24 degC  TC 3: 5 degC  TMP1: 16.70 degC  TMP2: 13.07 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.70 degC)  Pin6 Electronics: 100% (TMP2: 13.07 degC)
+TC 0: 28 degC  TC 1: 5 degC  TC 2: 23 degC  TC 3: 5 degC  TMP1: 16.66 degC  TMP2: 13.00 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.66 degC)  Pin6 Electronics: 100% (TMP2: 13.00 degC)
+TC 0: 27 degC  TC 1: 5 degC  TC 2: 22 degC  TC 3: 6 degC  TMP1: 16.62 degC  TMP2: 12.97 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.62 degC)  Pin6 Electronics: 100% (TMP2: 12.97 degC)
+TC 0: 27 degC  TC 1: 7 degC  TC 2: 23 degC  TC 3: 5 degC  TMP1: 16.59 degC  TMP2: 12.92 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.59 degC)  Pin6 Electronics: 100% (TMP2: 12.92 degC)
+TC 0: 22 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: 2 degC  TMP1: 16.55 degC  TMP2: 12.84 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.55 degC)  Pin6 Electronics: 100% (TMP2: 12.84 degC)
+TC 0: 22 degC  TC 1: 4 degC  TC 2: 17 degC  TC 3: 1 degC  TMP1: 16.52 degC  TMP2: 12.79 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.52 degC)  Pin6 Electronics: 100% (TMP2: 12.79 degC)
+TC 0: 21 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: 2 degC  TMP1: 16.50 degC  TMP2: 12.70 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.50 degC)  Pin6 Electronics: 100% (TMP2: 12.70 degC)
+TC 0: 20 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: 3 degC  TMP1: 16.47 degC  TMP2: 12.67 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.47 degC)  Pin6 Electronics: 100% (TMP2: 12.67 degC)
+TC 0: 22 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: 4 degC  TMP1: 16.44 degC  TMP2: 12.61 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.44 degC)  Pin6 Electronics: 100% (TMP2: 12.61 degC)
+TC 0: 19 degC  TC 1: 1 degC  TC 2: 19 degC  TC 3: 2 degC  TMP1: 16.40 degC  TMP2: 12.53 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.40 degC)  Pin6 Electronics: 100% (TMP2: 12.53 degC)
+TC 0: 22 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: 2 degC  TMP1: 16.36 degC  TMP2: 12.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.36 degC)  Pin6 Electronics: 100% (TMP2: 12.48 degC)
+TC 0: 22 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: 1 degC  TMP1: 16.34 degC  TMP2: 12.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.34 degC)  Pin6 Electronics: 100% (TMP2: 12.43 degC)
+TC 0: 19 degC  TC 1: 3 degC  TC 2: 19 degC  TC 3: 2 degC  TMP1: 16.30 degC  TMP2: 12.38 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.30 degC)  Pin6 Electronics: 100% (TMP2: 12.38 degC)
+TC 0: 21 degC  TC 1: 2 degC  TC 2: 18 degC  TC 3: 1 degC  TMP1: 16.27 degC  TMP2: 12.28 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.27 degC)  Pin6 Electronics: 100% (TMP2: 12.28 degC)
+TC 0: 22 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: 1 degC  TMP1: 16.24 degC  TMP2: 12.23 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.24 degC)  Pin6 Electronics: 100% (TMP2: 12.23 degC)
+TC 0: 21 degC  TC 1: 1 degC  TC 2: 18 degC  TC 3: 1 degC  TMP1: 16.20 degC  TMP2: 12.18 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.20 degC)  Pin6 Electronics: 100% (TMP2: 12.18 degC)
+TC 0: 22 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: 1 degC  TMP1: 16.17 degC  TMP2: 12.12 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.17 degC)  Pin6 Electronics: 100% (TMP2: 12.12 degC)
+TC 0: 21 degC  TC 1: 1 degC  TC 2: 18 degC  TC 3: 1 degC  TMP1: 16.13 degC  TMP2: 12.03 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.13 degC)  Pin6 Electronics: 100% (TMP2: 12.03 degC)
+TC 0: 22 degC  TC 1: 2 degC  TC 2: 18 degC  TC 3: 1 degC  TMP1: 16.10 degC  TMP2: 11.98 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.10 degC)  Pin6 Electronics: 100% (TMP2: 11.98 degC)
+TC 0: 22 degC  TC 1: 0 degC  TC 2: 18 degC  TC 3: 2 degC  TMP1: 16.07 degC  TMP2: 11.95 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.07 degC)  Pin6 Electronics: 100% (TMP2: 11.95 degC)
+TC 0: 22 degC  TC 1: 1 degC  TC 2: 18 degC  TC 3: 1 degC  TMP1: 16.02 degC  TMP2: 11.88 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.02 degC)  Pin6 Electronics: 100% (TMP2: 11.88 degC)
+TC 0: 22 degC  TC 1: 2 degC  TC 2: 21 degC  TC 3: 0 degC  TMP1: 15.99 degC  TMP2: 11.83 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.99 degC)  Pin6 Electronics: 100% (TMP2: 11.83 degC)
+TC 0: 21 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: 2 degC  TMP1: 15.95 degC  TMP2: 11.76 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.95 degC)  Pin6 Electronics: 100% (TMP2: 11.76 degC)
+TC 0: 22 degC  TC 1: 3 degC  TC 2: 17 degC  TC 3: 1 degC  TMP1: 15.91 degC  TMP2: 11.69 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.91 degC)  Pin6 Electronics: 100% (TMP2: 11.69 degC)
+TC 0: 22 degC  TC 1: 3 degC  TC 2: 16 degC  TC 3: 0 degC  TMP1: 15.88 degC  TMP2: 11.64 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.88 degC)  Pin6 Electronics: 100% (TMP2: 11.64 degC)
+TC 0: 22 degC  TC 1: 3 degC  TC 2: 16 degC  TC 3: 2 degC  TMP1: 15.84 degC  TMP2: 11.58 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.84 degC)  Pin6 Electronics: 100% (TMP2: 11.58 degC)
+TC 0: 20 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: 0 degC  TMP1: 15.80 degC  TMP2: 11.50 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.80 degC)  Pin6 Electronics: 100% (TMP2: 11.50 degC)
+TC 0: 21 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -2 degC  TMP1: 15.77 degC  TMP2: 11.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.77 degC)  Pin6 Electronics: 100% (TMP2: 11.43 degC)
+TC 0: 22 degC  TC 1: 1 degC  TC 2: 18 degC  TC 3: 1 degC  TMP1: 15.73 degC  TMP2: 11.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.73 degC)  Pin6 Electronics: 100% (TMP2: 11.37 degC)
+TC 0: 21 degC  TC 1: 1 degC  TC 2: 17 degC  TC 3: 0 degC  TMP1: 15.70 degC  TMP2: 11.32 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.70 degC)  Pin6 Electronics: 100% (TMP2: 11.32 degC)
+TC 0: 23 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: 1 degC  TMP1: 15.66 degC  TMP2: 11.26 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.66 degC)  Pin6 Electronics: 100% (TMP2: 11.26 degC)
+TC 0: 21 degC  TC 1: -1 degC  TC 2: 18 degC  TC 3: 2 degC  TMP1: 15.63 degC  TMP2: 11.19 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.63 degC)  Pin6 Electronics: 100% (TMP2: 11.19 degC)
+TC 0: 20 degC  TC 1: 0 degC  TC 2: 18 degC  TC 3: 1 degC  TMP1: 15.59 degC  TMP2: 11.13 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.59 degC)  Pin6 Electronics: 100% (TMP2: 11.13 degC)
+TC 0: 21 degC  TC 1: 1 degC  TC 2: 18 degC  TC 3: 1 degC  TMP1: 15.55 degC  TMP2: 11.07 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.55 degC)  Pin6 Electronics: 100% (TMP2: 11.07 degC)
+TC 0: 21 degC  TC 1: 1 degC  TC 2: 18 degC  TC 3: 1 degC  TMP1: 15.51 degC  TMP2: 11.02 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.51 degC)  Pin6 Electronics: 100% (TMP2: 11.02 degC)
+TC 0: 21 degC  TC 1: 1 degC  TC 2: 18 degC  TC 3: 1 degC  TMP1: 15.46 degC  TMP2: 10.95 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.46 degC)  Pin6 Electronics: 100% (TMP2: 10.95 degC)
+TC 0: 21 degC  TC 1: 1 degC  TC 2: 16 degC  TC 3: -2 degC  TMP1: 15.42 degC  TMP2: 10.88 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.42 degC)  Pin6 Electronics: 100% (TMP2: 10.88 degC)
+TC 0: 22 degC  TC 1: 3 degC  TC 2: 16 degC  TC 3: 0 degC  TMP1: 15.38 degC  TMP2: 10.81 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.38 degC)  Pin6 Electronics: 100% (TMP2: 10.81 degC)
+TC 0: 19 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -1 degC  TMP1: 15.34 degC  TMP2: 10.79 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.34 degC)  Pin6 Electronics: 100% (TMP2: 10.79 degC)
+TC 0: 21 degC  TC 1: 1 degC  TC 2: 19 degC  TC 3: -3 degC  TMP1: 15.30 degC  TMP2: 10.73 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.30 degC)  Pin6 Electronics: 100% (TMP2: 10.73 degC)
+TC 0: 21 degC  TC 1: 1 degC  TC 2: 19 degC  TC 3: 3 degC  TMP1: 15.26 degC  TMP2: 10.67 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.26 degC)  Pin6 Electronics: 100% (TMP2: 10.67 degC)
+TC 0: 21 degC  TC 1: -1 degC  TC 2: 18 degC  TC 3: 1 degC  TMP1: 15.21 degC  TMP2: 10.61 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.21 degC)  Pin6 Electronics: 100% (TMP2: 10.61 degC)
+TC 0: 21 degC  TC 1: 0 degC  TC 2: 18 degC  TC 3: 0 degC  TMP1: 15.16 degC  TMP2: 10.56 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.16 degC)  Pin6 Electronics: 100% (TMP2: 10.56 degC)
+TC 0: 20 degC  TC 1: 0 degC  TC 2: 17 degC  TC 3: 0 degC  TMP1: 15.13 degC  TMP2: 10.50 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.13 degC)  Pin6 Electronics: 100% (TMP2: 10.50 degC)
+TC 0: 21 degC  TC 1: 0 degC  TC 2: 17 degC  TC 3: 0 degC  TMP1: 15.09 degC  TMP2: 10.44 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.09 degC)  Pin6 Electronics: 100% (TMP2: 10.44 degC)
+TC 0: 21 degC  TC 1: 0 degC  TC 2: 17 degC  TC 3: -1 degC  TMP1: 15.05 degC  TMP2: 10.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.05 degC)  Pin6 Electronics: 100% (TMP2: 10.39 degC)
+TC 0: 21 degC  TC 1: -1 degC  TC 2: 16 degC  TC 3: -1 degC  TMP1: 14.99 degC  TMP2: 10.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.99 degC)  Pin6 Electronics: 100% (TMP2: 10.34 degC)
+TC 0: 21 degC  TC 1: -1 degC  TC 2: 15 degC  TC 3: 0 degC  TMP1: 14.94 degC  TMP2: 10.30 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.94 degC)  Pin6 Electronics: 100% (TMP2: 10.30 degC)
+TC 0: 19 degC  TC 1: 0 degC  TC 2: 17 degC  TC 3: -1 degC  TMP1: 14.88 degC  TMP2: 10.24 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.88 degC)  Pin6 Electronics: 100% (TMP2: 10.24 degC)
+TC 0: 21 degC  TC 1: 0 degC  TC 2: 17 degC  TC 3: -1 degC  TMP1: 14.83 degC  TMP2: 10.19 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.83 degC)  Pin6 Electronics: 100% (TMP2: 10.19 degC)
+TC 0: 21 degC  TC 1: -1 degC  TC 2: 17 degC  TC 3: 0 degC  TMP1: 14.77 degC  TMP2: 10.13 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.77 degC)  Pin6 Electronics: 100% (TMP2: 10.13 degC)
+TC 0: 19 degC  TC 1: -1 degC  TC 2: 17 degC  TC 3: -2 degC  TMP1: 14.71 degC  TMP2: 10.08 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.71 degC)  Pin6 Electronics: 100% (TMP2: 10.08 degC)
+TC 0: 19 degC  TC 1: -4 degC  TC 2: 16 degC  TC 3: -2 degC  TMP1: 14.66 degC  TMP2: 10.01 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.66 degC)  Pin6 Electronics: 100% (TMP2: 10.01 degC)
+TC 0: 20 degC  TC 1: 0 degC  TC 2: 16 degC  TC 3: -2 degC  TMP1: 14.63 degC  TMP2: 9.96 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.63 degC)  Pin6 Electronics: 100% (TMP2: 9.96 degC)
+TC 0: 21 degC  TC 1: -1 degC  TC 2: 16 degC  TC 3: -3 degC  TMP1: 14.60 degC  TMP2: 9.97 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.60 degC)  Pin6 Electronics: 100% (TMP2: 9.97 degC)
+TC 0: 20 degC  TC 1: -2 degC  TC 2: 15 degC  TC 3: -3 degC  TMP1: 14.58 degC  TMP2: 10.02 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.58 degC)  Pin6 Electronics: 100% (TMP2: 10.02 degC)
+TC 0: 21 degC  TC 1: -1 degC  TC 2: 15 degC  TC 3: -3 degC  TMP1: 14.59 degC  TMP2: 10.17 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.59 degC)  Pin6 Electronics: 100% (TMP2: 10.17 degC)
+TC 0: 21 degC  TC 1: -2 degC  TC 2: 15 degC  TC 3: -3 degC  TMP1: 14.59 degC  TMP2: 10.30 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.59 degC)  Pin6 Electronics: 100% (TMP2: 10.30 degC)
+TC 0: 19 degC  TC 1: -1 degC  TC 2: 17 degC  TC 3: -3 degC  TMP1: 14.61 degC  TMP2: 10.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.61 degC)  Pin6 Electronics: 100% (TMP2: 10.43 degC)
+TC 0: 22 degC  TC 1: -1 degC  TC 2: 15 degC  TC 3: -4 degC  TMP1: 14.65 degC  TMP2: 10.63 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.65 degC)  Pin6 Electronics: 100% (TMP2: 10.63 degC)
+TC 0: 22 degC  TC 1: 0 degC  TC 2: 13 degC  TC 3: -3 degC  TMP1: 14.70 degC  TMP2: 10.83 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.70 degC)  Pin6 Electronics: 100% (TMP2: 10.83 degC)
+TC 0: 22 degC  TC 1: -8 degC  TC 2: 16 degC  TC 3: -3 degC  TMP1: 14.77 degC  TMP2: 11.07 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.77 degC)  Pin6 Electronics: 100% (TMP2: 11.07 degC)
+TC 0: 23 degC  TC 1: 0 degC  TC 2: 14 degC  TC 3: -5 degC  TMP1: 14.85 degC  TMP2: 11.27 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.85 degC)  Pin6 Electronics: 100% (TMP2: 11.27 degC)
+TC 0: 21 degC  TC 1: -2 degC  TC 2: 16 degC  TC 3: -3 degC  TMP1: 14.96 degC  TMP2: 11.57 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 14.96 degC)  Pin6 Electronics: 100% (TMP2: 11.57 degC)
+TC 0: 22 degC  TC 1: -3 degC  TC 2: 15 degC  TC 3: -5 degC  TMP1: 15.08 degC  TMP2: 11.91 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.08 degC)  Pin6 Electronics: 100% (TMP2: 11.91 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 16 degC  TC 3: -3 degC  TMP1: 15.20 degC  TMP2: 12.16 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.20 degC)  Pin6 Electronics: 100% (TMP2: 12.16 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 15 degC  TC 3: -5 degC  TMP1: 15.34 degC  TMP2: 12.49 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.34 degC)  Pin6 Electronics: 100% (TMP2: 12.49 degC)
+TC 0: 22 degC  TC 1: -3 degC  TC 2: 16 degC  TC 3: -5 degC  TMP1: 15.48 degC  TMP2: 12.80 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.48 degC)  Pin6 Electronics: 100% (TMP2: 12.80 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 16 degC  TC 3: -5 degC  TMP1: 15.66 degC  TMP2: 13.15 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.66 degC)  Pin6 Electronics: 100% (TMP2: 13.15 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 15 degC  TC 3: -6 degC  TMP1: 15.82 degC  TMP2: 13.46 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.82 degC)  Pin6 Electronics: 100% (TMP2: 13.46 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 14 degC  TC 3: -7 degC  TMP1: 15.99 degC  TMP2: 13.76 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 15.99 degC)  Pin6 Electronics: 100% (TMP2: 13.76 degC)
+TC 0: 25 degC  TC 1: -2 degC  TC 2: 15 degC  TC 3: -6 degC  TMP1: 16.18 degC  TMP2: 14.14 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.18 degC)  Pin6 Electronics: 100% (TMP2: 14.14 degC)
+TC 0: 24 degC  TC 1: -1 degC  TC 2: 16 degC  TC 3: -5 degC  TMP1: 16.36 degC  TMP2: 14.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.36 degC)  Pin6 Electronics: 100% (TMP2: 14.48 degC)
+TC 0: 21 degC  TC 1: -2 degC  TC 2: 17 degC  TC 3: -5 degC  TMP1: 16.54 degC  TMP2: 14.86 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.54 degC)  Pin6 Electronics: 100% (TMP2: 14.86 degC)
+TC 0: 24 degC  TC 1: -3 degC  TC 2: 16 degC  TC 3: -6 degC  TMP1: 16.76 degC  TMP2: 15.16 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.76 degC)  Pin6 Electronics: 100% (TMP2: 15.16 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 17 degC  TC 3: -6 degC  TMP1: 16.95 degC  TMP2: 15.44 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 16.95 degC)  Pin6 Electronics: 100% (TMP2: 15.44 degC)
+TC 0: 26 degC  TC 1: -2 degC  TC 2: 17 degC  TC 3: -4 degC  TMP1: 17.16 degC  TMP2: 15.73 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.16 degC)  Pin6 Electronics: 100% (TMP2: 15.73 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 17 degC  TC 3: -7 degC  TMP1: 17.36 degC  TMP2: 16.01 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.36 degC)  Pin6 Electronics: 100% (TMP2: 16.01 degC)
+TC 0: 25 degC  TC 1: -2 degC  TC 2: 16 degC  TC 3: -8 degC  TMP1: 17.56 degC  TMP2: 16.26 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.56 degC)  Pin6 Electronics: 100% (TMP2: 16.26 degC)
+TC 0: 26 degC  TC 1: -3 degC  TC 2: 16 degC  TC 3: -7 degC  TMP1: 17.77 degC  TMP2: 16.58 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.77 degC)  Pin6 Electronics: 100% (TMP2: 16.58 degC)
+TC 0: 25 degC  TC 1: -3 degC  TC 2: 16 degC  TC 3: -7 degC  TMP1: 17.98 degC  TMP2: 16.84 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 17.98 degC)  Pin6 Electronics: 100% (TMP2: 16.84 degC)
+TC 0: 26 degC  TC 1: -3 degC  TC 2: 16 degC  TC 3: -7 degC  TMP1: 18.21 degC  TMP2: 17.09 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.21 degC)  Pin6 Electronics: 100% (TMP2: 17.09 degC)
+TC 0: 26 degC  TC 1: -2 degC  TC 2: 16 degC  TC 3: -7 degC  TMP1: 18.41 degC  TMP2: 17.33 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.41 degC)  Pin6 Electronics: 100% (TMP2: 17.33 degC)
+TC 0: 29 degC  TC 1: -4 degC  TC 2: 17 degC  TC 3: -8 degC  TMP1: 18.62 degC  TMP2: 17.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.62 degC)  Pin6 Electronics: 100% (TMP2: 17.55 degC)
+TC 0: 26 degC  TC 1: -2 degC  TC 2: 16 degC  TC 3: -9 degC  TMP1: 18.84 degC  TMP2: 17.83 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 18.84 degC)  Pin6 Electronics: 100% (TMP2: 17.83 degC)
+TC 0: 28 degC  TC 1: -5 degC  TC 2: 17 degC  TC 3: -7 degC  TMP1: 19.04 degC  TMP2: 18.05 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.04 degC)  Pin6 Electronics: 100% (TMP2: 18.05 degC)
+TC 0: 27 degC  TC 1: 0 degC  TC 2: 15 degC  TC 3: -8 degC  TMP1: 19.24 degC  TMP2: 18.23 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.24 degC)  Pin6 Electronics: 100% (TMP2: 18.23 degC)
+TC 0: 25 degC  TC 1: -2 degC  TC 2: 17 degC  TC 3: -7 degC  TMP1: 19.47 degC  TMP2: 18.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.47 degC)  Pin6 Electronics: 100% (TMP2: 18.45 degC)
+TC 0: 27 degC  TC 1: -4 degC  TC 2: 15 degC  TC 3: -7 degC  TMP1: 19.66 degC  TMP2: 18.63 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.66 degC)  Pin6 Electronics: 100% (TMP2: 18.63 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 18 degC  TC 3: -7 degC  TMP1: 19.87 degC  TMP2: 18.82 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 19.87 degC)  Pin6 Electronics: 100% (TMP2: 18.82 degC)
+TC 0: 27 degC  TC 1: -2 degC  TC 2: 16 degC  TC 3: -10 degC  TMP1: 20.08 degC  TMP2: 19.15 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.08 degC)  Pin6 Electronics: 100% (TMP2: 19.15 degC)
+TC 0: 28 degC  TC 1: -2 degC  TC 2: 17 degC  TC 3: -7 degC  TMP1: 20.29 degC  TMP2: 19.30 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.29 degC)  Pin6 Electronics: 100% (TMP2: 19.30 degC)
+TC 0: 27 degC  TC 1: -2 degC  TC 2: 17 degC  TC 3: -8 degC  TMP1: 20.47 degC  TMP2: 19.56 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.47 degC)  Pin6 Electronics: 100% (TMP2: 19.56 degC)
+TC 0: 27 degC  TC 1: -3 degC  TC 2: 17 degC  TC 3: -8 degC  TMP1: 20.70 degC  TMP2: 19.70 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.70 degC)  Pin6 Electronics: 100% (TMP2: 19.70 degC)
+TC 0: 27 degC  TC 1: -3 degC  TC 2: 18 degC  TC 3: -8 degC  TMP1: 20.90 degC  TMP2: 19.92 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 20.90 degC)  Pin6 Electronics: 100% (TMP2: 19.92 degC)
+TC 0: 27 degC  TC 1: -2 degC  TC 2: 18 degC  TC 3: -7 degC  TMP1: 21.09 degC  TMP2: 20.04 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 21.09 degC)  Pin6 Electronics: 100% (TMP2: 20.04 degC)
+TC 0: 28 degC  TC 1: -3 degC  TC 2: 18 degC  TC 3: -8 degC  TMP1: 21.27 degC  TMP2: 20.30 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 21.27 degC)  Pin6 Electronics: 100% (TMP2: 20.30 degC)
+TC 0: 25 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -8 degC  TMP1: 21.47 degC  TMP2: 20.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 21.47 degC)  Pin6 Electronics: 100% (TMP2: 20.47 degC)
+TC 0: 26 degC  TC 1: -2 degC  TC 2: 17 degC  TC 3: -9 degC  TMP1: 21.66 degC  TMP2: 20.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 21.66 degC)  Pin6 Electronics: 100% (TMP2: 20.59 degC)
+TC 0: 28 degC  TC 1: -2 degC  TC 2: 18 degC  TC 3: -9 degC  TMP1: 21.85 degC  TMP2: 20.69 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 100% (TMP1: 21.85 degC)  Pin6 Electronics: 100% (TMP2: 20.69 degC)
+TC 0: 28 degC  TC 1: -4 degC  TC 2: 19 degC  TC 3: -8 degC  TMP1: 22.05 degC  TMP2: 20.85 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 98% (TMP1: 22.05 degC)  Pin6 Electronics: 100% (TMP2: 20.85 degC)
+TC 0: 25 degC  TC 1: -5 degC  TC 2: 15 degC  TC 3: -10 degC  TMP1: 22.22 degC  TMP2: 21.03 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 92% (TMP1: 22.22 degC)  Pin6 Electronics: 100% (TMP2: 21.03 degC)
+TC 0: 24 degC  TC 1: -5 degC  TC 2: 16 degC  TC 3: -10 degC  TMP1: 22.39 degC  TMP2: 21.18 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 86% (TMP1: 22.39 degC)  Pin6 Electronics: 100% (TMP2: 21.18 degC)
+TC 0: 33 degC  TC 1: 2 degC  TC 2: 23 degC  TC 3: -3 degC  TMP1: 22.57 degC  TMP2: 21.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 80% (TMP1: 22.57 degC)  Pin6 Electronics: 100% (TMP2: 21.37 degC)
+TC 0: 34 degC  TC 1: 1 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 22.72 degC  TMP2: 21.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 76% (TMP1: 22.72 degC)  Pin6 Electronics: 100% (TMP2: 21.52 degC)
+TC 0: 34 degC  TC 1: 4 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 22.91 degC  TMP2: 21.62 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 69% (TMP1: 22.91 degC)  Pin6 Electronics: 100% (TMP2: 21.62 degC)
+TC 0: 34 degC  TC 1: 1 degC  TC 2: 22 degC  TC 3: -3 degC  TMP1: 23.08 degC  TMP2: 21.83 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 64% (TMP1: 23.08 degC)  Pin6 Electronics: 100% (TMP2: 21.83 degC)
+TC 0: 34 degC  TC 1: 3 degC  TC 2: 24 degC  TC 3: -5 degC  TMP1: 23.22 degC  TMP2: 22.05 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 59% (TMP1: 23.22 degC)  Pin6 Electronics: 98% (TMP2: 22.05 degC)
+TC 0: 32 degC  TC 1: 2 degC  TC 2: 26 degC  TC 3: -4 degC  TMP1: 23.37 degC  TMP2: 22.16 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 54% (TMP1: 23.37 degC)  Pin6 Electronics: 94% (TMP2: 22.16 degC)
+TC 0: 34 degC  TC 1: 3 degC  TC 2: 24 degC  TC 3: -3 degC  TMP1: 23.52 degC  TMP2: 22.28 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 49% (TMP1: 23.52 degC)  Pin6 Electronics: 90% (TMP2: 22.28 degC)
+TC 0: 33 degC  TC 1: 3 degC  TC 2: 24 degC  TC 3: -5 degC  TMP1: 23.66 degC  TMP2: 22.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 44% (TMP1: 23.66 degC)  Pin6 Electronics: 88% (TMP2: 22.34 degC)
+TC 0: 33 degC  TC 1: 2 degC  TC 2: 23 degC  TC 3: -4 degC  TMP1: 23.80 degC  TMP2: 22.46 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 39% (TMP1: 23.80 degC)  Pin6 Electronics: 84% (TMP2: 22.46 degC)
+TC 0: 35 degC  TC 1: 0 degC  TC 2: 23 degC  TC 3: -3 degC  TMP1: 23.92 degC  TMP2: 22.68 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 35% (TMP1: 23.92 degC)  Pin6 Electronics: 77% (TMP2: 22.68 degC)
+TC 0: 33 degC  TC 1: 2 degC  TC 2: 25 degC  TC 3: -5 degC  TMP1: 24.05 degC  TMP2: 22.81 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 31% (TMP1: 24.05 degC)  Pin6 Electronics: 72% (TMP2: 22.81 degC)
+TC 0: 33 degC  TC 1: 2 degC  TC 2: 24 degC  TC 3: -4 degC  TMP1: 24.16 degC  TMP2: 22.96 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 27% (TMP1: 24.16 degC)  Pin6 Electronics: 67% (TMP2: 22.96 degC)
+TC 0: 34 degC  TC 1: 3 degC  TC 2: 25 degC  TC 3: -3 degC  TMP1: 24.27 degC  TMP2: 23.09 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.27 degC)  Pin6 Electronics: 63% (TMP2: 23.09 degC)
+TC 0: 34 degC  TC 1: 2 degC  TC 2: 24 degC  TC 3: -4 degC  TMP1: 24.37 degC  TMP2: 23.19 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 20% (TMP1: 24.37 degC)  Pin6 Electronics: 60% (TMP2: 23.19 degC)
+TC 0: 33 degC  TC 1: 2 degC  TC 2: 24 degC  TC 3: -4 degC  TMP1: 24.48 degC  TMP2: 23.16 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 17% (TMP1: 24.48 degC)  Pin6 Electronics: 61% (TMP2: 23.16 degC)
+TC 0: 33 degC  TC 1: 3 degC  TC 2: 25 degC  TC 3: -5 degC  TMP1: 24.55 degC  TMP2: 23.21 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 14% (TMP1: 24.55 degC)  Pin6 Electronics: 59% (TMP2: 23.21 degC)
+TC 0: 33 degC  TC 1: 2 degC  TC 2: 24 degC  TC 3: -3 degC  TMP1: 24.64 degC  TMP2: 23.20 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 11% (TMP1: 24.64 degC)  Pin6 Electronics: 59% (TMP2: 23.20 degC)
+TC 0: 30 degC  TC 1: 3 degC  TC 2: 24 degC  TC 3: -4 degC  TMP1: 24.72 degC  TMP2: 23.29 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.72 degC)  Pin6 Electronics: 57% (TMP2: 23.29 degC)
+TC 0: 32 degC  TC 1: -1 degC  TC 2: 24 degC  TC 3: -3 degC  TMP1: 24.80 degC  TMP2: 23.38 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 6% (TMP1: 24.80 degC)  Pin6 Electronics: 53% (TMP2: 23.38 degC)
+TC 0: 29 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -7 degC  TMP1: 24.85 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.85 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 31 degC  TC 1: -3 degC  TC 2: 19 degC  TC 3: -6 degC  TMP1: 24.91 degC  TMP2: 23.38 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 2% (TMP1: 24.91 degC)  Pin6 Electronics: 53% (TMP2: 23.38 degC)
+TC 0: 28 degC  TC 1: -1 degC  TC 2: 20 degC  TC 3: -7 degC  TMP1: 24.97 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 1% (TMP1: 24.97 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 28 degC  TC 1: -1 degC  TC 2: 22 degC  TC 3: -6 degC  TMP1: 25.02 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.02 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 26 degC  TC 1: -1 degC  TC 2: 19 degC  TC 3: -6 degC  TMP1: 25.06 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.06 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 28 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -7 degC  TMP1: 25.09 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.09 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 29 degC  TC 1: 1 degC  TC 2: 22 degC  TC 3: -9 degC  TMP1: 25.12 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.12 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 31 degC  TC 1: -3 degC  TC 2: 20 degC  TC 3: -7 degC  TMP1: 25.15 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.15 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 28 degC  TC 1: -1 degC  TC 2: 23 degC  TC 3: -9 degC  TMP1: 25.17 degC  TMP2: 23.51 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.17 degC)  Pin6 Electronics: 49% (TMP2: 23.51 degC)
+TC 0: 28 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -7 degC  TMP1: 25.19 degC  TMP2: 23.56 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.19 degC)  Pin6 Electronics: 47% (TMP2: 23.56 degC)
+TC 0: 28 degC  TC 1: -1 degC  TC 2: 22 degC  TC 3: -7 degC  TMP1: 25.20 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.20 degC)  Pin6 Electronics: 47% (TMP2: 23.59 degC)
+TC 0: 28 degC  TC 1: 0 degC  TC 2: 20 degC  TC 3: -9 degC  TMP1: 25.24 degC  TMP2: 23.56 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.24 degC)  Pin6 Electronics: 47% (TMP2: 23.56 degC)
+TC 0: 27 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -7 degC  TMP1: 25.26 degC  TMP2: 23.56 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.26 degC)  Pin6 Electronics: 47% (TMP2: 23.56 degC)
+TC 0: 29 degC  TC 1: 2 degC  TC 2: 20 degC  TC 3: -7 degC  TMP1: 25.27 degC  TMP2: 23.57 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.27 degC)  Pin6 Electronics: 47% (TMP2: 23.57 degC)
+TC 0: 28 degC  TC 1: 0 degC  TC 2: 20 degC  TC 3: -10 degC  TMP1: 25.29 degC  TMP2: 23.61 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.29 degC)  Pin6 Electronics: 46% (TMP2: 23.61 degC)
+TC 0: 27 degC  TC 1: -1 degC  TC 2: 20 degC  TC 3: -7 degC  TMP1: 25.30 degC  TMP2: 23.61 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.30 degC)  Pin6 Electronics: 46% (TMP2: 23.61 degC)
+TC 0: 29 degC  TC 1: 0 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 25.32 degC  TMP2: 23.60 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.32 degC)  Pin6 Electronics: 46% (TMP2: 23.60 degC)
+TC 0: 27 degC  TC 1: -2 degC  TC 2: 21 degC  TC 3: -7 degC  TMP1: 25.32 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.32 degC)  Pin6 Electronics: 46% (TMP2: 23.59 degC)
+TC 0: 27 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -8 degC  TMP1: 25.31 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.31 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 26 degC  TC 1: -3 degC  TC 2: 21 degC  TC 3: -7 degC  TMP1: 25.33 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.33 degC)  Pin6 Electronics: 47% (TMP2: 23.59 degC)
+TC 0: 29 degC  TC 1: -3 degC  TC 2: 21 degC  TC 3: -7 degC  TMP1: 25.34 degC  TMP2: 23.62 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.34 degC)  Pin6 Electronics: 45% (TMP2: 23.62 degC)
+TC 0: 26 degC  TC 1: -3 degC  TC 2: 22 degC  TC 3: -6 degC  TMP1: 25.34 degC  TMP2: 23.61 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.34 degC)  Pin6 Electronics: 46% (TMP2: 23.61 degC)
+TC 0: 27 degC  TC 1: 0 degC  TC 2: 22 degC  TC 3: -7 degC  TMP1: 25.34 degC  TMP2: 23.61 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.34 degC)  Pin6 Electronics: 46% (TMP2: 23.61 degC)
+TC 0: 27 degC  TC 1: 0 degC  TC 2: 21 degC  TC 3: -8 degC  TMP1: 25.34 degC  TMP2: 23.58 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.34 degC)  Pin6 Electronics: 47% (TMP2: 23.58 degC)
+TC 0: 27 degC  TC 1: -1 degC  TC 2: 20 degC  TC 3: -10 degC  TMP1: 25.34 degC  TMP2: 23.62 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.34 degC)  Pin6 Electronics: 45% (TMP2: 23.62 degC)
+TC 0: 27 degC  TC 1: 0 degC  TC 2: 18 degC  TC 3: -7 degC  TMP1: 25.37 degC  TMP2: 23.65 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.37 degC)  Pin6 Electronics: 45% (TMP2: 23.65 degC)
+TC 0: 27 degC  TC 1: 0 degC  TC 2: 22 degC  TC 3: -9 degC  TMP1: 25.35 degC  TMP2: 23.65 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.35 degC)  Pin6 Electronics: 45% (TMP2: 23.65 degC)
+TC 0: 27 degC  TC 1: -3 degC  TC 2: 20 degC  TC 3: -7 degC  TMP1: 25.35 degC  TMP2: 23.70 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.35 degC)  Pin6 Electronics: 43% (TMP2: 23.70 degC)
+TC 0: 26 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 25.35 degC  TMP2: 23.66 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.35 degC)  Pin6 Electronics: 44% (TMP2: 23.66 degC)
+TC 0: 26 degC  TC 1: 1 degC  TC 2: 18 degC  TC 3: -7 degC  TMP1: 25.34 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.34 degC)  Pin6 Electronics: 46% (TMP2: 23.59 degC)
+TC 0: 26 degC  TC 1: -2 degC  TC 2: 21 degC  TC 3: -6 degC  TMP1: 25.34 degC  TMP2: 23.62 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.34 degC)  Pin6 Electronics: 45% (TMP2: 23.62 degC)
+TC 0: 25 degC  TC 1: -2 degC  TC 2: 21 degC  TC 3: -7 degC  TMP1: 25.32 degC  TMP2: 23.60 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.32 degC)  Pin6 Electronics: 46% (TMP2: 23.60 degC)
+TC 0: 26 degC  TC 1: -3 degC  TC 2: 21 degC  TC 3: -7 degC  TMP1: 25.31 degC  TMP2: 23.58 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.31 degC)  Pin6 Electronics: 47% (TMP2: 23.58 degC)
+TC 0: 25 degC  TC 1: 0 degC  TC 2: 21 degC  TC 3: -8 degC  TMP1: 25.30 degC  TMP2: 23.60 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.30 degC)  Pin6 Electronics: 46% (TMP2: 23.60 degC)
+TC 0: 25 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -6 degC  TMP1: 25.30 degC  TMP2: 23.58 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.30 degC)  Pin6 Electronics: 47% (TMP2: 23.58 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 21 degC  TC 3: -7 degC  TMP1: 25.29 degC  TMP2: 23.53 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.29 degC)  Pin6 Electronics: 48% (TMP2: 23.53 degC)
+TC 0: 27 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -8 degC  TMP1: 25.29 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.29 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 25 degC  TC 1: -1 degC  TC 2: 20 degC  TC 3: -7 degC  TMP1: 25.30 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.30 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 26 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -9 degC  TMP1: 25.28 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.28 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 25 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -9 degC  TMP1: 25.28 degC  TMP2: 23.57 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.28 degC)  Pin6 Electronics: 47% (TMP2: 23.57 degC)
+TC 0: 23 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -7 degC  TMP1: 25.27 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.27 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 25 degC  TC 1: 0 degC  TC 2: 19 degC  TC 3: -7 degC  TMP1: 25.25 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.25 degC)  Pin6 Electronics: 47% (TMP2: 23.59 degC)
+TC 0: 26 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -7 degC  TMP1: 25.25 degC  TMP2: 23.62 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.25 degC)  Pin6 Electronics: 46% (TMP2: 23.62 degC)
+TC 0: 25 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 25.25 degC  TMP2: 23.62 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.25 degC)  Pin6 Electronics: 46% (TMP2: 23.62 degC)
+TC 0: 26 degC  TC 1: -3 degC  TC 2: 18 degC  TC 3: -8 degC  TMP1: 25.24 degC  TMP2: 23.64 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.24 degC)  Pin6 Electronics: 45% (TMP2: 23.64 degC)
+TC 0: 25 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -7 degC  TMP1: 25.23 degC  TMP2: 23.66 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.23 degC)  Pin6 Electronics: 44% (TMP2: 23.66 degC)
+TC 0: 25 degC  TC 1: -1 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 25.23 degC  TMP2: 23.67 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.23 degC)  Pin6 Electronics: 44% (TMP2: 23.67 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 25.22 degC  TMP2: 23.66 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.22 degC)  Pin6 Electronics: 44% (TMP2: 23.66 degC)
+TC 0: 27 degC  TC 1: -3 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 25.20 degC  TMP2: 23.69 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.20 degC)  Pin6 Electronics: 43% (TMP2: 23.69 degC)
+TC 0: 25 degC  TC 1: -1 degC  TC 2: 20 degC  TC 3: -9 degC  TMP1: 25.20 degC  TMP2: 23.65 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.20 degC)  Pin6 Electronics: 45% (TMP2: 23.65 degC)
+TC 0: 24 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -6 degC  TMP1: 25.19 degC  TMP2: 23.66 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.19 degC)  Pin6 Electronics: 44% (TMP2: 23.66 degC)
+TC 0: 25 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -8 degC  TMP1: 25.16 degC  TMP2: 23.64 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.16 degC)  Pin6 Electronics: 45% (TMP2: 23.64 degC)
+TC 0: 25 degC  TC 1: -2 degC  TC 2: 18 degC  TC 3: -8 degC  TMP1: 25.15 degC  TMP2: 23.63 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.15 degC)  Pin6 Electronics: 45% (TMP2: 23.63 degC)
+TC 0: 24 degC  TC 1: -4 degC  TC 2: 21 degC  TC 3: -8 degC  TMP1: 25.14 degC  TMP2: 23.62 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.14 degC)  Pin6 Electronics: 45% (TMP2: 23.62 degC)
+TC 0: 25 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 25.13 degC  TMP2: 23.64 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.13 degC)  Pin6 Electronics: 45% (TMP2: 23.64 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -9 degC  TMP1: 25.11 degC  TMP2: 23.60 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.11 degC)  Pin6 Electronics: 46% (TMP2: 23.60 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 25.11 degC  TMP2: 23.63 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.11 degC)  Pin6 Electronics: 45% (TMP2: 23.63 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -7 degC  TMP1: 25.09 degC  TMP2: 23.66 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.09 degC)  Pin6 Electronics: 44% (TMP2: 23.66 degC)
+TC 0: 25 degC  TC 1: 0 degC  TC 2: 24 degC  TC 3: -10 degC  TMP1: 25.07 degC  TMP2: 23.66 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.07 degC)  Pin6 Electronics: 44% (TMP2: 23.66 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -7 degC  TMP1: 25.06 degC  TMP2: 23.66 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.06 degC)  Pin6 Electronics: 44% (TMP2: 23.66 degC)
+TC 0: 25 degC  TC 1: 0 degC  TC 2: 18 degC  TC 3: -10 degC  TMP1: 25.05 degC  TMP2: 23.66 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.05 degC)  Pin6 Electronics: 44% (TMP2: 23.66 degC)
+TC 0: 26 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -7 degC  TMP1: 25.03 degC  TMP2: 23.68 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.03 degC)  Pin6 Electronics: 44% (TMP2: 23.68 degC)
+TC 0: 26 degC  TC 1: -5 degC  TC 2: 19 degC  TC 3: -8 degC  TMP1: 25.02 degC  TMP2: 23.63 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.02 degC)  Pin6 Electronics: 45% (TMP2: 23.63 degC)
+TC 0: 24 degC  TC 1: -5 degC  TC 2: 20 degC  TC 3: -7 degC  TMP1: 25.00 degC  TMP2: 23.62 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 25.00 degC)  Pin6 Electronics: 45% (TMP2: 23.62 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 24.98 degC  TMP2: 23.63 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 0% (TMP1: 24.98 degC)  Pin6 Electronics: 45% (TMP2: 23.63 degC)
+TC 0: 25 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -6 degC  TMP1: 24.97 degC  TMP2: 23.61 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 1% (TMP1: 24.97 degC)  Pin6 Electronics: 46% (TMP2: 23.61 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -7 degC  TMP1: 24.96 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 1% (TMP1: 24.96 degC)  Pin6 Electronics: 47% (TMP2: 23.59 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -7 degC  TMP1: 24.96 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 1% (TMP1: 24.96 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -7 degC  TMP1: 24.94 degC  TMP2: 23.58 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 2% (TMP1: 24.94 degC)  Pin6 Electronics: 47% (TMP2: 23.58 degC)
+TC 0: 23 degC  TC 1: 0 degC  TC 2: 19 degC  TC 3: -7 degC  TMP1: 24.92 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 2% (TMP1: 24.92 degC)  Pin6 Electronics: 46% (TMP2: 23.59 degC)
+TC 0: 25 degC  TC 1: -1 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 24.91 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 3% (TMP1: 24.91 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 25 degC  TC 1: -1 degC  TC 2: 19 degC  TC 3: -10 degC  TMP1: 24.91 degC  TMP2: 23.58 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 3% (TMP1: 24.91 degC)  Pin6 Electronics: 47% (TMP2: 23.58 degC)
+TC 0: 23 degC  TC 1: -1 degC  TC 2: 19 degC  TC 3: -10 degC  TMP1: 24.87 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 46% (TMP2: 23.59 degC)
+TC 0: 24 degC  TC 1: -1 degC  TC 2: 19 degC  TC 3: -8 degC  TMP1: 24.88 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 3% (TMP1: 24.88 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 24.86 degC  TMP2: 23.54 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.86 degC)  Pin6 Electronics: 48% (TMP2: 23.54 degC)
+TC 0: 24 degC  TC 1: -1 degC  TC 2: 20 degC  TC 3: -9 degC  TMP1: 24.83 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 5% (TMP1: 24.83 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 25 degC  TC 1: 0 degC  TC 2: 18 degC  TC 3: -9 degC  TMP1: 24.82 degC  TMP2: 23.60 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 5% (TMP1: 24.82 degC)  Pin6 Electronics: 46% (TMP2: 23.60 degC)
+TC 0: 27 degC  TC 1: -3 degC  TC 2: 20 degC  TC 3: -9 degC  TMP1: 24.80 degC  TMP2: 23.61 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 6% (TMP1: 24.80 degC)  Pin6 Electronics: 46% (TMP2: 23.61 degC)
+TC 0: 26 degC  TC 1: -3 degC  TC 2: 19 degC  TC 3: -8 degC  TMP1: 24.77 degC  TMP2: 23.56 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 7% (TMP1: 24.77 degC)  Pin6 Electronics: 47% (TMP2: 23.56 degC)
+TC 0: 25 degC  TC 1: -1 degC  TC 2: 20 degC  TC 3: -6 degC  TMP1: 24.76 degC  TMP2: 23.61 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 8% (TMP1: 24.76 degC)  Pin6 Electronics: 46% (TMP2: 23.61 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -8 degC  TMP1: 24.75 degC  TMP2: 23.62 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 8% (TMP1: 24.75 degC)  Pin6 Electronics: 46% (TMP2: 23.62 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 24.73 degC  TMP2: 23.66 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 8% (TMP1: 24.73 degC)  Pin6 Electronics: 44% (TMP2: 23.66 degC)
+TC 0: 24 degC  TC 1: 0 degC  TC 2: 22 degC  TC 3: -10 degC  TMP1: 24.72 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.72 degC)  Pin6 Electronics: 47% (TMP2: 23.59 degC)
+TC 0: 24 degC  TC 1: 0 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 24.72 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.72 degC)  Pin6 Electronics: 47% (TMP2: 23.59 degC)
+TC 0: 23 degC  TC 1: 0 degC  TC 2: 17 degC  TC 3: -8 degC  TMP1: 24.70 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.70 degC)  Pin6 Electronics: 46% (TMP2: 23.59 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -9 degC  TMP1: 24.70 degC  TMP2: 23.57 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.70 degC)  Pin6 Electronics: 47% (TMP2: 23.57 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -9 degC  TMP1: 24.69 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 10% (TMP1: 24.69 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 23 degC  TC 1: -5 degC  TC 2: 19 degC  TC 3: -9 degC  TMP1: 24.68 degC  TMP2: 23.58 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 10% (TMP1: 24.68 degC)  Pin6 Electronics: 47% (TMP2: 23.58 degC)
+TC 0: 24 degC  TC 1: -1 degC  TC 2: 20 degC  TC 3: -9 degC  TMP1: 24.68 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 10% (TMP1: 24.68 degC)  Pin6 Electronics: 47% (TMP2: 23.59 degC)
+TC 0: 25 degC  TC 1: -1 degC  TC 2: 19 degC  TC 3: -10 degC  TMP1: 24.69 degC  TMP2: 23.53 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 10% (TMP1: 24.69 degC)  Pin6 Electronics: 48% (TMP2: 23.53 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -9 degC  TMP1: 24.70 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 10% (TMP1: 24.70 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -9 degC  TMP1: 24.70 degC  TMP2: 23.46 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 10% (TMP1: 24.70 degC)  Pin6 Electronics: 51% (TMP2: 23.46 degC)
+TC 0: 25 degC  TC 1: -1 degC  TC 2: 19 degC  TC 3: -10 degC  TMP1: 24.69 degC  TMP2: 23.49 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 10% (TMP1: 24.69 degC)  Pin6 Electronics: 50% (TMP2: 23.49 degC)
+TC 0: 22 degC  TC 1: -1 degC  TC 2: 20 degC  TC 3: -9 degC  TMP1: 24.69 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 10% (TMP1: 24.69 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 24 degC  TC 1: -1 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 24.69 degC  TMP2: 23.51 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 10% (TMP1: 24.69 degC)  Pin6 Electronics: 49% (TMP2: 23.51 degC)
+TC 0: 24 degC  TC 1: -3 degC  TC 2: 17 degC  TC 3: -8 degC  TMP1: 24.70 degC  TMP2: 23.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.70 degC)  Pin6 Electronics: 51% (TMP2: 23.47 degC)
+TC 0: 24 degC  TC 1: -1 degC  TC 2: 19 degC  TC 3: -10 degC  TMP1: 24.70 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 10% (TMP1: 24.70 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 24 degC  TC 1: -1 degC  TC 2: 19 degC  TC 3: -8 degC  TMP1: 24.71 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.71 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -9 degC  TMP1: 24.71 degC  TMP2: 23.53 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.71 degC)  Pin6 Electronics: 48% (TMP2: 23.53 degC)
+TC 0: 24 degC  TC 1: -3 degC  TC 2: 19 degC  TC 3: -9 degC  TMP1: 24.71 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.71 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 28 degC  TC 1: -5 degC  TC 2: 19 degC  TC 3: -8 degC  TMP1: 24.72 degC  TMP2: 23.46 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.72 degC)  Pin6 Electronics: 51% (TMP2: 23.46 degC)
+TC 0: 24 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -7 degC  TMP1: 24.73 degC  TMP2: 23.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.73 degC)  Pin6 Electronics: 51% (TMP2: 23.47 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -8 degC  TMP1: 24.73 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.73 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -8 degC  TMP1: 24.72 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.72 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 24 degC  TC 1: -3 degC  TC 2: 17 degC  TC 3: -9 degC  TMP1: 24.74 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 8% (TMP1: 24.74 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 24.74 degC  TMP2: 23.50 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 8% (TMP1: 24.74 degC)  Pin6 Electronics: 50% (TMP2: 23.50 degC)
+TC 0: 24 degC  TC 1: -1 degC  TC 2: 19 degC  TC 3: -9 degC  TMP1: 24.74 degC  TMP2: 23.57 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 8% (TMP1: 24.74 degC)  Pin6 Electronics: 47% (TMP2: 23.57 degC)
+TC 0: 24 degC  TC 1: 0 degC  TC 2: 18 degC  TC 3: -9 degC  TMP1: 24.76 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 8% (TMP1: 24.76 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 23 degC  TC 1: -3 degC  TC 2: 19 degC  TC 3: -9 degC  TMP1: 24.77 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 7% (TMP1: 24.77 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 24 degC  TC 1: -1 degC  TC 2: 21 degC  TC 3: -8 degC  TMP1: 24.79 degC  TMP2: 23.56 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 7% (TMP1: 24.79 degC)  Pin6 Electronics: 47% (TMP2: 23.56 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -9 degC  TMP1: 24.79 degC  TMP2: 23.57 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 7% (TMP1: 24.79 degC)  Pin6 Electronics: 47% (TMP2: 23.57 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -9 degC  TMP1: 24.80 degC  TMP2: 23.57 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 6% (TMP1: 24.80 degC)  Pin6 Electronics: 47% (TMP2: 23.57 degC)
+TC 0: 21 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -9 degC  TMP1: 24.80 degC  TMP2: 23.56 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 6% (TMP1: 24.80 degC)  Pin6 Electronics: 47% (TMP2: 23.56 degC)
+TC 0: 27 degC  TC 1: -4 degC  TC 2: 20 degC  TC 3: -9 degC  TMP1: 24.80 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 6% (TMP1: 24.80 degC)  Pin6 Electronics: 46% (TMP2: 23.59 degC)
+TC 0: 24 degC  TC 1: -4 degC  TC 2: 19 degC  TC 3: -9 degC  TMP1: 24.80 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 6% (TMP1: 24.80 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 20 degC  TC 3: -8 degC  TMP1: 24.81 degC  TMP2: 23.57 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 6% (TMP1: 24.81 degC)  Pin6 Electronics: 47% (TMP2: 23.57 degC)
+TC 0: 24 degC  TC 1: 0 degC  TC 2: 18 degC  TC 3: -9 degC  TMP1: 24.81 degC  TMP2: 23.57 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 6% (TMP1: 24.81 degC)  Pin6 Electronics: 47% (TMP2: 23.57 degC)
+TC 0: 25 degC  TC 1: 0 degC  TC 2: 18 degC  TC 3: -9 degC  TMP1: 24.80 degC  TMP2: 23.60 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 6% (TMP1: 24.80 degC)  Pin6 Electronics: 46% (TMP2: 23.60 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -9 degC  TMP1: 24.82 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 5% (TMP1: 24.82 degC)  Pin6 Electronics: 47% (TMP2: 23.59 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -8 degC  TMP1: 24.84 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 5% (TMP1: 24.84 degC)  Pin6 Electronics: 46% (TMP2: 23.59 degC)
+TC 0: 24 degC  TC 1: -3 degC  TC 2: 16 degC  TC 3: -9 degC  TMP1: 24.84 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 5% (TMP1: 24.84 degC)  Pin6 Electronics: 47% (TMP2: 23.59 degC)
+TC 0: 24 degC  TC 1: -2 degC  TC 2: 19 degC  TC 3: -9 degC  TMP1: 24.84 degC  TMP2: 23.60 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 5% (TMP1: 24.84 degC)  Pin6 Electronics: 46% (TMP2: 23.60 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 18 degC  TC 3: -9 degC  TMP1: 24.83 degC  TMP2: 23.61 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 5% (TMP1: 24.83 degC)  Pin6 Electronics: 46% (TMP2: 23.61 degC)
+TC 0: 19 degC  TC 1: -5 degC  TC 2: 17 degC  TC 3: -10 degC  TMP1: 24.86 degC  TMP2: 23.59 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.86 degC)  Pin6 Electronics: 47% (TMP2: 23.59 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 18 degC  TC 3: -9 degC  TMP1: 24.87 degC  TMP2: 23.56 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 47% (TMP2: 23.56 degC)
+TC 0: 22 degC  TC 1: -3 degC  TC 2: 19 degC  TC 3: -8 degC  TMP1: 24.87 degC  TMP2: 23.57 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 47% (TMP2: 23.57 degC)
+TC 0: 21 degC  TC 1: -4 degC  TC 2: 17 degC  TC 3: -10 degC  TMP1: 24.87 degC  TMP2: 23.57 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 47% (TMP2: 23.57 degC)
+TC 0: 17 degC  TC 1: -4 degC  TC 2: 18 degC  TC 3: -9 degC  TMP1: 24.87 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 26 degC  TC 1: -4 degC  TC 2: 19 degC  TC 3: -8 degC  TMP1: 24.87 degC  TMP2: 23.53 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 48% (TMP2: 23.53 degC)
+TC 0: 21 degC  TC 1: -4 degC  TC 2: 17 degC  TC 3: -9 degC  TMP1: 24.87 degC  TMP2: 23.53 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 48% (TMP2: 23.53 degC)
+TC 0: 22 degC  TC 1: -4 degC  TC 2: 16 degC  TC 3: -10 degC  TMP1: 24.89 degC  TMP2: 23.53 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 3% (TMP1: 24.89 degC)  Pin6 Electronics: 48% (TMP2: 23.53 degC)
+TC 0: 22 degC  TC 1: -5 degC  TC 2: 15 degC  TC 3: -10 degC  TMP1: 24.87 degC  TMP2: 23.51 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 49% (TMP2: 23.51 degC)
+TC 0: 21 degC  TC 1: -4 degC  TC 2: 17 degC  TC 3: -10 degC  TMP1: 24.87 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 20 degC  TC 1: -4 degC  TC 2: 18 degC  TC 3: -9 degC  TMP1: 24.87 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 19 degC  TC 1: -8 degC  TC 2: 14 degC  TC 3: -11 degC  TMP1: 24.86 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.86 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 19 degC  TC 1: -6 degC  TC 2: 14 degC  TC 3: -11 degC  TMP1: 24.87 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 17 degC  TC 1: -7 degC  TC 2: 14 degC  TC 3: -12 degC  TMP1: 24.87 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 17 degC  TC 1: -7 degC  TC 2: 14 degC  TC 3: -12 degC  TMP1: 24.87 degC  TMP2: 23.50 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 50% (TMP2: 23.50 degC)
+TC 0: 18 degC  TC 1: -7 degC  TC 2: 14 degC  TC 3: -10 degC  TMP1: 24.87 degC  TMP2: 23.54 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 48% (TMP2: 23.54 degC)
+TC 0: 19 degC  TC 1: -6 degC  TC 2: 14 degC  TC 3: -11 degC  TMP1: 24.87 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.87 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 17 degC  TC 1: -7 degC  TC 2: 14 degC  TC 3: -11 degC  TMP1: 24.85 degC  TMP2: 23.57 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 4% (TMP1: 24.85 degC)  Pin6 Electronics: 47% (TMP2: 23.57 degC)
+TC 0: 18 degC  TC 1: -7 degC  TC 2: 13 degC  TC 3: -12 degC  TMP1: 24.84 degC  TMP2: 23.56 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 5% (TMP1: 24.84 degC)  Pin6 Electronics: 47% (TMP2: 23.56 degC)
+TC 0: 16 degC  TC 1: -7 degC  TC 2: 14 degC  TC 3: -11 degC  TMP1: 24.84 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 5% (TMP1: 24.84 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 18 degC  TC 1: -7 degC  TC 2: 14 degC  TC 3: -11 degC  TMP1: 24.81 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 6% (TMP1: 24.81 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 20 degC  TC 1: -8 degC  TC 2: 13 degC  TC 3: -13 degC  TMP1: 24.79 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 7% (TMP1: 24.79 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 17 degC  TC 1: -7 degC  TC 2: 14 degC  TC 3: -11 degC  TMP1: 24.79 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 7% (TMP1: 24.79 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 17 degC  TC 1: -7 degC  TC 2: 15 degC  TC 3: -10 degC  TMP1: 24.77 degC  TMP2: 23.50 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 7% (TMP1: 24.77 degC)  Pin6 Electronics: 50% (TMP2: 23.50 degC)
+TC 0: 16 degC  TC 1: -6 degC  TC 2: 15 degC  TC 3: -10 degC  TMP1: 24.74 degC  TMP2: 23.44 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 8% (TMP1: 24.74 degC)  Pin6 Electronics: 52% (TMP2: 23.44 degC)
+TC 0: 17 degC  TC 1: -7 degC  TC 2: 13 degC  TC 3: -11 degC  TMP1: 24.75 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 8% (TMP1: 24.75 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 17 degC  TC 1: -6 degC  TC 2: 14 degC  TC 3: -11 degC  TMP1: 24.75 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 8% (TMP1: 24.75 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 14 degC  TC 1: -7 degC  TC 2: 14 degC  TC 3: -11 degC  TMP1: 24.73 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.73 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 18 degC  TC 1: -6 degC  TC 2: 14 degC  TC 3: -12 degC  TMP1: 24.71 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.71 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 19 degC  TC 1: -5 degC  TC 2: 17 degC  TC 3: -10 degC  TMP1: 24.71 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 9% (TMP1: 24.71 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 18 degC  TC 1: -6 degC  TC 2: 14 degC  TC 3: -10 degC  TMP1: 24.70 degC  TMP2: 23.46 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 10% (TMP1: 24.70 degC)  Pin6 Electronics: 51% (TMP2: 23.46 degC)
+TC 0: 19 degC  TC 1: -7 degC  TC 2: 11 degC  TC 3: -10 degC  TMP1: 24.69 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 10% (TMP1: 24.69 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 18 degC  TC 1: -6 degC  TC 2: 16 degC  TC 3: -11 degC  TMP1: 24.68 degC  TMP2: 23.53 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 10% (TMP1: 24.68 degC)  Pin6 Electronics: 48% (TMP2: 23.53 degC)
+TC 0: 19 degC  TC 1: -6 degC  TC 2: 14 degC  TC 3: -10 degC  TMP1: 24.66 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 11% (TMP1: 24.66 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 16 degC  TC 1: -9 degC  TC 2: 15 degC  TC 3: -10 degC  TMP1: 24.67 degC  TMP2: 23.55 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 10% (TMP1: 24.67 degC)  Pin6 Electronics: 48% (TMP2: 23.55 degC)
+TC 0: 19 degC  TC 1: -6 degC  TC 2: 14 degC  TC 3: -11 degC  TMP1: 24.66 degC  TMP2: 23.58 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 11% (TMP1: 24.66 degC)  Pin6 Electronics: 47% (TMP2: 23.58 degC)
+TC 0: 17 degC  TC 1: -6 degC  TC 2: 15 degC  TC 3: -10 degC  TMP1: 24.66 degC  TMP2: 23.57 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 11% (TMP1: 24.66 degC)  Pin6 Electronics: 47% (TMP2: 23.57 degC)
+TC 0: 18 degC  TC 1: -5 degC  TC 2: 13 degC  TC 3: -10 degC  TMP1: 24.65 degC  TMP2: 23.53 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 11% (TMP1: 24.65 degC)  Pin6 Electronics: 48% (TMP2: 23.53 degC)
+TC 0: 20 degC  TC 1: -9 degC  TC 2: 14 degC  TC 3: -10 degC  TMP1: 24.64 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 11% (TMP1: 24.64 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 18 degC  TC 1: -6 degC  TC 2: 14 degC  TC 3: -10 degC  TMP1: 24.64 degC  TMP2: 23.51 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 11% (TMP1: 24.64 degC)  Pin6 Electronics: 49% (TMP2: 23.51 degC)
+TC 0: 17 degC  TC 1: -7 degC  TC 2: 15 degC  TC 3: -8 degC  TMP1: 24.63 degC  TMP2: 23.50 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 12% (TMP1: 24.63 degC)  Pin6 Electronics: 50% (TMP2: 23.50 degC)
+TC 0: 17 degC  TC 1: -6 degC  TC 2: 14 degC  TC 3: -10 degC  TMP1: 24.65 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 11% (TMP1: 24.65 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 17 degC  TC 1: -6 degC  TC 2: 14 degC  TC 3: -10 degC  TMP1: 24.64 degC  TMP2: 23.46 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 11% (TMP1: 24.64 degC)  Pin6 Electronics: 51% (TMP2: 23.46 degC)
+TC 0: 18 degC  TC 1: -6 degC  TC 2: 13 degC  TC 3: -10 degC  TMP1: 24.62 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 12% (TMP1: 24.62 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 19 degC  TC 1: -7 degC  TC 2: 12 degC  TC 3: -10 degC  TMP1: 24.62 degC  TMP2: 23.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 12% (TMP1: 24.62 degC)  Pin6 Electronics: 51% (TMP2: 23.47 degC)
+TC 0: 19 degC  TC 1: -8 degC  TC 2: 14 degC  TC 3: -10 degC  TMP1: 24.60 degC  TMP2: 23.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.60 degC)  Pin6 Electronics: 51% (TMP2: 23.47 degC)
+TC 0: 18 degC  TC 1: -8 degC  TC 2: 12 degC  TC 3: -10 degC  TMP1: 24.61 degC  TMP2: 23.44 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.61 degC)  Pin6 Electronics: 52% (TMP2: 23.44 degC)
+TC 0: 18 degC  TC 1: -6 degC  TC 2: 16 degC  TC 3: -11 degC  TMP1: 24.61 degC  TMP2: 23.38 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.61 degC)  Pin6 Electronics: 53% (TMP2: 23.38 degC)
+TC 0: 15 degC  TC 1: -7 degC  TC 2: 14 degC  TC 3: -10 degC  TMP1: 24.61 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.61 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 20 degC  TC 1: -9 degC  TC 2: 14 degC  TC 3: -10 degC  TMP1: 24.60 degC  TMP2: 23.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.60 degC)  Pin6 Electronics: 51% (TMP2: 23.47 degC)
+TC 0: 17 degC  TC 1: -7 degC  TC 2: 15 degC  TC 3: -10 degC  TMP1: 24.60 degC  TMP2: 23.50 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.60 degC)  Pin6 Electronics: 50% (TMP2: 23.50 degC)
+TC 0: 16 degC  TC 1: -7 degC  TC 2: 13 degC  TC 3: -10 degC  TMP1: 24.61 degC  TMP2: 23.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.61 degC)  Pin6 Electronics: 51% (TMP2: 23.47 degC)
+TC 0: 15 degC  TC 1: -8 degC  TC 2: 13 degC  TC 3: -10 degC  TMP1: 24.61 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.61 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 18 degC  TC 1: -4 degC  TC 2: 12 degC  TC 3: -10 degC  TMP1: 24.62 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 12% (TMP1: 24.62 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 18 degC  TC 1: -5 degC  TC 2: 15 degC  TC 3: -10 degC  TMP1: 24.60 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.60 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 17 degC  TC 1: -6 degC  TC 2: 14 degC  TC 3: -10 degC  TMP1: 24.62 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 12% (TMP1: 24.62 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 18 degC  TC 1: -7 degC  TC 2: 11 degC  TC 3: -10 degC  TMP1: 24.62 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 12% (TMP1: 24.62 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 17 degC  TC 1: -7 degC  TC 2: 13 degC  TC 3: -11 degC  TMP1: 24.62 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 12% (TMP1: 24.62 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 16 degC  TC 1: -10 degC  TC 2: 10 degC  TC 3: -10 degC  TMP1: 24.62 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 12% (TMP1: 24.62 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 18 degC  TC 1: -4 degC  TC 2: 12 degC  TC 3: -10 degC  TMP1: 24.64 degC  TMP2: 23.44 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 11% (TMP1: 24.64 degC)  Pin6 Electronics: 52% (TMP2: 23.44 degC)
+TC 0: 16 degC  TC 1: -8 degC  TC 2: 12 degC  TC 3: -11 degC  TMP1: 24.63 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 12% (TMP1: 24.63 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 13 degC  TC 1: -10 degC  TC 2: 12 degC  TC 3: -12 degC  TMP1: 24.61 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.61 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 13 degC  TC 3: -14 degC  TMP1: 24.59 degC  TMP2: 23.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.59 degC)  Pin6 Electronics: 51% (TMP2: 23.47 degC)
+TC 0: 16 degC  TC 1: -10 degC  TC 2: 11 degC  TC 3: -12 degC  TMP1: 24.60 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.60 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 13 degC  TC 1: -10 degC  TC 2: 11 degC  TC 3: -12 degC  TMP1: 24.61 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.61 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 11 degC  TC 3: -12 degC  TMP1: 24.59 degC  TMP2: 23.40 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.59 degC)  Pin6 Electronics: 53% (TMP2: 23.40 degC)
+TC 0: 15 degC  TC 1: -8 degC  TC 2: 9 degC  TC 3: -13 degC  TMP1: 24.59 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.59 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 15 degC  TC 1: -6 degC  TC 2: 10 degC  TC 3: -11 degC  TMP1: 24.59 degC  TMP2: 23.44 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 13% (TMP1: 24.59 degC)  Pin6 Electronics: 52% (TMP2: 23.44 degC)
+TC 0: 16 degC  TC 1: -7 degC  TC 2: 12 degC  TC 3: -15 degC  TMP1: 24.56 degC  TMP2: 23.46 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 14% (TMP1: 24.56 degC)  Pin6 Electronics: 51% (TMP2: 23.46 degC)
+TC 0: 15 degC  TC 1: -8 degC  TC 2: 12 degC  TC 3: -11 degC  TMP1: 24.58 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 14% (TMP1: 24.58 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 15 degC  TC 1: -10 degC  TC 2: 13 degC  TC 3: -11 degC  TMP1: 24.57 degC  TMP2: 23.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 14% (TMP1: 24.57 degC)  Pin6 Electronics: 53% (TMP2: 23.39 degC)
+TC 0: 15 degC  TC 1: -8 degC  TC 2: 12 degC  TC 3: -11 degC  TMP1: 24.57 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 14% (TMP1: 24.57 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 15 degC  TC 1: -6 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.58 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 14% (TMP1: 24.58 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 16 degC  TC 1: -8 degC  TC 2: 12 degC  TC 3: -12 degC  TMP1: 24.55 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 14% (TMP1: 24.55 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 15 degC  TC 1: -10 degC  TC 2: 9 degC  TC 3: -12 degC  TMP1: 24.53 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 15% (TMP1: 24.53 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -15 degC  TMP1: 24.53 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 15% (TMP1: 24.53 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -13 degC  TMP1: 24.51 degC  TMP2: 23.40 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 16% (TMP1: 24.51 degC)  Pin6 Electronics: 53% (TMP2: 23.40 degC)
+TC 0: 12 degC  TC 1: -9 degC  TC 2: 12 degC  TC 3: -12 degC  TMP1: 24.51 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 16% (TMP1: 24.51 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 14 degC  TC 1: -10 degC  TC 2: 10 degC  TC 3: -13 degC  TMP1: 24.51 degC  TMP2: 23.40 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 16% (TMP1: 24.51 degC)  Pin6 Electronics: 53% (TMP2: 23.40 degC)
+TC 0: 14 degC  TC 1: -10 degC  TC 2: 10 degC  TC 3: -13 degC  TMP1: 24.50 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 16% (TMP1: 24.50 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 16 degC  TC 1: -10 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.48 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 17% (TMP1: 24.48 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 11 degC  TC 3: -12 degC  TMP1: 24.48 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 17% (TMP1: 24.48 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 15 degC  TC 1: -9 degC  TC 2: 12 degC  TC 3: -12 degC  TMP1: 24.47 degC  TMP2: 23.46 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 17% (TMP1: 24.47 degC)  Pin6 Electronics: 51% (TMP2: 23.46 degC)
+TC 0: 15 degC  TC 1: -9 degC  TC 2: 14 degC  TC 3: -14 degC  TMP1: 24.47 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 17% (TMP1: 24.47 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 13 degC  TC 1: -9 degC  TC 2: 11 degC  TC 3: -12 degC  TMP1: 24.45 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 18% (TMP1: 24.45 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 14 degC  TC 1: -10 degC  TC 2: 11 degC  TC 3: -13 degC  TMP1: 24.43 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 19% (TMP1: 24.43 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 15 degC  TC 1: -10 degC  TC 2: 11 degC  TC 3: -10 degC  TMP1: 24.43 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 19% (TMP1: 24.43 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 13 degC  TC 1: -10 degC  TC 2: 11 degC  TC 3: -12 degC  TMP1: 24.41 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 19% (TMP1: 24.41 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 16 degC  TC 1: -6 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.41 degC  TMP2: 23.44 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 19% (TMP1: 24.41 degC)  Pin6 Electronics: 52% (TMP2: 23.44 degC)
+TC 0: 15 degC  TC 1: -8 degC  TC 2: 12 degC  TC 3: -11 degC  TMP1: 24.39 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 20% (TMP1: 24.39 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 15 degC  TC 1: -8 degC  TC 2: 5 degC  TC 3: -11 degC  TMP1: 24.39 degC  TMP2: 23.44 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 20% (TMP1: 24.39 degC)  Pin6 Electronics: 52% (TMP2: 23.44 degC)
+TC 0: 15 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -13 degC  TMP1: 24.38 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 20% (TMP1: 24.38 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 15 degC  TC 1: -9 degC  TC 2: 11 degC  TC 3: -12 degC  TMP1: 24.37 degC  TMP2: 23.40 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 20% (TMP1: 24.37 degC)  Pin6 Electronics: 53% (TMP2: 23.40 degC)
+TC 0: 15 degC  TC 1: -9 degC  TC 2: 9 degC  TC 3: -13 degC  TMP1: 24.38 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 20% (TMP1: 24.38 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 11 degC  TC 3: -10 degC  TMP1: 24.40 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 20% (TMP1: 24.40 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 16 degC  TC 1: -10 degC  TC 2: 9 degC  TC 3: -12 degC  TMP1: 24.38 degC  TMP2: 23.46 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 20% (TMP1: 24.38 degC)  Pin6 Electronics: 51% (TMP2: 23.46 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -13 degC  TMP1: 24.37 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 20% (TMP1: 24.37 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 15 degC  TC 1: -10 degC  TC 2: 8 degC  TC 3: -13 degC  TMP1: 24.38 degC  TMP2: 23.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 20% (TMP1: 24.38 degC)  Pin6 Electronics: 53% (TMP2: 23.39 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 9 degC  TC 3: -16 degC  TMP1: 24.36 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 21% (TMP1: 24.36 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 9 degC  TC 3: -13 degC  TMP1: 24.35 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 21% (TMP1: 24.35 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 13 degC  TC 1: -10 degC  TC 2: 11 degC  TC 3: -14 degC  TMP1: 24.35 degC  TMP2: 23.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 21% (TMP1: 24.35 degC)  Pin6 Electronics: 53% (TMP2: 23.39 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 11 degC  TC 3: -13 degC  TMP1: 24.30 degC  TMP2: 23.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.30 degC)  Pin6 Electronics: 53% (TMP2: 23.39 degC)
+TC 0: 13 degC  TC 1: -9 degC  TC 2: 12 degC  TC 3: -12 degC  TMP1: 24.33 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.33 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 13 degC  TC 1: -9 degC  TC 2: 11 degC  TC 3: -12 degC  TMP1: 24.32 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.32 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 10 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -13 degC  TMP1: 24.33 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.33 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 14 degC  TC 1: -10 degC  TC 2: 11 degC  TC 3: -13 degC  TMP1: 24.31 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.31 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.30 degC  TMP2: 23.44 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.30 degC)  Pin6 Electronics: 52% (TMP2: 23.44 degC)
+TC 0: 11 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.28 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.28 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.27 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.27 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 13 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.29 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.29 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 16 degC  TC 1: -10 degC  TC 2: 11 degC  TC 3: -10 degC  TMP1: 24.25 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.25 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 11 degC  TC 3: -12 degC  TMP1: 24.25 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.25 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 15 degC  TC 1: -7 degC  TC 2: 9 degC  TC 3: -13 degC  TMP1: 24.27 degC  TMP2: 23.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.27 degC)  Pin6 Electronics: 53% (TMP2: 23.39 degC)
+TC 0: 15 degC  TC 1: -8 degC  TC 2: 9 degC  TC 3: -15 degC  TMP1: 24.27 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.27 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 15 degC  TC 1: -9 degC  TC 2: 11 degC  TC 3: -12 degC  TMP1: 24.27 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.27 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 14 degC  TC 1: -10 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.27 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.27 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -13 degC  TMP1: 24.28 degC  TMP2: 23.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.28 degC)  Pin6 Electronics: 53% (TMP2: 23.39 degC)
+TC 0: 16 degC  TC 1: -10 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.29 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.29 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 16 degC  TC 1: -5 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.28 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.28 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 13 degC  TC 1: -10 degC  TC 2: 10 degC  TC 3: -13 degC  TMP1: 24.28 degC  TMP2: 23.32 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.28 degC)  Pin6 Electronics: 55% (TMP2: 23.32 degC)
+TC 0: 13 degC  TC 1: -10 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.30 degC  TMP2: 23.33 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.30 degC)  Pin6 Electronics: 55% (TMP2: 23.33 degC)
+TC 0: 14 degC  TC 1: -10 degC  TC 2: 9 degC  TC 3: -11 degC  TMP1: 24.26 degC  TMP2: 23.36 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.26 degC)  Pin6 Electronics: 54% (TMP2: 23.36 degC)
+TC 0: 14 degC  TC 1: -10 degC  TC 2: 11 degC  TC 3: -13 degC  TMP1: 24.25 degC  TMP2: 23.36 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.25 degC)  Pin6 Electronics: 54% (TMP2: 23.36 degC)
+TC 0: 14 degC  TC 1: -10 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.23 degC  TMP2: 23.35 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 54% (TMP2: 23.35 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -13 degC  TMP1: 24.26 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.26 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 13 degC  TC 1: -10 degC  TC 2: 7 degC  TC 3: -12 degC  TMP1: 24.24 degC  TMP2: 23.36 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 54% (TMP2: 23.36 degC)
+TC 0: 17 degC  TC 1: -12 degC  TC 2: 10 degC  TC 3: -11 degC  TMP1: 24.24 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 12 degC  TC 1: -11 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.23 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 12 degC  TC 3: -14 degC  TMP1: 24.24 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 12 degC  TC 3: -14 degC  TMP1: 24.24 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 15 degC  TC 1: -7 degC  TC 2: 12 degC  TC 3: -12 degC  TMP1: 24.26 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.26 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 14 degC  TC 1: -7 degC  TC 2: 9 degC  TC 3: -12 degC  TMP1: 24.25 degC  TMP2: 23.38 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.25 degC)  Pin6 Electronics: 53% (TMP2: 23.38 degC)
+TC 0: 13 degC  TC 1: -10 degC  TC 2: 10 degC  TC 3: -11 degC  TMP1: 24.29 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.29 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -13 degC  TMP1: 24.30 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.30 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 12 degC  TC 1: -10 degC  TC 2: 11 degC  TC 3: -12 degC  TMP1: 24.29 degC  TMP2: 23.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.29 degC)  Pin6 Electronics: 51% (TMP2: 23.47 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -13 degC  TMP1: 24.29 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.29 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 13 degC  TC 1: -9 degC  TC 2: 9 degC  TC 3: -13 degC  TMP1: 24.29 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.29 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 12 degC  TC 1: -10 degC  TC 2: 11 degC  TC 3: -12 degC  TMP1: 24.29 degC  TMP2: 23.49 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.29 degC)  Pin6 Electronics: 50% (TMP2: 23.49 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.28 degC  TMP2: 23.52 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.28 degC)  Pin6 Electronics: 49% (TMP2: 23.52 degC)
+TC 0: 15 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.25 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.25 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 14 degC  TC 1: -10 degC  TC 2: 7 degC  TC 3: -12 degC  TMP1: 24.27 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.27 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 13 degC  TC 1: -8 degC  TC 2: 11 degC  TC 3: -12 degC  TMP1: 24.22 degC  TMP2: 23.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.22 degC)  Pin6 Electronics: 51% (TMP2: 23.47 degC)
+TC 0: 12 degC  TC 1: -8 degC  TC 2: 12 degC  TC 3: -10 degC  TMP1: 24.24 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 17 degC  TC 1: -10 degC  TC 2: 9 degC  TC 3: -12 degC  TMP1: 24.22 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.22 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 15 degC  TC 1: -10 degC  TC 2: 6 degC  TC 3: -12 degC  TMP1: 24.24 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 12 degC  TC 3: -14 degC  TMP1: 24.23 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 16 degC  TC 1: -10 degC  TC 2: 9 degC  TC 3: -12 degC  TMP1: 24.26 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.26 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 15 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -10 degC  TMP1: 24.26 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.26 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 15 degC  TC 1: -9 degC  TC 2: 12 degC  TC 3: -13 degC  TMP1: 24.27 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.27 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 15 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -11 degC  TMP1: 24.27 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.27 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 9 degC  TC 3: -16 degC  TMP1: 24.30 degC  TMP2: 23.49 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.30 degC)  Pin6 Electronics: 50% (TMP2: 23.49 degC)
+TC 0: 15 degC  TC 1: -10 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.32 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.32 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 15 degC  TC 1: -9 degC  TC 2: 11 degC  TC 3: -13 degC  TMP1: 24.32 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.32 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 14 degC  TC 1: -10 degC  TC 2: 9 degC  TC 3: -13 degC  TMP1: 24.32 degC  TMP2: 23.46 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.32 degC)  Pin6 Electronics: 51% (TMP2: 23.46 degC)
+TC 0: 13 degC  TC 1: -10 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.30 degC  TMP2: 23.50 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.30 degC)  Pin6 Electronics: 50% (TMP2: 23.50 degC)
+TC 0: 14 degC  TC 1: -10 degC  TC 2: 10 degC  TC 3: -12 degC  TMP1: 24.30 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.30 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 13 degC  TC 1: -10 degC  TC 2: 10 degC  TC 3: -13 degC  TMP1: 24.33 degC  TMP2: 23.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.33 degC)  Pin6 Electronics: 51% (TMP2: 23.47 degC)
+TC 0: 14 degC  TC 1: -9 degC  TC 2: 9 degC  TC 3: -13 degC  TMP1: 24.31 degC  TMP2: 23.48 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.31 degC)  Pin6 Electronics: 50% (TMP2: 23.48 degC)
+TC 0: 15 degC  TC 1: -9 degC  TC 2: 10 degC  TC 3: -13 degC  TMP1: 24.34 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.34 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 24.35 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 21% (TMP1: 24.35 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 23 degC  TC 1: 1 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 24.34 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.34 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 25 degC  TC 1: 1 degC  TC 2: 19 degC  TC 3: -4 degC  TMP1: 24.35 degC  TMP2: 23.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 21% (TMP1: 24.35 degC)  Pin6 Electronics: 55% (TMP2: 23.34 degC)
+TC 0: 25 degC  TC 1: 1 degC  TC 2: 22 degC  TC 3: -5 degC  TMP1: 24.35 degC  TMP2: 23.35 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 21% (TMP1: 24.35 degC)  Pin6 Electronics: 54% (TMP2: 23.35 degC)
+TC 0: 23 degC  TC 1: 1 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 24.35 degC  TMP2: 23.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 21% (TMP1: 24.35 degC)  Pin6 Electronics: 53% (TMP2: 23.39 degC)
+TC 0: 25 degC  TC 1: 1 degC  TC 2: 22 degC  TC 3: -5 degC  TMP1: 24.37 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 21% (TMP1: 24.37 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 24 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -4 degC  TMP1: 24.35 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 21% (TMP1: 24.35 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 29 degC  TC 1: -3 degC  TC 2: 21 degC  TC 3: -2 degC  TMP1: 24.34 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.34 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 25 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -3 degC  TMP1: 24.34 degC  TMP2: 23.46 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.34 degC)  Pin6 Electronics: 51% (TMP2: 23.46 degC)
+TC 0: 24 degC  TC 1: 1 degC  TC 2: 21 degC  TC 3: -2 degC  TMP1: 24.33 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.33 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 25 degC  TC 1: 1 degC  TC 2: 21 degC  TC 3: -5 degC  TMP1: 24.32 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.32 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 26 degC  TC 1: 1 degC  TC 2: 21 degC  TC 3: -4 degC  TMP1: 24.35 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 21% (TMP1: 24.35 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 24 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -4 degC  TMP1: 24.33 degC  TMP2: 23.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.33 degC)  Pin6 Electronics: 53% (TMP2: 23.39 degC)
+TC 0: 26 degC  TC 1: 0 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 24.34 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 21% (TMP1: 24.34 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 26 degC  TC 1: 2 degC  TC 2: 20 degC  TC 3: -4 degC  TMP1: 24.35 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 21% (TMP1: 24.35 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 26 degC  TC 1: 0 degC  TC 2: 20 degC  TC 3: -3 degC  TMP1: 24.32 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.32 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 25 degC  TC 1: 1 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 24.32 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.32 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 25 degC  TC 1: 0 degC  TC 2: 20 degC  TC 3: -3 degC  TMP1: 24.33 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.33 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 25 degC  TC 1: 3 degC  TC 2: 20 degC  TC 3: -3 degC  TMP1: 24.30 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.30 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 26 degC  TC 1: 1 degC  TC 2: 19 degC  TC 3: -5 degC  TMP1: 24.31 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.31 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 25 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -4 degC  TMP1: 24.31 degC  TMP2: 23.38 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 22% (TMP1: 24.31 degC)  Pin6 Electronics: 53% (TMP2: 23.38 degC)
+TC 0: 27 degC  TC 1: -2 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 24.27 degC  TMP2: 23.36 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.27 degC)  Pin6 Electronics: 54% (TMP2: 23.36 degC)
+TC 0: 22 degC  TC 1: 1 degC  TC 2: 21 degC  TC 3: -4 degC  TMP1: 24.29 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.29 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 24 degC  TC 1: 2 degC  TC 2: 21 degC  TC 3: -5 degC  TMP1: 24.30 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 23% (TMP1: 24.30 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 25 degC  TC 1: 1 degC  TC 2: 21 degC  TC 3: -2 degC  TMP1: 24.27 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.27 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 20 degC  TC 3: -6 degC  TMP1: 24.26 degC  TMP2: 23.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.26 degC)  Pin6 Electronics: 51% (TMP2: 23.47 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 24.24 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 24.23 degC  TMP2: 23.46 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 51% (TMP2: 23.46 degC)
+TC 0: 26 degC  TC 1: 4 degC  TC 2: 20 degC  TC 3: -4 degC  TMP1: 24.23 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 24 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -4 degC  TMP1: 24.23 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 24.20 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.20 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 24.20 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.20 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: -6 degC  TMP1: 24.20 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.20 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 25 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -2 degC  TMP1: 24.21 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.21 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 25 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -4 degC  TMP1: 24.23 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 25 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -3 degC  TMP1: 24.23 degC  TMP2: 23.38 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 53% (TMP2: 23.38 degC)
+TC 0: 25 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -4 degC  TMP1: 24.20 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.20 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 26 degC  TC 1: 2 degC  TC 2: 20 degC  TC 3: -4 degC  TMP1: 24.21 degC  TMP2: 23.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.21 degC)  Pin6 Electronics: 55% (TMP2: 23.34 degC)
+TC 0: 23 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -3 degC  TMP1: 24.19 degC  TMP2: 23.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 27% (TMP1: 24.19 degC)  Pin6 Electronics: 55% (TMP2: 23.34 degC)
+TC 0: 24 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -4 degC  TMP1: 24.20 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.20 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 24 degC  TC 1: 2 degC  TC 2: 20 degC  TC 3: -2 degC  TMP1: 24.23 degC  TMP2: 23.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 55% (TMP2: 23.34 degC)
+TC 0: 25 degC  TC 1: 1 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 24.23 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 24 degC  TC 1: 1 degC  TC 2: 19 degC  TC 3: -4 degC  TMP1: 24.24 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 28 degC  TC 1: 1 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 24.26 degC  TMP2: 23.40 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 24% (TMP1: 24.26 degC)  Pin6 Electronics: 53% (TMP2: 23.40 degC)
+TC 0: 24 degC  TC 1: 2 degC  TC 2: 22 degC  TC 3: -7 degC  TMP1: 24.24 degC  TMP2: 23.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 53% (TMP2: 23.39 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: -4 degC  TMP1: 24.24 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: -4 degC  TMP1: 24.23 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 24 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -4 degC  TMP1: 24.25 degC  TMP2: 23.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.25 degC)  Pin6 Electronics: 53% (TMP2: 23.39 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 22 degC  TC 3: -5 degC  TMP1: 24.24 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 21 degC  TC 3: -3 degC  TMP1: 24.24 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: -4 degC  TMP1: 24.23 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: -4 degC  TMP1: 24.21 degC  TMP2: 23.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.21 degC)  Pin6 Electronics: 51% (TMP2: 23.47 degC)
+TC 0: 24 degC  TC 1: 1 degC  TC 2: 19 degC  TC 3: -4 degC  TMP1: 24.20 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.20 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 24 degC  TC 1: 1 degC  TC 2: 20 degC  TC 3: -3 degC  TMP1: 24.19 degC  TMP2: 23.44 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 27% (TMP1: 24.19 degC)  Pin6 Electronics: 52% (TMP2: 23.44 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: -4 degC  TMP1: 24.17 degC  TMP2: 23.40 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 27% (TMP1: 24.17 degC)  Pin6 Electronics: 53% (TMP2: 23.40 degC)
+TC 0: 24 degC  TC 1: 2 degC  TC 2: 20 degC  TC 3: -4 degC  TMP1: 24.20 degC  TMP2: 23.38 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.20 degC)  Pin6 Electronics: 53% (TMP2: 23.38 degC)
+TC 0: 24 degC  TC 1: 2 degC  TC 2: 20 degC  TC 3: -4 degC  TMP1: 24.21 degC  TMP2: 23.40 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.21 degC)  Pin6 Electronics: 53% (TMP2: 23.40 degC)
+TC 0: 24 degC  TC 1: 1 degC  TC 2: 19 degC  TC 3: -4 degC  TMP1: 24.22 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.22 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 24 degC  TC 1: 2 degC  TC 2: 20 degC  TC 3: -1 degC  TMP1: 24.22 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.22 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 21 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: -3 degC  TMP1: 24.21 degC  TMP2: 23.40 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.21 degC)  Pin6 Electronics: 53% (TMP2: 23.40 degC)
+TC 0: 24 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: -4 degC  TMP1: 24.23 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 24 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: -3 degC  TMP1: 24.22 degC  TMP2: 23.40 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.22 degC)  Pin6 Electronics: 53% (TMP2: 23.40 degC)
+TC 0: 23 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: -3 degC  TMP1: 24.24 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 25 degC  TC 1: 4 degC  TC 2: 17 degC  TC 3: -4 degC  TMP1: 24.23 degC  TMP2: 23.36 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 54% (TMP2: 23.36 degC)
+TC 0: 24 degC  TC 1: 1 degC  TC 2: 19 degC  TC 3: 0 degC  TMP1: 24.22 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.22 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 26 degC  TC 1: -1 degC  TC 2: 20 degC  TC 3: -2 degC  TMP1: 24.24 degC  TMP2: 23.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 55% (TMP2: 23.34 degC)
+TC 0: 23 degC  TC 1: 2 degC  TC 2: 20 degC  TC 3: -2 degC  TMP1: 24.21 degC  TMP2: 23.36 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.21 degC)  Pin6 Electronics: 54% (TMP2: 23.36 degC)
+TC 0: 25 degC  TC 1: 3 degC  TC 2: 19 degC  TC 3: -3 degC  TMP1: 24.20 degC  TMP2: 23.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.20 degC)  Pin6 Electronics: 55% (TMP2: 23.34 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 20 degC  TC 3: -2 degC  TMP1: 24.21 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.21 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 24 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: -2 degC  TMP1: 24.20 degC  TMP2: 23.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.20 degC)  Pin6 Electronics: 53% (TMP2: 23.39 degC)
+TC 0: 23 degC  TC 1: 2 degC  TC 2: 20 degC  TC 3: -2 degC  TMP1: 24.23 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 17 degC  TC 3: -5 degC  TMP1: 24.21 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.21 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 23 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: -2 degC  TMP1: 24.20 degC  TMP2: 23.36 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.20 degC)  Pin6 Electronics: 54% (TMP2: 23.36 degC)
+TC 0: 25 degC  TC 1: 2 degC  TC 2: 20 degC  TC 3: -3 degC  TMP1: 24.17 degC  TMP2: 23.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 27% (TMP1: 24.17 degC)  Pin6 Electronics: 53% (TMP2: 23.39 degC)
+TC 0: 23 degC  TC 1: 1 degC  TC 2: 19 degC  TC 3: -2 degC  TMP1: 24.16 degC  TMP2: 23.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 27% (TMP1: 24.16 degC)  Pin6 Electronics: 55% (TMP2: 23.34 degC)
+TC 0: 24 degC  TC 1: 2 degC  TC 2: 19 degC  TC 3: -1 degC  TMP1: 24.17 degC  TMP2: 23.35 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 27% (TMP1: 24.17 degC)  Pin6 Electronics: 54% (TMP2: 23.35 degC)
+TC 0: 24 degC  TC 1: 2 degC  TC 2: 17 degC  TC 3: -2 degC  TMP1: 24.16 degC  TMP2: 23.35 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 27% (TMP1: 24.16 degC)  Pin6 Electronics: 54% (TMP2: 23.35 degC)
+TC 0: 24 degC  TC 1: 3 degC  TC 2: 19 degC  TC 3: -2 degC  TMP1: 24.21 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.21 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 18 degC  TC 1: 0 degC  TC 2: 16 degC  TC 3: -5 degC  TMP1: 24.20 degC  TMP2: 23.36 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.20 degC)  Pin6 Electronics: 54% (TMP2: 23.36 degC)
+TC 0: 20 degC  TC 1: 0 degC  TC 2: 16 degC  TC 3: -4 degC  TMP1: 24.21 degC  TMP2: 23.34 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.21 degC)  Pin6 Electronics: 55% (TMP2: 23.34 degC)
+TC 0: 21 degC  TC 1: -1 degC  TC 2: 15 degC  TC 3: -6 degC  TMP1: 24.21 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.21 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 21 degC  TC 1: -1 degC  TC 2: 16 degC  TC 3: -7 degC  TMP1: 24.24 degC  TMP2: 23.38 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.24 degC)  Pin6 Electronics: 53% (TMP2: 23.38 degC)
+TC 0: 20 degC  TC 1: -1 degC  TC 2: 16 degC  TC 3: -5 degC  TMP1: 24.23 degC  TMP2: 23.38 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 53% (TMP2: 23.38 degC)
+TC 0: 21 degC  TC 1: -1 degC  TC 2: 14 degC  TC 3: -6 degC  TMP1: 24.23 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 20 degC  TC 1: -1 degC  TC 2: 15 degC  TC 3: -5 degC  TMP1: 24.20 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.20 degC)  Pin6 Electronics: 53% (TMP2: 23.41 degC)
+TC 0: 21 degC  TC 1: 0 degC  TC 2: 16 degC  TC 3: -5 degC  TMP1: 24.23 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 25% (TMP1: 24.23 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 21 degC  TC 1: 0 degC  TC 2: 18 degC  TC 3: -5 degC  TMP1: 24.21 degC  TMP2: 23.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 26% (TMP1: 24.21 degC)  Pin6 Electronics: 51% (TMP2: 23.47 degC)
+TC 0: 21 degC  TC 1: -2 degC  TC 2: 13 degC  TC 3: -5 degC  TMP1: 24.16 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 27% (TMP1: 24.16 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 19 degC  TC 1: -1 degC  TC 2: 16 degC  TC 3: -5 degC  TMP1: 24.18 degC  TMP2: 23.49 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 27% (TMP1: 24.18 degC)  Pin6 Electronics: 50% (TMP2: 23.49 degC)
+TC 0: 20 degC  TC 1: -1 degC  TC 2: 15 degC  TC 3: -5 degC  TMP1: 24.17 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 27% (TMP1: 24.17 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 21 degC  TC 1: -1 degC  TC 2: 15 degC  TC 3: -5 degC  TMP1: 24.18 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 27% (TMP1: 24.18 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 15 degC  TC 3: -5 degC  TMP1: 24.17 degC  TMP2: 23.47 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 27% (TMP1: 24.17 degC)  Pin6 Electronics: 51% (TMP2: 23.47 degC)
+TC 0: 20 degC  TC 1: -1 degC  TC 2: 16 degC  TC 3: -5 degC  TMP1: 24.15 degC  TMP2: 23.46 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 28% (TMP1: 24.15 degC)  Pin6 Electronics: 51% (TMP2: 23.46 degC)
+TC 0: 20 degC  TC 1: 0 degC  TC 2: 15 degC  TC 3: -5 degC  TMP1: 24.12 degC  TMP2: 23.46 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 29% (TMP1: 24.12 degC)  Pin6 Electronics: 51% (TMP2: 23.46 degC)
+TC 0: 23 degC  TC 1: -2 degC  TC 2: 13 degC  TC 3: -5 degC  TMP1: 24.09 degC  TMP2: 23.44 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 30% (TMP1: 24.09 degC)  Pin6 Electronics: 52% (TMP2: 23.44 degC)
+TC 0: 21 degC  TC 1: -2 degC  TC 2: 13 degC  TC 3: -5 degC  TMP1: 24.08 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 30% (TMP1: 24.08 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 20 degC  TC 1: -1 degC  TC 2: 15 degC  TC 3: -5 degC  TMP1: 24.09 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 30% (TMP1: 24.09 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 18 degC  TC 1: -1 degC  TC 2: 16 degC  TC 3: -5 degC  TMP1: 24.05 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 31% (TMP1: 24.05 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 21 degC  TC 1: -1 degC  TC 2: 13 degC  TC 3: -5 degC  TMP1: 24.05 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 31% (TMP1: 24.05 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 17 degC  TC 1: -1 degC  TC 2: 16 degC  TC 3: -5 degC  TMP1: 24.06 degC  TMP2: 23.43 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 31% (TMP1: 24.06 degC)  Pin6 Electronics: 52% (TMP2: 23.43 degC)
+TC 0: 20 degC  TC 1: -2 degC  TC 2: 15 degC  TC 3: -4 degC  TMP1: 24.08 degC  TMP2: 23.45 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 30% (TMP1: 24.08 degC)  Pin6 Electronics: 51% (TMP2: 23.45 degC)
+TC 0: 21 degC  TC 1: 0 degC  TC 2: 13 degC  TC 3: -2 degC  TMP1: 24.04 degC  TMP2: 23.41 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 32% (TMP1: 24.04 degC)  Pin6 Electronics: 52% (TMP2: 23.41 degC)
+TC 0: 20 degC  TC 1: 0 degC  TC 2: 15 degC  TC 3: -5 degC  TMP1: 24.05 degC  TMP2: 23.42 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 31% (TMP1: 24.05 degC)  Pin6 Electronics: 52% (TMP2: 23.42 degC)
+TC 0: 20 degC  TC 1: -1 degC  TC 2: 16 degC  TC 3: -5 degC  TMP1: 24.09 degC  TMP2: 23.38 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 30% (TMP1: 24.09 degC)  Pin6 Electronics: 53% (TMP2: 23.38 degC)
+TC 0: 21 degC  TC 1: -1 degC  TC 2: 16 degC  TC 3: -5 degC  TMP1: 24.10 degC  TMP2: 23.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 29% (TMP1: 24.10 degC)  Pin6 Electronics: 53% (TMP2: 23.39 degC)
+TC 0: 19 degC  TC 1: -2 degC  TC 2: 17 degC  TC 3: -7 degC  TMP1: 24.09 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 30% (TMP1: 24.09 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 22 degC  TC 1: -1 degC  TC 2: 13 degC  TC 3: -6 degC  TMP1: 24.12 degC  TMP2: 23.39 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 29% (TMP1: 24.12 degC)  Pin6 Electronics: 53% (TMP2: 23.39 degC)
+TC 0: 20 degC  TC 1: -1 degC  TC 2: 14 degC  TC 3: -5 degC  TMP1: 24.09 degC  TMP2: 23.37 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 30% (TMP1: 24.09 degC)  Pin6 Electronics: 54% (TMP2: 23.37 degC)
+TC 0: 20 degC  TC 1: -1 degC  TC 2: 14 degC  TC 3: -6 degC  TMP1: 24.10 degC  TMP2: 23.32 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 29% (TMP1: 24.10 degC)  Pin6 Electronics: 55% (TMP2: 23.32 degC)
+TC 0: 20 degC  TC 1: -1 degC  TC 2: 14 degC  TC 3: -7 degC  TMP1: 24.09 degC  TMP2: 23.30 degC
+Relay Duty Cycles - Pin9 Lights: 67%  Pin10 Battery: 50%  Pin11 Life Support: 30% (TMP1: 24.09 degC)  Pin6 Electronics: 56% (TMP2: 23.30 degC)

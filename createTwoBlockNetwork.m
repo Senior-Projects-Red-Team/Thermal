@@ -1,10 +1,11 @@
 function [network] = createTwoBlockNetwork(constants)
 
-Greenhouse_Temp = 25 + 273.15;
+Greenhouse_Temp = 20 + 273.15;
 Regolith_Temp = 125;
 h_conv = 25; % Estimate from research may need to be fixed. (Must be >8 for heaters. If < 2 Electronics and Life Support Meaningfully Diverge)
              % Note that increasing h to 50 did not meaningfully affect the
              % system.
+h_heaters = 16;
 %% Heater Properties
 % Water Heater 1 -> 1
 % Electronics Heater 2 -> 2
@@ -15,7 +16,7 @@ Masses_Heaters = zeros(4,1) + constants.greenhouse.HeaterMass;
 Qs_Heaters = Masses_Heaters.*Cps_Heaters.*Greenhouse_Temp;
 
 Rs_Heaters(1) = 0.5; % Estimate fix later.
-Rs_Heaters(2:4) = Rs_Heaters(2:4) + 1/(h_conv*constants.greenhouse.HeaterArea);
+Rs_Heaters(2:4) = Rs_Heaters(2:4) + 1/(h_heaters*constants.greenhouse.HeaterArea);
 
 %% Structure Properties
 Rs_Structure = zeros(4,1);
@@ -56,7 +57,7 @@ Masses_Internals = zeros(3,1);
 Cps_Internals = zeros(3,1);
 Rs_Internals = zeros(3,1);
 
-Masses_Internals(1) = constants.greenhouse.water_mass;
+Masses_Internals(1) = 0.001; % Temporarily 0.01 for representing no water in greenhouse %constants.greenhouse.water_mass;
 Masses_Internals(2:3) = Masses_Internals(2:3) + (constants.greenhouse.VolWorking/2) * constants.greenhouse.atm_density; % Assumes each module has 1/2 of air.
 
 Cps_Internals(1) = constants.greenhouse.water_cp;

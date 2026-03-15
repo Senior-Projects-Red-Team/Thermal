@@ -7,19 +7,19 @@ sunset = 0.1; % Length of a sunset/rise in minutes
 t_eff = mod(t,(24*3600)); % gets time in 24 hour increments
 t_eff_hours = t_eff/3600; % Used for debugging and integral control.
 
-if(t_eff >= 16*3600) % Catches Sunset
-    light_percentage = 1-(t_eff - 16*3600)/(60*sunset);
-    Qlights_Actual = Q_Lights * light_percentage;
-end
-
-if(t_eff >= 16*3600 + 60*sunset) % Post-Sunset
-    Qlights_Actual = 0;
-end
-
-if(t_eff >= 24*3600 - 60 *sunset) % Catches Sunrise
-    light_percentage = (t_eff - (24*3600 - 60 *sunset))/(60*sunset);
-    Qlights_Actual = Q_Lights * light_percentage;
-end
+% if(t_eff >= 16*3600) % Catches Sunset
+%     light_percentage = 1-(t_eff - 16*3600)/(60*sunset);
+%     Qlights_Actual = Q_Lights * light_percentage;
+% end
+% 
+% if(t_eff >= 16*3600 + 60*sunset) % Post-Sunset
+%     Qlights_Actual = 0;
+% end
+% 
+% if(t_eff >= 24*3600 - 60 *sunset) % Catches Sunrise
+%     light_percentage = (t_eff - (24*3600 - 60 *sunset))/(60*sunset);
+%     Qlights_Actual = Q_Lights * light_percentage;
+% end
 
 % if( mod((t/3600),24) > 16 ) % Turns off the lights for 8 hours a day.
 %     Qlights_Actual = 0;
@@ -62,6 +62,10 @@ Masses_Destinations = Masses(11:13);
 Ts_Destinations = Qs_Destinations./(Masses_Destinations.*Cps_Destinations);
 Qdots_Destinations = zeros(3,1);
 
+if t < 2560
+    Q_gen = 0;
+    Qlights_Actual = 0;
+end
 
 
 %% Lighting Effect
@@ -105,16 +109,18 @@ Qdots_Structure(4) = Qdots_Structure(4) + (Ts_Structure(3) - Ts_Structure(4))/Rs
 T_maintain = 25 + 273.15;
 
 heating = zeros(4,1);
-for i = 1:3
+for i = 2:3
     if (Ts_Destinations(i) < T_maintain)
         deltaT = (T_maintain)-Ts_Destinations(i);
-        reldT = deltaT / 3;
+        reldT = deltaT / 2.5;
         rel_Int = 0;
         %rel_Int = (((t/(24*3600))+2) * reldT); % Implements integral control. Comment out when not desired.
         relQdots = Qdots_Destinations(i) / (2*heatersMax);
+        relQdots = 0;
         heating(i) = heating(i) + heatersMax * (relQdots+reldT + rel_Int);
         if(i == 3)
             relQdots = Qdots_Destinations(3) / (4*heatersMax);
+            relQdots = 0;
             heating(3) = heatersMax * (relQdots+reldT + rel_Int);
             heating(4) = heatersMax * (relQdots+reldT + rel_Int);
         end
@@ -128,6 +134,11 @@ for i = 1:4
         heating(i) = heatersMax;
     end
 end
+
+if t < 2560
+    heating = heating.*0;
+end
+
 % Heaters
 Qdots_Heaters = heating(1:4);
 Qdots_Heaters(1:2) = Qdots_Heaters(1:2) - (Ts_Heaters(1:2) - Ts_Destinations(1:2))./(Rs_Heaters(1:2));
